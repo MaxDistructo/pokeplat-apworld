@@ -1,0 +1,297 @@
+{
+    "REGION_SKY":{
+        "parent_map": "MAP_TWINLEAF_TOWN",
+        "locations": [],
+        "events": [],
+        "exits": [
+            "REGION_TWINLEAF_TOWN/MAIN"
+        ]
+    },
+    "REGION_TWINLEAF_TOWN/MAIN":{
+        "parent_map": "MAP_TWINLEAF_TOWN",
+        "events":["EVENT_VISITED_TWINLEAF_TOWN"],
+        "exits":[
+            "REGION_ROUTE201/MAIN",
+            "REGION_SKY",
+            "REGION_PLAYERS_HOUSE/MAIN",
+            "REGION_RIVALS_HOUSE/MAIN",
+            "REGION_TWINLEAF_TOWN_HOUSE1",
+            "REGION_TWINLEAF_TOWN_HOUSE2"
+        ]
+    },
+    "REGION_SANDGEM_TOWN/MAIN":{
+        "parent_map": "MAP_SANDGEM_TOWN",
+        "events": [
+            "EVENT_VISITED_SANDGEM_TOWN"
+        ],
+        "exits": [
+            "REGION_ROUTE201/MAIN",
+            "REGION_ROUTE202/MAIN",
+            "REGION_SANDGEM_TOWN_POKEMON_LAB/MAIN",
+            "REGION_SANDGEM_TOWN_HOUSE1",
+            "REGION_SANDGEM_TOWN_DAWNS_HOUSE",
+            "REGION_SANDGEM_TOWN_POKEMON_CENTER",
+            "REGION_SANDGEM_TOWN_POKEMART",
+            "REGION_ROUTE219/MAIN"
+        ]
+    },
+    "REGION_JUBLIFE_CITY/MAIN":{
+        "parent_map": "MAP_JUBILIFE_CITY",
+        "events": [
+            "EVENT_VISITED_JUBILIFE_CITY"
+        ],
+        "exits": [
+            "REGION_ROUTE202/MAIN",
+            "REGION_ROUTE203/MAIN",
+            "REGION_ROUTE204_S/MAIN",
+            "REGION_ROUTE218/MAIN",
+            "REGION_JUBILIFE_CITY_POKEMON_CENTER/MAIN",
+            "REGION_JUBILIFE_CITY_POKEMART/MAIN",
+            "REGION_JUBILIFE_CITY_TV_STATION/MAIN",
+            "REGION_JUBILIFE_CITY_GTS_BUILDING/MAIN",
+            "REGION_JUBILIFE_CITY_POKETCH_COMPANY/MAIN",
+            "REGION_JUBLIFE_CITY_CONDOMINIUMS/MAIN",
+            "REGION_JUBLIFE_CITY_TRAINER_SCHOOL/MAIN",
+            "REGION_JUBLIFE_CITY_HOUSE1",
+            "REGION_JUBLIFE_CITY_HOUSE2"
+        ]
+    },
+    "REGION_OREBURGH_CITY/MAIN":{
+        "parent_map": "MAP_OREBURGH_CITY",
+        "events": [
+            "EVENT_VISITED_OREBURGH_CITY"
+        ],
+        "exits": [
+            "REGION_ROUTE203/MAIN",
+            "REGION_ROUTE207_S/MAIN",
+            "REGION_OREBURGH_GATE/MAIN",
+            "REGION_OREBURGH_CITY_POKEMON_CENTER/MAIN",
+            "REGION_OREBURGH_CITY_POKEMART/MAIN",
+            "REGION_OREBURGH_CITY_GYM/MAIN",
+            "REGION_OREBURGH_CITY_MUSEUM/MAIN",
+            "REGION_OREBURGH_CITY_HOUSE1",
+            "REGION_OREBURGH_CITY_HOUSE2",
+            "REGION_OREBURGH_CITY_HOUSE3",
+            "REGION_OREBURGH_CITY_HOUSE4",
+            "REGION_OREBURGH_MINE_1"
+        ]
+    },
+    "REGION_ETERNA_CITY/MAIN":{
+        "parent_map": "MAP_ETERNA_CITY",
+        "events": [
+            "EVENT_VISITED_ETERNA_CITY"
+        ],
+        "exits": [
+            "REGION_ROUTE205/MAIN",
+            "REGION_CYCLING_ROAD/MAIN",
+            "REGION_ROUTE211/MAIN",
+            "REGION_ETERNA_CITY_POKEMON_CENTER/MAIN",
+            "REGION_ETERNA_CITY_POKEMART/MAIN",
+            "REGION_ETERNA_CITY_GYM/MAIN",
+            "REGION_ETERNA_CITY_BIKE_SHOP/MAIN",
+            "REGION_GALACTIC_BUILDING/MAIN",
+            "REGION_UNDERGROUND_MANS_HOUSE/MAIN",
+            "REGION_ETERNA_CONDOMINIUMS/MAIN",
+            "REGION_ETERNA_CITY_HOUSE1",
+            "REGION_ETERNA_CITY_HOUSE2",
+            "REGION_ETERNA_CITY_HOUSE3"
+        ]
+    },
+    "REGION_FLORAROMA_TOWN/MAIN":{
+        "parent_map": "MAP_FLORAROMA_TOWN",
+        "events": [
+            "EVENT_VISITED_FLORAROMA_TOWN"
+        ],
+        "exits": [
+            "REGION_ROUTE205_S/MAIN",
+            "REGION_ROUTE204_N/MAIN",
+            "REGION_FLORAROMA_TOWN_POKEMON_CENTER/MAIN",
+            "REGION_FLORAROMA_TOWN_POKEMART/MAIN",
+            "REGION_FLORAROMA_MEADOW/MAIN",
+            "REGION_FLORAROMA_TOWN_FLOWER_SHOP/MAIN",
+            "REGION_FLORAROMA_TOWN_HOUSE1",
+            "REGION_FLORAROMA_TOWN_HOUSE2"
+        ]
+    },
+    "REGION_CANALAVE_CITY/MAIN":{
+        "parent_map": "MAP_CANALAVE_CITY",
+        "events": [
+            "EVENT_VISITED_CANALAVE_CITY"
+        ],
+        "exits": [
+            "REGION_ROUTE218/MAIN",
+            "REGION_CANALAVE_CITY_POKEMON_CENTER/MAIN",
+            "REGION_CANALAVE_CITY_POKEMART/MAIN",
+            "REGION_CANALAVE_CITY_GYM/MAIN",
+            "REGION_CANALAVE_LIBRARY/MAIN",
+            "REGION_CANALAVE_CITY_HOUSE1",
+            "REGION_CANALAVE_CITY_HOUSE2",
+            "REGION_CANALAVE_CITY_HOUSE3",
+            "REGION_CANALAVE_CITY_HOUSE4",
+            "REGION_HARBOR_INN/MAIN",
+            "REGION_IRON_ISLAND/MAIN",
+            "REGION_FULLMOON_ISLAND/MAIN",
+            "REGION_NEWMOON_ISLAND/MAIN"
+        ]
+    },
+    "REGION_HEARTHOME_CITY/MAIN":{
+        "parent_map": "MAP_HEARTHOME_CITY",
+        "events": [
+            "EVENT_VISITED_HEARTHOME_CITY"
+        ],
+        "exits": [
+            "REGION_ROUTE209/MAIN",
+            "REGION_ROUTE212/MAIN",
+            "REGION_ROUTE208/MAIN",
+            "REGION_HEARTHOME_CITY_POKEMON_CENTER/MAIN",
+            "REGION_HEARTHOME_CITY_POKEMART/MAIN",
+            "REGION_HEARTHOME_CITY_CONTEST_HALL/MAIN",
+            "REGION_HEARTHHOME_CITY_GYM/MAIN",
+            "REGION_HEARTHHOME_CITY_CHURCH/MAIN",
+            "REGION_HEARTHOME_CITY_POKEMON_FAN_CLUB/MAIN",
+            "REGION_HEARTHOME_CITY_POFFIN_HOUSE/MAIN",
+            "REGION_AMITY_SQUARE/MAIN",
+            "REGION_HEARTHHOME_CITY_HOUSE1",
+            "REGION_HEARTHHOME_CITY_HOUSE2",
+            "REGION_HEARTHOME_CITY_HOUSE3"
+        ]
+    },
+    "REGION_PASTORIA_CITY/MAIN":{
+        "parent_map": "MAP_PASTORIA_CITY",
+        "events": [
+            "EVENT_VISITED_PASTORIA_CITY"
+        ],
+        "exits": [
+            "REGION_ROUTE212/MAIN",
+            "REGION_ROUTE213_S/MAIN",
+            "REGION_PASTORIA_CITY_POKEMON_CENTER/MAIN",
+            "REGION_PASTORIA_CITY_POKEMART/MAIN",
+            "REGION_PASTORIA_CITY_GYM/MAIN",
+            "REGION_PASTORIA_CITY_HOUSE1",
+            "REGION_PASTORIA_CITY_HOUSE2",
+            "REGION_PASTORIA_CITY_HOUSE3",
+            "REGION_PASTORIA_CITY_HOUSE4",
+            "REGION_PASTORIA_CITY_HOUSE5",
+            "REGION_GREAT_MARSH/MAIN"
+        ]
+    },
+    "REGION_VEILSTONE_CITY/MAIN":{
+        "parent_map": "MAP_VEILSTONE_CITY",
+        "events": [
+            "EVENT_VISITED_VEILSTONE_CITY"
+        ],
+        "exits": [
+            "REGION_ROUTE214/MAIN",
+            "REGION_ROUTE215/MAIN",
+            "REGION_VEILSTONE_CITY_POKEMON_CENTER/MAIN",
+            "REGION_VEILSTONE_CITY_POKEMART/MAIN",
+            "REGION_VEILSTONE_CITY_GYM/MAIN",
+            "REGION_VEILSTONE_CITY_GAME_CORNER/MAIN",
+            "REGION_VEILSTONE_CITY_PRIZE_EXCHANGE/MAIN",
+            "REGION_VEILSTONE_CITY_DEPARTMENT_STORE/MAIN",
+            "REGION_GALACTIC_HQ/MAIN",
+            "REGION_GALACTIC_WAREHOUSE/MAIN",            
+            "REGION_VEILSTONE_CITY_HOUSE1",
+            "REGION_VEILSTONE_CITY_HOUSE2",
+            "REGION_VEILSTONE_CITY_HOUSE3",
+            "REGION_VEILSTONE_CITY_HOUSE4"
+        ]
+    },
+    "REGION_SOLACEON_TOWN/MAIN":{
+        "parent_map": "MAP_SOLACEON_TOWN",
+        "events": [
+            "EVENT_VISITED_SOLACEON_TOWN"
+        ],
+        "exits": [
+            "REGION_ROUTE209/MAIN",
+            "REGION_ROUTE210_S/MAIN",
+            "REGION_SOLACEON_TOWN_POKEMON_CENTER/MAIN",
+            "REGION_SOLACEON_TOWN_POKEMART/MAIN",
+            "REGION_DAYCARE/MAIN",
+            "REGION_SOLACEON_TOWN_HOUSE1",
+            "REGION_SOLACEON_TOWN_HOUSE2",
+            "REGION_SOLACEON_TOWN_SEAL_HOUSE",
+            "REGION_NEWS_CENTER",
+            "REGION_SOLACEON_RUINS/MAIN"
+        ]
+    },
+    "REGION_CELESTIC_TOWN/MAIN":{
+        "parent_map": "MAP_CELESTIC_TOWN",
+        "events": [
+            "EVENT_VISITED_CELESTIC_TOWN"
+        ],
+        "exits": [
+            "REGION_ROUTE210_N/MAIN",
+            "REGION_ROUTE211/MAIN",
+            "REGION_CELESTIC_TOWN_POKEMON_CENTER/MAIN",
+            "REGION_CELESTIC_RUINS/MAIN",
+            "REGION_CELESTIC_TOWN_HOUSE1",
+            "REGION_CELESTIC_TOWN_HOUSE2",
+            "REGION_CELESTIC_TOWN_HOUSE3",
+            "REGION_CELESTIC_TOWN_HOUSE4"
+        ]
+    },
+    "REGION_SNOWPOINT_CITY/MAIN":{
+        "parent_map": "MAP_SNOWPOINT_CITY",
+        "events": [
+            "EVENT_VISITED_SNOWPOINT_CITY"
+        ],
+        "exits": [
+            "REGION_ROUTE217/MAIN",
+            "REGION_SNOWPOINT_CITY_POKEMON_CENTER/MAIN",
+            "REGION_SNOWPOINT_CITY_POKEMART/MAIN",
+            "REGION_SNOWPOINT_CITY_GYM/MAIN",
+            "REGION_SNOWPOINT_CITY_HOUSE1",
+            "REGION_SNOWPOINT_CITY_HOUSE2",
+            "REGION_SNOWPOINT_SNOWPOINT_TEMPLE/MAIN",
+            "REGION_FIGHT_AREA/MAIN"
+        ]
+    },
+    "REGION_SUNYSHORE_CITY/MAIN":{
+        "parent_map": "MAP_SUNYSHORE_CITY",
+        "events": [
+            "EVENT_VISITED_SUNYSHORE_CITY"
+        ],
+        "exits": [
+            "REGION_ROUTE222/MAIN",
+            "REGION_ROUTE223/MAIN",
+            "REGION_SUNYSHORE_CITY_POKEMON_CENTER/MAIN",
+            "REGION_SUNYSHORE_CITY_POKEMART/MAIN",
+            "REGION_SUNYSHORE_CITY_GYM/MAIN",
+            "REGION_SUNYSHORE_CITY_LIGHTHOUSE/MAIN",
+            "REGION_SUNYSHORE_CITY_MARKET",
+            "REGION_SUNYSHORE_CITY_HOUSE1",
+            "REGION_SUNYSHORE_CITY_HOUSE2",
+            "REGION_SUNYSHORE_CITY_HOUSE3"
+        ]
+    },
+    "REGION_FIGHT_AREA":{
+        "parent_map": "MAP_FIGHT_AREA",
+        "events": [
+            "EVENT_VISITED_FIGHT_AREA"
+        ],
+        "exits": [
+            "REGION_ROUTE225/MAIN",
+            "REGION_ROUTE230/MAIN"
+        ]
+    },
+    "REGION_SURVIVAL_AREA":{
+        "parent_map": "MAP_SURVIVAL_AREA",
+        "events": [
+            "EVENT_VISITED_SURVIVAL_AREA"
+        ],
+        "exits": [
+            "REGION_ROUTE225/MAIN",
+            "REGION_ROUTE226/MAIN"
+        ]
+    },
+    "REGION_RESORT_AREA":{
+        "parent_map": "MAP_RESORT_AREA",
+        "events": [
+            "EVENT_VISITED_RESORT_AREA"
+        ],
+        "exits": [
+            "REGION_ROUTE229/MAIN"
+        ]
+    }
+}
