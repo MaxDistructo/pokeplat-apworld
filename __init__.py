@@ -1,9 +1,10 @@
+import json
 import settings
 import typing
 from .options import PokemonPlatinumGameOptions  # the options we defined earlier
 from .items import mygame_items  # data used below to add items to the World
 from .locations import mygame_locations  # same as above'
-from .statics import GAME_NAME
+from .statics import BASE_ID, GAME_NAME
 from worlds.AutoWorld import World
 from BaseClasses import Region, Location, Entrance, Item, RegionType, ItemClassification
 
@@ -33,7 +34,7 @@ class MyGameWorld(World):
 
     # ID of first item and location, could be hard-coded but code may be easier
     # to read with this as a property.
-    base_id = 1234
+    base_id = BASE_ID
     # instead of dynamic numbering, IDs could be part of data
 
     # The following two dicts are required for the generation to know which
@@ -44,8 +45,11 @@ class MyGameWorld(World):
     location_name_to_id = {name: id for
                            id, name in enumerate(mygame_locations, base_id)}
 
-    # Items can be grouped using their names to allow easy checking if any item
-    # from that group has been collected. Group names can also be used for !hint
-    item_name_groups = {
-        "weapons": {"sword", "lance"},
-    }
+    def generate_early(self) -> None:
+        item_pool = []
+        if self.options.overworld_items:
+            visible_items = json.loads("./data/items.json")
+        if self.options.hidden_items:
+            hidden_items = json.loads("./data/hidden_items.json")
+        if self.options.trainer_checks:
+            trainer_checks = json.loads("./data/trainers.json")

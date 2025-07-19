@@ -98,6 +98,32 @@ class BlindTrainers(Toggle):
     """
     display_name = "Blind Trainers"
 
+class TrainerSanity(Choice):
+    """
+    Randomizes trainers, their levels and their parties.
+
+    - Off: No randomization
+    - Shuffle: Trainers are shuffled among each other
+    - Completely Random: Trainers are completely randomized
+    """
+    display_name = "Trainersanity"
+    default = 0
+    option_off = 0
+    option_shuffle = 1
+    option_completely_random = 2
+
+class TrainerChecks(Choice):
+    """
+    Determines if trainer checks are enabled.
+
+    - Off: No trainer checks
+    - On: Trainer checks are enabled
+    """
+    display_name = "Trainer Checks"
+    default = 0
+    option_off = 0
+    option_on = 1
+
 class PokemonPlatinumGameOptions(PerGameCommonOptions):
     goal: Goal
     badges: RandomizeBadges
@@ -108,6 +134,8 @@ class PokemonPlatinumGameOptions(PerGameCommonOptions):
     overworld_items: RandomizeOverworldItems
     hidden_items: RandomizeHiddenItems
     npc_gifts: RandomizeNpcGifts
+    trainersanity: TrainerSanity
+    trainer_checks: TrainerChecks
     
     exp_modifier: ExpModifier
     blind_trainers: BlindTrainers

@@ -4,8 +4,10 @@ from worlds.pokemonplatinum.statics import GAME_NAME
 
 class PokemonPlatinumItem(Item):
     game = GAME_NAME
-    item_name: str
-    flag_id: int
+    region: str
+    flag: int
+    id: str
+    item_count: int
 
     def __init__(self, name: str, player: str, location_name: str, item_name: str):
         super().__init__(name, player, location_name)
@@ -14,6 +16,3 @@ class PokemonPlatinumItem(Item):
     def __str__(self) -> str:
         return f"{self.item_name} at {self.location_name} ({self.player})"
     
-GAME_ITEMS = {
-    PokemonPlatinumItem("")
-}
