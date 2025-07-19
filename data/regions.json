@@ -1,0 +1,3569 @@
+[
+    {
+        "name": "REGION_ACUITY_CAVERN/MAIN",
+        "exits": [
+            "REGION_LAKE_ACUITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ACUITY_LAKEFRONT/MAIN",
+        "exits": [
+            "REGION_LAKE_ACUITY/MAIN",
+            "REGION_LAKE_ACUITY_LOW_WATER/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_AMITY_SQUARE/MAIN",
+        "exits": [
+            "REGION_HEARTHOME_CITY_WEST_GATE_TO_AMITY_SQUARE/MAIN",
+            "REGION_HEARTHOME_CITY_EAST_GATE_TO_AMITY_SQUARE/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_BATTLEGROUND/MAIN",
+        "exits": [
+            "REGION_SURVIVAL_AREA/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_BATTLE_ARCADE/MAIN",
+        "exits": [
+            "REGION_BATTLE_FRONTIER/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_BATTLE_CASTLE/MAIN",
+        "exits": [
+            "REGION_BATTLE_FRONTIER/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_BATTLE_FACTORY/MAIN",
+        "exits": [
+            "REGION_BATTLE_FRONTIER/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_BATTLE_FRONTIER/MAIN",
+        "exits": [
+            "REGION_BATTLE_FACTORY/MAIN",
+            "REGION_BATTLE_TOWER/MAIN",
+            "REGION_BATTLE_CASTLE/MAIN",
+            "REGION_BATTLE_ARCADE/MAIN",
+            "REGION_BATTLE_HALL/MAIN",
+            "REGION_BATTLE_FRONTIER_GATE_TO_FIGHT_AREA/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_BATTLE_FRONTIER_GATE_TO_FIGHT_AREA/MAIN",
+        "exits": [
+            "REGION_BATTLE_FRONTIER/MAIN",
+            "REGION_FIGHT_AREA/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_BATTLE_HALL/MAIN",
+        "exits": [
+            "REGION_BATTLE_FRONTIER/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_BATTLE_PARK/MAIN",
+        "exits": [
+            "REGION_BATTLE_PARK_GATE_TO_FIGHT_AREA/MAIN",
+            "REGION_BATTLE_PARK_EXCHANGE_SERVICE_CORNER/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_BATTLE_PARK_EXCHANGE_SERVICE_CORNER/MAIN",
+        "exits": [
+            "REGION_BATTLE_PARK/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_BATTLE_PARK_GATE_TO_FIGHT_AREA/MAIN",
+        "exits": [
+            "REGION_BATTLE_PARK/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_BATTLE_TOWER/MAIN",
+        "exits": [
+            "REGION_BATTLE_FRONTIER/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_BATTLE_TOWER_BATTLE_ROOM/MAIN",
+        "exits": []
+    },
+    {
+        "name": "REGION_BATTLE_TOWER_BATTLE_SALON/MAIN",
+        "exits": []
+    },
+    {
+        "name": "REGION_BATTLE_TOWER_CORRIDOR/MAIN",
+        "exits": []
+    },
+    {
+        "name": "REGION_BATTLE_TOWER_CORRIDOR_MULTI/MAIN",
+        "exits": []
+    },
+    {
+        "name": "REGION_BATTLE_TOWER_ELEVATOR/MAIN",
+        "exits": []
+    },
+    {
+        "name": "REGION_BATTLE_TOWER_MULTI_BATTLE_ROOM/MAIN",
+        "exits": []
+    },
+    {
+        "name": "REGION_CAFE/MAIN",
+        "exits": [
+            "REGION_ROUTE_210_SOUTH/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_CANALAVE_CITY/MAIN",
+        "exits": [
+            "REGION_CANALAVE_CITY_SOUTHEAST_HOUSE/MAIN",
+            "REGION_CANALAVE_CITY_EAST_HOUSE/MAIN",
+            "REGION_CANALAVE_CITY_MART/MAIN",
+            "REGION_CANALAVE_CITY_SAILOR_ELDRITCH_HOUSE/MAIN",
+            "REGION_CANALAVE_LIBRARY_1F/MAIN",
+            "REGION_CANALAVE_CITY_GYM/MAIN",
+            "REGION_ROUTE_218_GATE_TO_CANALAVE_CITY/MAIN",
+            "REGION_CANALAVE_CITY_POKECENTER_1F/MAIN",
+            "REGION_CANALAVE_CITY_HARBOR_INN/MAIN",
+            "REGION_CANALAVE_CITY_WEST_HOUSE/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_CANALAVE_CITY_EAST_HOUSE/MAIN",
+        "exits": [
+            "REGION_CANALAVE_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_CANALAVE_CITY_GYM/MAIN",
+        "exits": [
+            "REGION_CANALAVE_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_CANALAVE_CITY_HARBOR_INN/MAIN",
+        "exits": [
+            "REGION_CANALAVE_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_CANALAVE_CITY_MART/MAIN",
+        "exits": [
+            "REGION_CANALAVE_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_CANALAVE_CITY_POKECENTER_1F/MAIN",
+        "exits": [
+            "REGION_CANALAVE_CITY_POKECENTER_B1F/MAIN",
+            "REGION_CANALAVE_CITY_POKECENTER_2F/MAIN",
+            "REGION_CANALAVE_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_CANALAVE_CITY_POKECENTER_2F/MAIN",
+        "exits": [
+            "REGION_CANALAVE_CITY_POKECENTER_1F/MAIN",
+            "REGION_UNION_ROOM/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_CANALAVE_CITY_POKECENTER_B1F/MAIN",
+        "exits": [
+            "REGION_CANALAVE_CITY_POKECENTER_1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_CANALAVE_CITY_SAILOR_ELDRITCH_HOUSE/MAIN",
+        "exits": [
+            "REGION_CANALAVE_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_CANALAVE_CITY_SOUTHEAST_HOUSE/MAIN",
+        "exits": [
+            "REGION_CANALAVE_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_CANALAVE_CITY_WEST_HOUSE/MAIN",
+        "exits": [
+            "REGION_CANALAVE_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_CANALAVE_LIBRARY_1F/MAIN",
+        "exits": [
+            "REGION_CANALAVE_LIBRARY_2F/MAIN",
+            "REGION_CANALAVE_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_CANALAVE_LIBRARY_2F/MAIN",
+        "exits": [
+            "REGION_CANALAVE_LIBRARY_1F/MAIN",
+            "REGION_CANALAVE_LIBRARY_3F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_CANALAVE_LIBRARY_3F/MAIN",
+        "exits": [
+            "REGION_CANALAVE_LIBRARY_2F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_CELESTIC_TOWN/MAIN",
+        "exits": [
+            "REGION_CELESTIC_TOWN_CAVE/MAIN",
+            "REGION_CELESTIC_TOWN_SOUTHWEST_HOUSE/MAIN",
+            "REGION_CELESTIC_TOWN_POKECENTER_1F/MAIN",
+            "REGION_CELESTIC_TOWN_NORTH_HOUSE/MAIN",
+            "REGION_CELESTIC_TOWN_NORTHWEST_HOUSE/MAIN",
+            "REGION_CELESTIC_TOWN_NORTHEAST_HOUSE/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_CELESTIC_TOWN_CAVE/MAIN",
+        "exits": [
+            "REGION_CELESTIC_TOWN/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_CELESTIC_TOWN_NORTHEAST_HOUSE/MAIN",
+        "exits": [
+            "REGION_CELESTIC_TOWN/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_CELESTIC_TOWN_NORTHWEST_HOUSE/MAIN",
+        "exits": [
+            "REGION_CELESTIC_TOWN/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_CELESTIC_TOWN_NORTH_HOUSE/MAIN",
+        "exits": [
+            "REGION_CELESTIC_TOWN/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_CELESTIC_TOWN_POKECENTER_1F/MAIN",
+        "exits": [
+            "REGION_CELESTIC_TOWN/MAIN",
+            "REGION_CELESTIC_TOWN_POKECENTER_B1F/MAIN",
+            "REGION_CELESTIC_TOWN_POKECENTER_2F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_CELESTIC_TOWN_POKECENTER_2F/MAIN",
+        "exits": [
+            "REGION_CELESTIC_TOWN_POKECENTER_1F/MAIN",
+            "REGION_UNION_ROOM/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_CELESTIC_TOWN_POKECENTER_B1F/MAIN",
+        "exits": [
+            "REGION_CELESTIC_TOWN_POKECENTER_1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_CELESTIC_TOWN_SOUTHWEST_HOUSE/MAIN",
+        "exits": [
+            "REGION_CELESTIC_TOWN/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_COMMUNICATION_CLUB_COLOSSEUM_2P/MAIN",
+        "exits": []
+    },
+    {
+        "name": "REGION_COMMUNICATION_CLUB_COLOSSEUM_4P/MAIN",
+        "exits": []
+    },
+    {
+        "name": "REGION_CONTEST_HALL_LOBBY/MAIN",
+        "exits": [
+            "REGION_CONTEST_HALL_STAGE_NO_CONTEST/MAIN",
+            "REGION_HEARTHOME_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_CONTEST_HALL_STAGE_NO_CONTEST/MAIN",
+        "exits": [
+            "REGION_CONTEST_HALL_LOBBY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_CONTEST_HALL_STAGE_ONGOING_CONTEST/MAIN",
+        "exits": []
+    },
+    {
+        "name": "REGION_CYCLE_SHOP/MAIN",
+        "exits": [
+            "REGION_ETERNA_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_DISTORTION_WORLD_1F/MAIN",
+        "exits": [
+            "REGION_MT_CORONET_6F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_EMPTY/MAIN",
+        "exits": []
+    },
+    {
+        "name": "REGION_ETERNA_CITY/MAIN",
+        "exits": [
+            "REGION_ETERNA_CITY_GYM/MAIN",
+            "REGION_ROUTE_206_CYCLING_ROAD_NORTH_GATE/MAIN",
+            "REGION_CYCLE_SHOP/MAIN",
+            "REGION_ETERNA_CITY_SOUTH_HOUSE/MAIN",
+            "REGION_ETERNA_CITY_CONDOMINIUMS_1F/MAIN",
+            "REGION_ETERNA_CITY_EAST_HOUSE/MAIN",
+            "REGION_ETERNA_CITY_POKECENTER_1F/MAIN",
+            "REGION_ETERNA_CITY_UNDERGROUND_MAN_HOUSE/MAIN",
+            "REGION_ETERNA_CITY_MART/MAIN",
+            "REGION_TEAM_GALACTIC_ETERNA_BUILDING_1F/MAIN",
+            "REGION_ETERNA_CITY_NORTH_HOUSE/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ETERNA_CITY_CONDOMINIUMS_1F/MAIN",
+        "exits": [
+            "REGION_ETERNA_CITY_CONDOMINIUMS_2F/MAIN",
+            "REGION_ETERNA_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ETERNA_CITY_CONDOMINIUMS_2F/MAIN",
+        "exits": [
+            "REGION_ETERNA_CITY_CONDOMINIUMS_1F/MAIN",
+            "REGION_ETERNA_CITY_CONDOMINIUMS_3F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ETERNA_CITY_CONDOMINIUMS_3F/MAIN",
+        "exits": [
+            "REGION_ETERNA_CITY_CONDOMINIUMS_2F/MAIN",
+            "REGION_ETERNA_CITY_CONDOMINIUMS_4F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ETERNA_CITY_CONDOMINIUMS_4F/MAIN",
+        "exits": [
+            "REGION_ETERNA_CITY_CONDOMINIUMS_3F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ETERNA_CITY_DP_GYM/MAIN",
+        "exits": [
+            "REGION_ETERNA_CITY_GYM/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ETERNA_CITY_EAST_HOUSE/MAIN",
+        "exits": [
+            "REGION_ETERNA_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ETERNA_CITY_GYM/MAIN",
+        "exits": [
+            "REGION_ETERNA_CITY_DP_GYM/MAIN",
+            "REGION_ETERNA_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ETERNA_CITY_MART/MAIN",
+        "exits": [
+            "REGION_ETERNA_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ETERNA_CITY_NORTH_HOUSE/MAIN",
+        "exits": [
+            "REGION_ETERNA_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ETERNA_CITY_POKECENTER_1F/MAIN",
+        "exits": [
+            "REGION_ETERNA_CITY/MAIN",
+            "REGION_ETERNA_CITY_POKECENTER_B1F/MAIN",
+            "REGION_ETERNA_CITY_POKECENTER_2F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ETERNA_CITY_POKECENTER_2F/MAIN",
+        "exits": [
+            "REGION_ETERNA_CITY_POKECENTER_1F/MAIN",
+            "REGION_UNION_ROOM/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ETERNA_CITY_POKECENTER_B1F/MAIN",
+        "exits": [
+            "REGION_ETERNA_CITY_POKECENTER_1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ETERNA_CITY_SOUTH_HOUSE/MAIN",
+        "exits": [
+            "REGION_ETERNA_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ETERNA_CITY_UNDERGROUND_MAN_HOUSE/MAIN",
+        "exits": [
+            "REGION_ETERNA_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ETERNA_CITY_UNKNOWN_HOUSE/MAIN",
+        "exits": []
+    },
+    {
+        "name": "REGION_ETERNA_FOREST/MAIN",
+        "exits": [
+            "REGION_OLD_CHATEAU/MAIN",
+            "REGION_ROUTE_205_SOUTH/MAIN",
+            "REGION_ROUTE_205_NORTH/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ETERNA_FOREST_OUTSIDE/MAIN",
+        "exits": []
+    },
+    {
+        "name": "REGION_FIGHT_AREA/MAIN",
+        "exits": [
+            "REGION_FIGHT_AREA_POKECENTER_1F/MAIN",
+            "REGION_FIGHT_AREA_MIDDLE_HOUSE/MAIN",
+            "REGION_FIGHT_AREA_MART/MAIN",
+            "REGION_ROUTE_225_GATE_TO_FIGHT_AREA/MAIN",
+            "REGION_FIGHT_AREA_SOUTH_HOUSE/MAIN",
+            "REGION_BATTLE_FRONTIER_GATE_TO_FIGHT_AREA/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_FIGHT_AREA_MART/MAIN",
+        "exits": [
+            "REGION_FIGHT_AREA/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_FIGHT_AREA_MIDDLE_HOUSE/MAIN",
+        "exits": [
+            "REGION_FIGHT_AREA/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_FIGHT_AREA_POKECENTER_1F/MAIN",
+        "exits": [
+            "REGION_FIGHT_AREA_POKECENTER_B1F/MAIN",
+            "REGION_FIGHT_AREA_POKECENTER_2F/MAIN",
+            "REGION_FIGHT_AREA/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_FIGHT_AREA_POKECENTER_2F/MAIN",
+        "exits": [
+            "REGION_FIGHT_AREA_POKECENTER_1F/MAIN",
+            "REGION_UNION_ROOM/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_FIGHT_AREA_POKECENTER_B1F/MAIN",
+        "exits": [
+            "REGION_FIGHT_AREA_POKECENTER_1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_FIGHT_AREA_SOUTH_HOUSE/MAIN",
+        "exits": [
+            "REGION_FIGHT_AREA/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_FLOAROMA_MEADOW_HOUSE/MAIN",
+        "exits": [
+            "REGION_FLOAROMA_MEADOW/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_FLOAROMA_TOWN/MAIN",
+        "exits": [
+            "REGION_FLOWER_SHOP/MAIN",
+            "REGION_FLOAROMA_TOWN_MIDDLE_HOUSE/MAIN",
+            "REGION_FLOAROMA_TOWN_POKECENTER_1F/MAIN",
+            "REGION_FLOAROMA_TOWN_SOUTHEAST_HOUSE/MAIN",
+            "REGION_FLOAROMA_TOWN_MART/MAIN",
+            "REGION_FLOAROMA_MEADOW/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_FLOAROMA_TOWN_MART/MAIN",
+        "exits": [
+            "REGION_FLOAROMA_TOWN/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_FLOAROMA_TOWN_MIDDLE_HOUSE/MAIN",
+        "exits": [
+            "REGION_FLOAROMA_TOWN/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_FLOAROMA_TOWN_POKECENTER_1F/MAIN",
+        "exits": [
+            "REGION_FLOAROMA_TOWN_POKECENTER_2F/MAIN",
+            "REGION_FLOAROMA_TOWN/MAIN",
+            "REGION_FLOAROMA_TOWN_POKECENTER_B1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_FLOAROMA_TOWN_POKECENTER_2F/MAIN",
+        "exits": [
+            "REGION_FLOAROMA_TOWN_POKECENTER_1F/MAIN",
+            "REGION_UNION_ROOM/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_FLOAROMA_TOWN_POKECENTER_B1F/MAIN",
+        "exits": [
+            "REGION_FLOAROMA_TOWN_POKECENTER_1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_FLOAROMA_TOWN_SOUTHEAST_HOUSE/MAIN",
+        "exits": [
+            "REGION_FLOAROMA_TOWN/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_FLOWER_PARADISE/MAIN",
+        "exits": []
+    },
+    {
+        "name": "REGION_FLOWER_SHOP/MAIN",
+        "exits": [
+            "REGION_FLOAROMA_TOWN/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_FOOTSTEP_HOUSE/MAIN",
+        "exits": [
+            "REGION_ROUTE_213/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_FOREIGN_BUILDING/MAIN",
+        "exits": [
+            "REGION_HEARTHOME_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_FUEGO_IRONWORKS_BUILDING/MAIN",
+        "exits": [
+            "REGION_FUEGO_IRONWORKS_OUTSIDE/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_FUEGO_IRONWORKS_OUTSIDE/MAIN",
+        "exits": [
+            "REGION_FUEGO_IRONWORKS_BUILDING/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_FULLMOON_ISLAND/MAIN",
+        "exits": [
+            "REGION_FULLMOON_ISLAND_FOREST/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_FULLMOON_ISLAND_FOREST/MAIN",
+        "exits": [
+            "REGION_FULLMOON_ISLAND/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_GALACTIC_HQ_1F/MAIN",
+        "exits": [
+            "REGION_GALACTIC_HQ_2F/MAIN",
+            "REGION_GALACTIC_HQ_B2F/MAIN",
+            "REGION_GALACTIC_HQ_1F/MAIN",
+            "REGION_GALACTIC_HQ_B1F/MAIN",
+            "REGION_GALACTIC_HQ_4F/MAIN",
+            "REGION_VEILSTONE_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_GALACTIC_HQ_2F/MAIN",
+        "exits": [
+            "REGION_GALACTIC_HQ_HALL/MAIN",
+            "REGION_GALACTIC_HQ_2F/MAIN",
+            "REGION_GALACTIC_HQ_1F/MAIN",
+            "REGION_GALACTIC_HQ_3F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_GALACTIC_HQ_3F/MAIN",
+        "exits": [
+            "REGION_GALACTIC_HQ_3F/MAIN",
+            "REGION_GALACTIC_HQ_2F/MAIN",
+            "REGION_GALACTIC_HQ_4F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_GALACTIC_HQ_4F/MAIN",
+        "exits": [
+            "REGION_GALACTIC_HQ_HALL/MAIN",
+            "REGION_GALACTIC_HQ_LABORATORY/MAIN",
+            "REGION_GALACTIC_HQ_1F/MAIN",
+            "REGION_GALACTIC_HQ_3F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_GALACTIC_HQ_B1F/MAIN",
+        "exits": [
+            "REGION_GALACTIC_HQ_B2F/MAIN",
+            "REGION_GALACTIC_HQ_1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_GALACTIC_HQ_B2F/MAIN",
+        "exits": [
+            "REGION_GALACTIC_HQ_B1F/MAIN",
+            "REGION_VEILSTONE_CITY_GALACTIC_WAREHOUSE/MAIN",
+            "REGION_GALACTIC_HQ_1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_GALACTIC_HQ_CONTROL_ROOM/MAIN",
+        "exits": [
+            "REGION_GALACTIC_HQ_LABORATORY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_GALACTIC_HQ_HALL/MAIN",
+        "exits": [
+            "REGION_GALACTIC_HQ_2F/MAIN",
+            "REGION_GALACTIC_HQ_4F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_GALACTIC_HQ_LABORATORY/MAIN",
+        "exits": [
+            "REGION_GALACTIC_HQ_CONTROL_ROOM/MAIN",
+            "REGION_GALACTIC_HQ_4F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_GAME_CORNER/MAIN",
+        "exits": [
+            "REGION_VEILSTONE_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_GATE_BETWEEN_ETERNA_CITY_ROUTE_206/MAIN",
+        "exits": [
+            "REGION_ETERNA_CITY/MAIN",
+            "REGION_ROUTE_206/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_GLOBAL_TERMINAL_1F/MAIN",
+        "exits": [
+            "REGION_JUBILIFE_CITY/MAIN",
+            "REGION_GLOBAL_TERMINAL_2F/MAIN",
+            "REGION_GLOBAL_TERMINAL_3F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_GLOBAL_TERMINAL_2F/MAIN",
+        "exits": [
+            "REGION_GLOBAL_TERMINAL_1F/MAIN",
+            "REGION_GLOBAL_TERMINAL_3F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_GLOBAL_TERMINAL_3F/MAIN",
+        "exits": [
+            "REGION_GLOBAL_TERMINAL_1F/MAIN",
+            "REGION_GLOBAL_TERMINAL_2F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_GRAND_LAKE_ROUTE_213_EAST_HOUSE/MAIN",
+        "exits": [
+            "REGION_ROUTE_213/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_GRAND_LAKE_ROUTE_213_LOBBY/MAIN",
+        "exits": [
+            "REGION_ROUTE_213/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_GRAND_LAKE_ROUTE_213_NORTHEAST_HOUSE/MAIN",
+        "exits": [
+            "REGION_ROUTE_213/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_GRAND_LAKE_ROUTE_213_NORTHWEST_HOUSE/MAIN",
+        "exits": [
+            "REGION_ROUTE_213/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_GRAND_LAKE_VALOR_LAKEFRONT_EAST_HOUSE/MAIN",
+        "exits": [
+            "REGION_VALOR_LAKEFRONT/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_GRAND_LAKE_VALOR_LAKEFRONT_WEST_HOUSE/MAIN",
+        "exits": [
+            "REGION_VALOR_LAKEFRONT/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_GREAT_MARSH_1/MAIN",
+        "exits": []
+    },
+    {
+        "name": "REGION_GREAT_MARSH_2/MAIN",
+        "exits": []
+    },
+    {
+        "name": "REGION_GREAT_MARSH_3/MAIN",
+        "exits": []
+    },
+    {
+        "name": "REGION_GREAT_MARSH_4/MAIN",
+        "exits": []
+    },
+    {
+        "name": "REGION_GREAT_MARSH_5/MAIN",
+        "exits": []
+    },
+    {
+        "name": "REGION_GREAT_MARSH_6/MAIN",
+        "exits": [
+            "REGION_PASTORIA_CITY_OBSERVATORY_GATE_1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_HALL_OF_ORIGIN/MAIN",
+        "exits": [
+            "REGION_MT_CORONET_6F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_HEARTHOME_CITY/MAIN",
+        "exits": [
+            "REGION_ROUTE_209_GATE_TO_HEARTHOME_CITY/MAIN",
+            "REGION_HEARTHOME_CITY_POKEMON_FAN_CLUB/MAIN",
+            "REGION_HEARTHOME_CITY_MART/MAIN",
+            "REGION_FOREIGN_BUILDING/MAIN",
+            "REGION_HEARTHOME_CITY_GYM_ENTRANCE_ROOM/MAIN",
+            "REGION_POFFIN_HOUSE/MAIN",
+            "REGION_CONTEST_HALL_LOBBY/MAIN",
+            "REGION_HEARTHOME_CITY_NORTHEAST_HOUSE_1F/MAIN",
+            "REGION_HEARTHOME_CITY_SOUTHEAST_HOUSE_1F/MAIN",
+            "REGION_ROUTE_208_GATE_TO_HEARTHOME_CITY/MAIN",
+            "REGION_ROUTE_212_GATE_TO_HEARTHOME_CITY/MAIN",
+            "REGION_HEARTHOME_CITY_WEST_GATE_TO_AMITY_SQUARE/MAIN",
+            "REGION_HEARTHOME_CITY_NORTHWEST_HOUSE/MAIN",
+            "REGION_HEARTHOME_CITY_POKECENTER_1F/MAIN",
+            "REGION_HEARTHOME_CITY_EAST_GATE_TO_AMITY_SQUARE/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_HEARTHOME_CITY_DP_GYM_ELEVATOR_ROOM_1/MAIN",
+        "exits": [
+            "REGION_HEARTHOME_CITY_DP_GYM_TRAINER_ROOM_4/MAIN",
+            "REGION_HEARTHOME_CITY_GYM_LEADER_ROOM/MAIN",
+            "REGION_HEARTHOME_CITY_DP_GYM_ELEVATOR_ROOM_2/MAIN",
+            "REGION_HEARTHOME_CITY_DP_GYM_TRAINER_ROOM_3/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_HEARTHOME_CITY_DP_GYM_ELEVATOR_ROOM_2/MAIN",
+        "exits": [
+            "REGION_HEARTHOME_CITY_DP_GYM_TRAINER_ROOM_5/MAIN",
+            "REGION_HEARTHOME_CITY_DP_GYM_TRAINER_ROOM_6/MAIN",
+            "REGION_HEARTHOME_CITY_DP_GYM_ELEVATOR_ROOM_1/MAIN",
+            "REGION_HEARTHOME_CITY_DP_GYM_LEADER_ROOM/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_HEARTHOME_CITY_DP_GYM_LEADER_ROOM/MAIN",
+        "exits": [
+            "REGION_HEARTHOME_CITY_DP_GYM_ELEVATOR_ROOM_2/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_HEARTHOME_CITY_DP_GYM_TRAINER_ROOM_1/MAIN",
+        "exits": [
+            "REGION_HEARTHOME_CITY_GYM_LEADER_ROOM/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_HEARTHOME_CITY_DP_GYM_TRAINER_ROOM_2/MAIN",
+        "exits": [
+            "REGION_HEARTHOME_CITY_GYM_LEADER_ROOM/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_HEARTHOME_CITY_DP_GYM_TRAINER_ROOM_3/MAIN",
+        "exits": [
+            "REGION_HEARTHOME_CITY_DP_GYM_ELEVATOR_ROOM_1/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_HEARTHOME_CITY_DP_GYM_TRAINER_ROOM_4/MAIN",
+        "exits": [
+            "REGION_HEARTHOME_CITY_DP_GYM_ELEVATOR_ROOM_1/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_HEARTHOME_CITY_DP_GYM_TRAINER_ROOM_5/MAIN",
+        "exits": [
+            "REGION_HEARTHOME_CITY_DP_GYM_ELEVATOR_ROOM_2/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_HEARTHOME_CITY_DP_GYM_TRAINER_ROOM_6/MAIN",
+        "exits": [
+            "REGION_HEARTHOME_CITY_DP_GYM_ELEVATOR_ROOM_2/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_HEARTHOME_CITY_EAST_GATE_TO_AMITY_SQUARE/MAIN",
+        "exits": [
+            "REGION_AMITY_SQUARE/MAIN",
+            "REGION_HEARTHOME_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_HEARTHOME_CITY_GYM_ENTRANCE_ROOM/MAIN",
+        "exits": [
+            "REGION_HEARTHOME_CITY_GYM_TRAINER_ROOM_1/MAIN",
+            "REGION_HEARTHOME_CITY_GYM_LEADER_ROOM/MAIN",
+            "REGION_HEARTHOME_CITY_GYM_TRAINER_ROOM_2/MAIN",
+            "REGION_HEARTHOME_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_HEARTHOME_CITY_GYM_LEADER_ROOM/MAIN",
+        "exits": [
+            "REGION_HEARTHOME_CITY_GYM_ENTRANCE_ROOM/MAIN",
+            "REGION_HEARTHOME_CITY_DP_GYM_TRAINER_ROOM_2/MAIN",
+            "REGION_HEARTHOME_CITY_DP_GYM_ELEVATOR_ROOM_1/MAIN",
+            "REGION_HEARTHOME_CITY_DP_GYM_TRAINER_ROOM_1/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_HEARTHOME_CITY_GYM_TRAINER_ROOM_1/MAIN",
+        "exits": [
+            "REGION_HEARTHOME_CITY_GYM_ENTRANCE_ROOM/MAIN",
+            "REGION_HEARTHOME_CITY_GYM_TRAINER_ROOM_2/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_HEARTHOME_CITY_GYM_TRAINER_ROOM_2/MAIN",
+        "exits": [
+            "REGION_HEARTHOME_CITY_GYM_ENTRANCE_ROOM/MAIN",
+            "REGION_HEARTHOME_CITY_GYM_LEADER_ROOM/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_HEARTHOME_CITY_MART/MAIN",
+        "exits": [
+            "REGION_HEARTHOME_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_HEARTHOME_CITY_NORTHEAST_HOUSE_1F/MAIN",
+        "exits": [
+            "REGION_HEARTHOME_CITY_NORTHEAST_HOUSE_ELEVATOR/MAIN",
+            "REGION_HEARTHOME_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_HEARTHOME_CITY_NORTHEAST_HOUSE_2F/MAIN",
+        "exits": [
+            "REGION_HEARTHOME_CITY_NORTHEAST_HOUSE_ELEVATOR/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_HEARTHOME_CITY_NORTHEAST_HOUSE_ELEVATOR/MAIN",
+        "exits": [
+            "REGION_DYNAMIC/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_HEARTHOME_CITY_NORTHWEST_HOUSE/MAIN",
+        "exits": [
+            "REGION_HEARTHOME_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_HEARTHOME_CITY_POKECENTER_1F/MAIN",
+        "exits": [
+            "REGION_HEARTHOME_CITY_POKECENTER_B1F/MAIN",
+            "REGION_HEARTHOME_CITY_POKECENTER_2F/MAIN",
+            "REGION_HEARTHOME_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_HEARTHOME_CITY_POKECENTER_2F/MAIN",
+        "exits": [
+            "REGION_HEARTHOME_CITY_POKECENTER_1F/MAIN",
+            "REGION_UNION_ROOM/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_HEARTHOME_CITY_POKECENTER_B1F/MAIN",
+        "exits": [
+            "REGION_HEARTHOME_CITY_POKECENTER_1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_HEARTHOME_CITY_POKEMON_FAN_CLUB/MAIN",
+        "exits": [
+            "REGION_HEARTHOME_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_HEARTHOME_CITY_SOUTHEAST_HOUSE_1F/MAIN",
+        "exits": [
+            "REGION_HEARTHOME_CITY_SOUTHEAST_HOUSE_ELEVATOR/MAIN",
+            "REGION_HEARTHOME_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_HEARTHOME_CITY_SOUTHEAST_HOUSE_2F/MAIN",
+        "exits": [
+            "REGION_HEARTHOME_CITY_SOUTHEAST_HOUSE_ELEVATOR/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_HEARTHOME_CITY_SOUTHEAST_HOUSE_ELEVATOR/MAIN",
+        "exits": [
+            "REGION_DYNAMIC/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_HEARTHOME_CITY_WEST_GATE_TO_AMITY_SQUARE/MAIN",
+        "exits": [
+            "REGION_AMITY_SQUARE/MAIN",
+            "REGION_HEARTHOME_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ICEBERG_RUINS/MAIN",
+        "exits": [
+            "REGION_MT_CORONET_1F_NORTH_ROOM_2/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_IRON_ISLAND/MAIN",
+        "exits": [
+            "REGION_IRON_ISLAND_B3F/MAIN",
+            "REGION_IRON_ISLAND_HOUSE/MAIN",
+            "REGION_IRON_ISLAND_1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_IRON_ISLAND_1F/MAIN",
+        "exits": [
+            "REGION_IRON_ISLAND_B1F_LEFT_ROOM/MAIN",
+            "REGION_IRON_ISLAND_B1F_RIGHT_ROOM/MAIN",
+            "REGION_IRON_ISLAND/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_IRON_ISLAND_B1F_LEFT_ROOM/MAIN",
+        "exits": [
+            "REGION_IRON_ISLAND_1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_IRON_ISLAND_B1F_RIGHT_ROOM/MAIN",
+        "exits": [
+            "REGION_IRON_ISLAND_B2F_LEFT_ROOM/MAIN",
+            "REGION_IRON_ISLAND_B2F_RIGHT_ROOM/MAIN",
+            "REGION_IRON_ISLAND_1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_IRON_ISLAND_B2F_LEFT_ROOM/MAIN",
+        "exits": [
+            "REGION_IRON_ISLAND_B3F/MAIN",
+            "REGION_IRON_ISLAND_B1F_RIGHT_ROOM/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_IRON_ISLAND_B2F_RIGHT_ROOM/MAIN",
+        "exits": [
+            "REGION_IRON_ISLAND_B1F_RIGHT_ROOM/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_IRON_ISLAND_B3F/MAIN",
+        "exits": [
+            "REGION_IRON_ISLAND_B2F_LEFT_ROOM/MAIN",
+            "REGION_IRON_ISLAND_IRON_RUINS/MAIN",
+            "REGION_IRON_ISLAND/MAIN",
+            "REGION_IRON_RUINS/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_IRON_ISLAND_HOUSE/MAIN",
+        "exits": [
+            "REGION_IRON_ISLAND/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_IRON_ISLAND_IRON_RUINS/MAIN",
+        "exits": [
+            "REGION_IRON_ISLAND_B3F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_IRON_RUINS/MAIN",
+        "exits": [
+            "REGION_IRON_ISLAND_B3F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_JUBILIFE_CITY/MAIN",
+        "exits": [
+            "REGION_GLOBAL_TERMINAL_1F/MAIN",
+            "REGION_JUBILIFE_TV_1F/MAIN",
+            "REGION_JUBILIFE_CITY_SOUTHWEST_HOUSE_1F/MAIN",
+            "REGION_JUBILIFE_CITY_CONDOMINIUMS_1F/MAIN",
+            "REGION_JUBILIFE_CITY_MART/MAIN",
+            "REGION_JUBILIFE_CITY_UNKNOWN_HOUSE_3/MAIN",
+            "REGION_JUBILIFE_CITY_POKECENTER_1F/MAIN",
+            "REGION_ROUTE_218_GATE_TO_JUBILIFE_CITY/MAIN",
+            "REGION_JUBILIFE_CITY_UNKNOWN_HOUSE_4/MAIN",
+            "REGION_TRAINERS_SCHOOL/MAIN",
+            "REGION_JUBILIFE_CITY_SOUTH_HOUSE_1F/MAIN",
+            "REGION_POKETCH_CO_1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_JUBILIFE_CITY_CONDOMINIUMS_1F/MAIN",
+        "exits": [
+            "REGION_JUBILIFE_CITY/MAIN",
+            "REGION_JUBILIFE_CITY_CONDOMINIUMS_2F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_JUBILIFE_CITY_CONDOMINIUMS_2F/MAIN",
+        "exits": [
+            "REGION_JUBILIFE_CITY_CONDOMINIUMS_1F/MAIN",
+            "REGION_JUBILIFE_CITY_CONDOMINIUMS_3F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_JUBILIFE_CITY_CONDOMINIUMS_3F/MAIN",
+        "exits": [
+            "REGION_JUBILIFE_CITY_CONDOMINIUMS_4F/MAIN",
+            "REGION_JUBILIFE_CITY_CONDOMINIUMS_2F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_JUBILIFE_CITY_CONDOMINIUMS_4F/MAIN",
+        "exits": [
+            "REGION_JUBILIFE_CITY_CONDOMINIUMS_3F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_JUBILIFE_CITY_MART/MAIN",
+        "exits": [
+            "REGION_JUBILIFE_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_JUBILIFE_CITY_POKECENTER_1F/MAIN",
+        "exits": [
+            "REGION_JUBILIFE_CITY/MAIN",
+            "REGION_JUBILIFE_CITY_POKECENTER_2F/MAIN",
+            "REGION_JUBILIFE_CITY_POKECENTER_B1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_JUBILIFE_CITY_POKECENTER_2F/MAIN",
+        "exits": [
+            "REGION_JUBILIFE_CITY_POKECENTER_1F/MAIN",
+            "REGION_UNION_ROOM/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_JUBILIFE_CITY_POKECENTER_B1F/MAIN",
+        "exits": [
+            "REGION_JUBILIFE_CITY_POKECENTER_1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_JUBILIFE_CITY_SOUTHWEST_HOUSE_1F/MAIN",
+        "exits": [
+            "REGION_JUBILIFE_CITY/MAIN",
+            "REGION_JUBILIFE_CITY_SOUTHWEST_HOUSE_2F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_JUBILIFE_CITY_SOUTHWEST_HOUSE_2F/MAIN",
+        "exits": [
+            "REGION_JUBILIFE_CITY_SOUTHWEST_HOUSE_1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_JUBILIFE_CITY_SOUTH_HOUSE_1F/MAIN",
+        "exits": [
+            "REGION_JUBILIFE_CITY_SOUTH_HOUSE_2F/MAIN",
+            "REGION_JUBILIFE_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_JUBILIFE_CITY_SOUTH_HOUSE_2F/MAIN",
+        "exits": [
+            "REGION_JUBILIFE_CITY_SOUTH_HOUSE_1F/MAIN",
+            "REGION_JUBILIFE_CITY_SOUTH_HOUSE_3F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_JUBILIFE_CITY_SOUTH_HOUSE_3F/MAIN",
+        "exits": [
+            "REGION_JUBILIFE_CITY_SOUTH_HOUSE_2F/MAIN",
+            "REGION_JUBILIFE_CITY_SOUTH_HOUSE_4F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_JUBILIFE_CITY_SOUTH_HOUSE_4F/MAIN",
+        "exits": [
+            "REGION_JUBILIFE_CITY_SOUTH_HOUSE_3F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_JUBILIFE_CITY_UNKNOWN_HOUSE_1/MAIN",
+        "exits": [
+            "REGION_JUBILIFE_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_JUBILIFE_CITY_UNKNOWN_HOUSE_2/MAIN",
+        "exits": [
+            "REGION_JUBILIFE_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_JUBILIFE_CITY_UNKNOWN_HOUSE_3/MAIN",
+        "exits": [
+            "REGION_JUBILIFE_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_JUBILIFE_CITY_UNKNOWN_HOUSE_4/MAIN",
+        "exits": [
+            "REGION_JUBILIFE_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_JUBILIFE_TV_1F/MAIN",
+        "exits": [
+            "REGION_JUBILIFE_TV_ELEVATOR/MAIN",
+            "REGION_JUBILIFE_CITY/MAIN",
+            "REGION_JUBILIFE_TV_2F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_JUBILIFE_TV_2F/MAIN",
+        "exits": [
+            "REGION_JUBILIFE_TV_ELEVATOR/MAIN",
+            "REGION_JUBILIFE_TV_2F_GALLERY/MAIN",
+            "REGION_JUBILIFE_TV_1F/MAIN",
+            "REGION_JUBILIFE_TV_3F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_JUBILIFE_TV_2F_GALLERY/MAIN",
+        "exits": [
+            "REGION_JUBILIFE_TV_2F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_JUBILIFE_TV_3F/MAIN",
+        "exits": [
+            "REGION_JUBILIFE_TV_ELEVATOR/MAIN",
+            "REGION_JUBILIFE_TV_3F_GLOBAL_RANKING_ROOM/MAIN",
+            "REGION_JUBILIFE_TV_2F/MAIN",
+            "REGION_JUBILIFE_TV_4F/MAIN",
+            "REGION_JUBILIFE_TV_3F_GROUP_RANKING_ROOM/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_JUBILIFE_TV_3F_GLOBAL_RANKING_ROOM/MAIN",
+        "exits": [
+            "REGION_JUBILIFE_TV_3F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_JUBILIFE_TV_3F_GROUP_RANKING_ROOM/MAIN",
+        "exits": [
+            "REGION_JUBILIFE_TV_3F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_JUBILIFE_TV_4F/MAIN",
+        "exits": [
+            "REGION_JUBILIFE_TV_ELEVATOR/MAIN",
+            "REGION_JUBILIFE_TV_3F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_JUBILIFE_TV_ELEVATOR/MAIN",
+        "exits": [
+            "REGION_DYNAMIC/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_LAKE_ACUITY/MAIN",
+        "exits": [
+            "REGION_ACUITY_CAVERN/MAIN",
+            "REGION_ACUITY_LAKEFRONT/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_LAKE_ACUITY_LOW_WATER/MAIN",
+        "exits": [
+            "REGION_ACUITY_LAKEFRONT/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_LAKE_VALOR/MAIN",
+        "exits": [
+            "REGION_VALOR_LAKEFRONT/MAIN",
+            "REGION_VALOR_CAVERN/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_LAKE_VALOR_DRAINED/MAIN",
+        "exits": [
+            "REGION_VALOR_LAKEFRONT/MAIN",
+            "REGION_VALOR_CAVERN/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_LAKE_VERITY/MAIN",
+        "exits": [
+            "REGION_VERITY_CAVERN/MAIN",
+            "REGION_VERITY_LAKEFRONT/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_LAKE_VERITY_LOW_WATER/MAIN",
+        "exits": [
+            "REGION_VERITY_LAKEFRONT/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_MANIAC_TUNNEL/MAIN",
+        "exits": [
+            "REGION_ROUTE_214/MAIN",
+            "REGION_SOLACEON_RUINS_MANIAC_TUNNEL_ROOM/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_MINING_MUSEUM/MAIN",
+        "exits": [
+            "REGION_OREBURGH_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_MT_CORONET_1F_NORTH_ROOM_1/MAIN",
+        "exits": [
+            "REGION_MT_CORONET_1F_TUNNEL_ROOM/MAIN",
+            "REGION_ROUTE_211_EAST/MAIN",
+            "REGION_MT_CORONET_B1F/MAIN",
+            "REGION_ROUTE_211_WEST/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_MT_CORONET_1F_NORTH_ROOM_2/MAIN",
+        "exits": [
+            "REGION_MT_CORONET_ICEBERG_RUINS/MAIN",
+            "REGION_ICEBERG_RUINS/MAIN",
+            "REGION_ROUTE_216/MAIN",
+            "REGION_MT_CORONET_B1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_MT_CORONET_1F_SOUTH/MAIN",
+        "exits": [
+            "REGION_ROUTE_208/MAIN",
+            "REGION_MT_CORONET_2F/MAIN",
+            "REGION_ROUTE_207/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_MT_CORONET_1F_TUNNEL_ROOM/MAIN",
+        "exits": [
+            "REGION_MT_CORONET_1F_NORTH_ROOM_1/MAIN",
+            "REGION_MT_CORONET_OUTSIDE_NORTH/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_MT_CORONET_2F/MAIN",
+        "exits": [
+            "REGION_MT_CORONET_2F/MAIN",
+            "REGION_MT_CORONET_3F/MAIN",
+            "REGION_MT_CORONET_1F_SOUTH/MAIN",
+            "REGION_ROUTE_207/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_MT_CORONET_3F/MAIN",
+        "exits": [
+            "REGION_MT_CORONET_OUTSIDE_SOUTH/MAIN",
+            "REGION_MT_CORONET_2F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_MT_CORONET_4F_ROOMS_1_AND_2/MAIN",
+        "exits": [
+            "REGION_MT_CORONET_OUTSIDE_NORTH/MAIN",
+            "REGION_MT_CORONET_OUTSIDE_SOUTH/MAIN",
+            "REGION_MT_CORONET_4F_ROOMS_1_AND_2/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_MT_CORONET_4F_ROOM_3/MAIN",
+        "exits": [
+            "REGION_MT_CORONET_OUTSIDE_NORTH/MAIN",
+            "REGION_MT_CORONET_5F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_MT_CORONET_5F/MAIN",
+        "exits": [
+            "REGION_MT_CORONET_6F/MAIN",
+            "REGION_MT_CORONET_4F_ROOM_3/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_MT_CORONET_6F/MAIN",
+        "exits": [
+            "REGION_MT_CORONET_5F/MAIN",
+            "REGION_SPEAR_PILLAR/MAIN",
+            "REGION_SPEAR_PILLAR_DIALGA/MAIN",
+            "REGION_SPEAR_PILLAR_PALKIA/MAIN",
+            "REGION_SPEAR_PILLAR_DISTORTED/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_MT_CORONET_B1F/MAIN",
+        "exits": [
+            "REGION_MT_CORONET_1F_NORTH_ROOM_1/MAIN",
+            "REGION_MT_CORONET_1F_NORTH_ROOM_2/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_MT_CORONET_ICEBERG_RUINS/MAIN",
+        "exits": [
+            "REGION_MT_CORONET_1F_NORTH_ROOM_2/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_MT_CORONET_OUTSIDE_NORTH/MAIN",
+        "exits": [
+            "REGION_MT_CORONET_1F_TUNNEL_ROOM/MAIN",
+            "REGION_MT_CORONET_4F_ROOMS_1_AND_2/MAIN",
+            "REGION_MT_CORONET_4F_ROOM_3/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_MT_CORONET_OUTSIDE_SOUTH/MAIN",
+        "exits": [
+            "REGION_MT_CORONET_4F_ROOMS_1_AND_2/MAIN",
+            "REGION_MT_CORONET_3F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_NEWMOON_ISLAND/MAIN",
+        "exits": [
+            "REGION_NEWMOON_ISLAND_FOREST/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_NEWMOON_ISLAND_FOREST/MAIN",
+        "exits": [
+            "REGION_NEWMOON_ISLAND/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_OLD_CHATEAU/MAIN",
+        "exits": [
+            "REGION_OLD_CHATEAU_SIDE_ROOMS/MAIN",
+            "REGION_ETERNA_FOREST/MAIN",
+            "REGION_OLD_CHATEAU_CORRIDOR/MAIN",
+            "REGION_OLD_CHATEAU_DINING_AREA/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_OLD_CHATEAU_BACK_EAST_ROOM/MAIN",
+        "exits": [
+            "REGION_OLD_CHATEAU_CORRIDOR/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_OLD_CHATEAU_BACK_MIDDLE_EAST_ROOM/MAIN",
+        "exits": [
+            "REGION_OLD_CHATEAU_CORRIDOR/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_OLD_CHATEAU_BACK_MIDDLE_ROOM/MAIN",
+        "exits": [
+            "REGION_OLD_CHATEAU_CORRIDOR/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_OLD_CHATEAU_BACK_MIDDLE_WEST_ROOM/MAIN",
+        "exits": [
+            "REGION_OLD_CHATEAU_CORRIDOR/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_OLD_CHATEAU_BACK_WEST_ROOM/MAIN",
+        "exits": [
+            "REGION_OLD_CHATEAU_CORRIDOR/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_OLD_CHATEAU_CORRIDOR/MAIN",
+        "exits": [
+            "REGION_OLD_CHATEAU_BACK_MIDDLE_EAST_ROOM/MAIN",
+            "REGION_OLD_CHATEAU_BACK_MIDDLE_WEST_ROOM/MAIN",
+            "REGION_OLD_CHATEAU_BACK_MIDDLE_ROOM/MAIN",
+            "REGION_OLD_CHATEAU_BACK_WEST_ROOM/MAIN",
+            "REGION_OLD_CHATEAU/MAIN",
+            "REGION_OLD_CHATEAU_BACK_EAST_ROOM/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_OLD_CHATEAU_DINING_AREA/MAIN",
+        "exits": [
+            "REGION_OLD_CHATEAU/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_OLD_CHATEAU_SIDE_ROOMS/MAIN",
+        "exits": [
+            "REGION_OLD_CHATEAU/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_OREBURGH_CITY/MAIN",
+        "exits": [
+            "REGION_OREBURGH_CITY_EAST_HOUSE_1F/MAIN",
+            "REGION_OREBURGH_CITY_POKECENTER_1F/MAIN",
+            "REGION_OREBURGH_CITY_SOUTH_HOUSE/MAIN",
+            "REGION_OREBURGH_CITY_WEST_HOUSE/MAIN",
+            "REGION_MINING_MUSEUM/MAIN",
+            "REGION_OREBURGH_CITY_NORTH_HOUSE_1F/MAIN",
+            "REGION_OREBURGH_MINE_B1F/MAIN",
+            "REGION_OREBURGH_GATE_1F/MAIN",
+            "REGION_OREBURGH_CITY_MIDDLE_HOUSE/MAIN",
+            "REGION_OREBURGH_CITY_NORTHWEST_HOUSE_1F/MAIN",
+            "REGION_OREBURGH_CITY_GYM/MAIN",
+            "REGION_OREBURGH_CITY_MART/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_OREBURGH_CITY_EAST_HOUSE_1F/MAIN",
+        "exits": [
+            "REGION_OREBURGH_CITY/MAIN",
+            "REGION_OREBURGH_CITY_EAST_HOUSE_2F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_OREBURGH_CITY_EAST_HOUSE_2F/MAIN",
+        "exits": [
+            "REGION_OREBURGH_CITY_EAST_HOUSE_1F/MAIN",
+            "REGION_OREBURGH_CITY_EAST_HOUSE_3F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_OREBURGH_CITY_EAST_HOUSE_3F/MAIN",
+        "exits": [
+            "REGION_OREBURGH_CITY_EAST_HOUSE_2F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_OREBURGH_CITY_GYM/MAIN",
+        "exits": [
+            "REGION_OREBURGH_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_OREBURGH_CITY_MART/MAIN",
+        "exits": [
+            "REGION_OREBURGH_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_OREBURGH_CITY_MIDDLE_HOUSE/MAIN",
+        "exits": [
+            "REGION_OREBURGH_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_OREBURGH_CITY_NORTHWEST_HOUSE_1F/MAIN",
+        "exits": [
+            "REGION_OREBURGH_CITY/MAIN",
+            "REGION_OREBURGH_CITY_NORTHWEST_HOUSE_2F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_OREBURGH_CITY_NORTHWEST_HOUSE_2F/MAIN",
+        "exits": [
+            "REGION_OREBURGH_CITY_NORTHWEST_HOUSE_1F/MAIN",
+            "REGION_OREBURGH_CITY_NORTHWEST_HOUSE_3F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_OREBURGH_CITY_NORTHWEST_HOUSE_3F/MAIN",
+        "exits": [
+            "REGION_OREBURGH_CITY_NORTHWEST_HOUSE_4F/MAIN",
+            "REGION_OREBURGH_CITY_NORTHWEST_HOUSE_2F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_OREBURGH_CITY_NORTHWEST_HOUSE_4F/MAIN",
+        "exits": [
+            "REGION_OREBURGH_CITY_NORTHWEST_HOUSE_3F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_OREBURGH_CITY_NORTH_HOUSE_1F/MAIN",
+        "exits": [
+            "REGION_OREBURGH_CITY_NORTH_HOUSE_2F/MAIN",
+            "REGION_OREBURGH_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_OREBURGH_CITY_NORTH_HOUSE_2F/MAIN",
+        "exits": [
+            "REGION_OREBURGH_CITY_NORTH_HOUSE_3F/MAIN",
+            "REGION_OREBURGH_CITY_NORTH_HOUSE_1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_OREBURGH_CITY_NORTH_HOUSE_3F/MAIN",
+        "exits": [
+            "REGION_OREBURGH_CITY_NORTH_HOUSE_2F/MAIN",
+            "REGION_OREBURGH_CITY_NORTH_HOUSE_4F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_OREBURGH_CITY_NORTH_HOUSE_4F/MAIN",
+        "exits": [
+            "REGION_OREBURGH_CITY_NORTH_HOUSE_3F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_OREBURGH_CITY_POKECENTER_1F/MAIN",
+        "exits": [
+            "REGION_OREBURGH_CITY_POKECENTER_B1F/MAIN",
+            "REGION_OREBURGH_CITY/MAIN",
+            "REGION_OREBURGH_CITY_POKECENTER_2F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_OREBURGH_CITY_POKECENTER_2F/MAIN",
+        "exits": [
+            "REGION_OREBURGH_CITY_POKECENTER_1F/MAIN",
+            "REGION_UNION_ROOM/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_OREBURGH_CITY_POKECENTER_B1F/MAIN",
+        "exits": [
+            "REGION_OREBURGH_CITY_POKECENTER_1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_OREBURGH_CITY_SOUTH_HOUSE/MAIN",
+        "exits": [
+            "REGION_OREBURGH_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_OREBURGH_CITY_WEST_HOUSE/MAIN",
+        "exits": [
+            "REGION_OREBURGH_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_OREBURGH_GATE_1F/MAIN",
+        "exits": [
+            "REGION_OREBURGH_CITY/MAIN",
+            "REGION_OREBURGH_GATE_B1F/MAIN",
+            "REGION_ROUTE_203/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_OREBURGH_GATE_B1F/MAIN",
+        "exits": [
+            "REGION_OREBURGH_GATE_1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_OREBURGH_MINE_B1F/MAIN",
+        "exits": [
+            "REGION_OREBURGH_CITY/MAIN",
+            "REGION_OREBURGH_MINE_B2F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_OREBURGH_MINE_B2F/MAIN",
+        "exits": [
+            "REGION_OREBURGH_MINE_B1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_PAL_PARK/MAIN",
+        "exits": [
+            "REGION_PAL_PARK_LOBBY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_PAL_PARK_LOBBY/MAIN",
+        "exits": [
+            "REGION_ROUTE_221/MAIN",
+            "REGION_PAL_PARK/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_PASTORIA_CITY/MAIN",
+        "exits": [
+            "REGION_PASTORIA_CITY_MIDDLE_HOUSE/MAIN",
+            "REGION_PASTORIA_CITY_OBSERVATORY_GATE_1F/MAIN",
+            "REGION_ROUTE_213_GATE_TO_PASTORIA_CITY/MAIN",
+            "REGION_PASTORIA_CITY_MART/MAIN",
+            "REGION_PASTORIA_CITY_GYM/MAIN",
+            "REGION_PASTORIA_CITY_NORTHEAST_HOUSE/MAIN",
+            "REGION_PASTORIA_CITY_POKECENTER_1F/MAIN",
+            "REGION_PASTORIA_CITY_EAST_HOUSE/MAIN",
+            "REGION_PASTORIA_CITY_SOUTHWEST_HOUSE/MAIN",
+            "REGION_PASTORIA_CITY_NORTH_HOUSE/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_PASTORIA_CITY_DP_GREAT_MARSH/MAIN",
+        "exits": []
+    },
+    {
+        "name": "REGION_PASTORIA_CITY_EAST_HOUSE/MAIN",
+        "exits": [
+            "REGION_PASTORIA_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_PASTORIA_CITY_GYM/MAIN",
+        "exits": [
+            "REGION_PASTORIA_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_PASTORIA_CITY_MART/MAIN",
+        "exits": [
+            "REGION_PASTORIA_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_PASTORIA_CITY_MIDDLE_HOUSE/MAIN",
+        "exits": [
+            "REGION_PASTORIA_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_PASTORIA_CITY_NORTHEAST_HOUSE/MAIN",
+        "exits": [
+            "REGION_PASTORIA_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_PASTORIA_CITY_NORTH_HOUSE/MAIN",
+        "exits": [
+            "REGION_PASTORIA_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_PASTORIA_CITY_OBSERVATORY_GATE_1F/MAIN",
+        "exits": [
+            "REGION_GREAT_MARSH_6/MAIN",
+            "REGION_PASTORIA_CITY/MAIN",
+            "REGION_PASTORIA_CITY_OBSERVATORY_GATE_2F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_PASTORIA_CITY_OBSERVATORY_GATE_2F/MAIN",
+        "exits": [
+            "REGION_PASTORIA_CITY_OBSERVATORY_GATE_1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_PASTORIA_CITY_POKECENTER_1F/MAIN",
+        "exits": [
+            "REGION_PASTORIA_CITY_POKECENTER_B1F/MAIN",
+            "REGION_PASTORIA_CITY/MAIN",
+            "REGION_PASTORIA_CITY_POKECENTER_2F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_PASTORIA_CITY_POKECENTER_2F/MAIN",
+        "exits": [
+            "REGION_PASTORIA_CITY_POKECENTER_1F/MAIN",
+            "REGION_UNION_ROOM/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_PASTORIA_CITY_POKECENTER_B1F/MAIN",
+        "exits": [
+            "REGION_PASTORIA_CITY_POKECENTER_1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_PASTORIA_CITY_SOUTHWEST_HOUSE/MAIN",
+        "exits": [
+            "REGION_PASTORIA_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_POFFIN_HOUSE/MAIN",
+        "exits": [
+            "REGION_HEARTHOME_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_POKEMON_DAY_CARE/MAIN",
+        "exits": [
+            "REGION_SOLACEON_TOWN/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_POKEMON_LEAGUE/MAIN",
+        "exits": [
+            "REGION_POKEMON_LEAGUE_NORTH_POKECENTER_1F/MAIN",
+            "REGION_POKEMON_LEAGUE_SOUTH_POKECENTER_1F/MAIN",
+            "REGION_VICTORY_ROAD_1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_POKEMON_LEAGUE_AARON_ROOM/MAIN",
+        "exits": [
+            "REGION_POKEMON_LEAGUE_ELEVATOR_TO_BERTHA_ROOM/MAIN",
+            "REGION_POKEMON_LEAGUE_ELEVATOR_TO_AARON_ROOM/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_POKEMON_LEAGUE_BERTHA_ROOM/MAIN",
+        "exits": [
+            "REGION_POKEMON_LEAGUE_ELEVATOR_TO_BERTHA_ROOM/MAIN",
+            "REGION_POKEMON_LEAGUE_ELEVATOR_TO_FLINT_ROOM/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_POKEMON_LEAGUE_CHAMPION_ROOM/MAIN",
+        "exits": [
+            "REGION_POKEMON_LEAGUE_ELEVATOR_TO_CHAMPION_ROOM/MAIN",
+            "REGION_POKEMON_LEAGUE_ELEVATOR_TO_HALL_OF_FAME/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_POKEMON_LEAGUE_ELEVATOR_TO_AARON_ROOM/MAIN",
+        "exits": [
+            "REGION_POKEMON_LEAGUE_AARON_ROOM/MAIN",
+            "REGION_POKEMON_LEAGUE_NORTH_POKECENTER_1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_POKEMON_LEAGUE_ELEVATOR_TO_BERTHA_ROOM/MAIN",
+        "exits": [
+            "REGION_POKEMON_LEAGUE_AARON_ROOM/MAIN",
+            "REGION_POKEMON_LEAGUE_BERTHA_ROOM/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_POKEMON_LEAGUE_ELEVATOR_TO_CHAMPION_ROOM/MAIN",
+        "exits": [
+            "REGION_POKEMON_LEAGUE_LUCIAN_ROOM/MAIN",
+            "REGION_POKEMON_LEAGUE_CHAMPION_ROOM/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_POKEMON_LEAGUE_ELEVATOR_TO_FLINT_ROOM/MAIN",
+        "exits": [
+            "REGION_POKEMON_LEAGUE_BERTHA_ROOM/MAIN",
+            "REGION_POKEMON_LEAGUE_FLINT_ROOM/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_POKEMON_LEAGUE_ELEVATOR_TO_HALL_OF_FAME/MAIN",
+        "exits": [
+            "REGION_POKEMON_LEAGUE_HALL_OF_FAME/MAIN",
+            "REGION_POKEMON_LEAGUE_CHAMPION_ROOM/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_POKEMON_LEAGUE_ELEVATOR_TO_LUCIAN_ROOM/MAIN",
+        "exits": [
+            "REGION_POKEMON_LEAGUE_LUCIAN_ROOM/MAIN",
+            "REGION_POKEMON_LEAGUE_FLINT_ROOM/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_POKEMON_LEAGUE_FLINT_ROOM/MAIN",
+        "exits": [
+            "REGION_POKEMON_LEAGUE_ELEVATOR_TO_LUCIAN_ROOM/MAIN",
+            "REGION_POKEMON_LEAGUE_ELEVATOR_TO_FLINT_ROOM/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_POKEMON_LEAGUE_HALL_OF_FAME/MAIN",
+        "exits": [
+            "REGION_POKEMON_LEAGUE_ELEVATOR_TO_HALL_OF_FAME/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_POKEMON_LEAGUE_LUCIAN_ROOM/MAIN",
+        "exits": [
+            "REGION_POKEMON_LEAGUE_ELEVATOR_TO_LUCIAN_ROOM/MAIN",
+            "REGION_POKEMON_LEAGUE_ELEVATOR_TO_CHAMPION_ROOM/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_POKEMON_LEAGUE_NORTH_POKECENTER_1F/MAIN",
+        "exits": [
+            "REGION_POKEMON_LEAGUE_NORTH_POKECENTER_2F/MAIN",
+            "REGION_POKEMON_LEAGUE/MAIN",
+            "REGION_POKEMON_LEAGUE_NORTH_POKECENTER_B1F/MAIN",
+            "REGION_POKEMON_LEAGUE_ELEVATOR_TO_AARON_ROOM/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_POKEMON_LEAGUE_NORTH_POKECENTER_2F/MAIN",
+        "exits": [
+            "REGION_POKEMON_LEAGUE_NORTH_POKECENTER_1F/MAIN",
+            "REGION_UNION_ROOM/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_POKEMON_LEAGUE_NORTH_POKECENTER_B1F/MAIN",
+        "exits": [
+            "REGION_POKEMON_LEAGUE_NORTH_POKECENTER_1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_POKEMON_LEAGUE_SOUTH_POKECENTER_1F/MAIN",
+        "exits": [
+            "REGION_POKEMON_LEAGUE_SOUTH_POKECENTER_2F/MAIN",
+            "REGION_POKEMON_LEAGUE/MAIN",
+            "REGION_POKEMON_LEAGUE_SOUTH_POKECENTER_B1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_POKEMON_LEAGUE_SOUTH_POKECENTER_2F/MAIN",
+        "exits": [
+            "REGION_POKEMON_LEAGUE_SOUTH_POKECENTER_1F/MAIN",
+            "REGION_UNION_ROOM/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_POKEMON_LEAGUE_SOUTH_POKECENTER_B1F/MAIN",
+        "exits": [
+            "REGION_POKEMON_LEAGUE_SOUTH_POKECENTER_1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_POKEMON_MANSION/MAIN",
+        "exits": [
+            "REGION_POKEMON_MANSION_OFFICE/MAIN",
+            "REGION_TROPHY_GARDEN/MAIN",
+            "REGION_POKEMON_MANSION_MAIDS_ROOM/MAIN",
+            "REGION_ROUTE_212_NORTH/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_POKEMON_MANSION_MAIDS_ROOM/MAIN",
+        "exits": [
+            "REGION_POKEMON_MANSION/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_POKEMON_MANSION_OFFICE/MAIN",
+        "exits": [
+            "REGION_POKEMON_MANSION/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_POKETCH_CO_1F/MAIN",
+        "exits": [
+            "REGION_JUBILIFE_CITY/MAIN",
+            "REGION_POKETCH_CO_2F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_POKETCH_CO_2F/MAIN",
+        "exits": [
+            "REGION_POKETCH_CO_1F/MAIN",
+            "REGION_POKETCH_CO_3F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_POKETCH_CO_3F/MAIN",
+        "exits": [
+            "REGION_POKETCH_CO_2F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_RAVAGED_PATH/MAIN",
+        "exits": [
+            "REGION_ROUTE_204_NORTH/MAIN",
+            "REGION_ROUTE_204_SOUTH/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_RESORT_AREA/MAIN",
+        "exits": [
+            "REGION_RESORT_AREA_POKECENTER_1F/MAIN",
+            "REGION_RESORT_AREA_HOUSE/MAIN",
+            "REGION_VILLA/MAIN",
+            "REGION_RESORT_AREA_RIBBON_SYNDICATE_1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_RESORT_AREA_HOUSE/MAIN",
+        "exits": [
+            "REGION_RESORT_AREA/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_RESORT_AREA_MART/MAIN",
+        "exits": [
+            "REGION_SOLACEON_TOWN/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_RESORT_AREA_POKECENTER_1F/MAIN",
+        "exits": [
+            "REGION_RESORT_AREA_POKECENTER_2F/MAIN",
+            "REGION_RESORT_AREA_POKECENTER_B1F/MAIN",
+            "REGION_RESORT_AREA/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_RESORT_AREA_POKECENTER_2F/MAIN",
+        "exits": [
+            "REGION_UNION_ROOM/MAIN",
+            "REGION_RESORT_AREA_POKECENTER_1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_RESORT_AREA_POKECENTER_B1F/MAIN",
+        "exits": [
+            "REGION_RESORT_AREA_POKECENTER_1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_RESORT_AREA_RIBBON_SYNDICATE_1F/MAIN",
+        "exits": [
+            "REGION_RESORT_AREA_RIBBON_SYNDICATE_ELEVATOR/MAIN",
+            "REGION_RESORT_AREA/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_RESORT_AREA_RIBBON_SYNDICATE_2F/MAIN",
+        "exits": [
+            "REGION_RESORT_AREA_RIBBON_SYNDICATE_ELEVATOR/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_RESORT_AREA_RIBBON_SYNDICATE_ELEVATOR/MAIN",
+        "exits": [
+            "REGION_DYNAMIC/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_RESTAURANT/MAIN",
+        "exits": [
+            "REGION_VALOR_LAKEFRONT/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROCK_PEAK_RUINS/MAIN",
+        "exits": [
+            "REGION_ROUTE_228/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROTOMS_ROOM/MAIN",
+        "exits": [
+            "REGION_TEAM_GALACTIC_ETERNA_BUILDING_1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_201/MAIN",
+        "exits": []
+    },
+    {
+        "name": "REGION_ROUTE_202/MAIN",
+        "exits": []
+    },
+    {
+        "name": "REGION_ROUTE_203/MAIN",
+        "exits": [
+            "REGION_OREBURGH_GATE_1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_204_NORTH/MAIN",
+        "exits": [
+            "REGION_RAVAGED_PATH/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_204_SOUTH/MAIN",
+        "exits": [
+            "REGION_RAVAGED_PATH/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_205_HOUSE/MAIN",
+        "exits": [
+            "REGION_ROUTE_205_SOUTH/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_205_NORTH/MAIN",
+        "exits": [
+            "REGION_ETERNA_FOREST/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_205_SOUTH/MAIN",
+        "exits": [
+            "REGION_ROUTE_205_HOUSE/MAIN",
+            "REGION_ETERNA_FOREST/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_206/MAIN",
+        "exits": [
+            "REGION_WAYWARD_CAVE_1F/MAIN",
+            "REGION_ROUTE_206_CYCLING_ROAD_NORTH_GATE/MAIN",
+            "REGION_ROUTE_206_CYCLING_ROAD_SOUTH_GATE/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_206_CYCLING_ROAD_NORTH_GATE/MAIN",
+        "exits": [
+            "REGION_ETERNA_CITY/MAIN",
+            "REGION_ROUTE_206/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_206_CYCLING_ROAD_SOUTH_GATE/MAIN",
+        "exits": [
+            "REGION_ROUTE_206/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_207/MAIN",
+        "exits": [
+            "REGION_MT_CORONET_2F/MAIN",
+            "REGION_MT_CORONET_1F_SOUTH/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_208/MAIN",
+        "exits": [
+            "REGION_ROUTE_208_HOUSE/MAIN",
+            "REGION_MT_CORONET_1F_SOUTH/MAIN",
+            "REGION_ROUTE_208_GATE_TO_HEARTHOME_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_208_GATE_TO_HEARTHOME_CITY/MAIN",
+        "exits": [
+            "REGION_ROUTE_208/MAIN",
+            "REGION_HEARTHOME_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_208_HOUSE/MAIN",
+        "exits": [
+            "REGION_ROUTE_208/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_209/MAIN",
+        "exits": [
+            "REGION_ROUTE_209_GATE_TO_HEARTHOME_CITY/MAIN",
+            "REGION_ROUTE_209_LOST_TOWER_1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_209_GATE_TO_HEARTHOME_CITY/MAIN",
+        "exits": [
+            "REGION_ROUTE_209/MAIN",
+            "REGION_HEARTHOME_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_209_LOST_TOWER_1F/MAIN",
+        "exits": [
+            "REGION_ROUTE_209/MAIN",
+            "REGION_ROUTE_209_LOST_TOWER_2F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_209_LOST_TOWER_2F/MAIN",
+        "exits": [
+            "REGION_ROUTE_209_LOST_TOWER_3F/MAIN",
+            "REGION_ROUTE_209_LOST_TOWER_1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_209_LOST_TOWER_3F/MAIN",
+        "exits": [
+            "REGION_ROUTE_209_LOST_TOWER_4F/MAIN",
+            "REGION_ROUTE_209_LOST_TOWER_2F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_209_LOST_TOWER_4F/MAIN",
+        "exits": [
+            "REGION_ROUTE_209_LOST_TOWER_3F/MAIN",
+            "REGION_ROUTE_209_LOST_TOWER_5F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_209_LOST_TOWER_5F/MAIN",
+        "exits": [
+            "REGION_ROUTE_209_LOST_TOWER_4F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_210_GRANDMA_WILMA_HOUSE/MAIN",
+        "exits": [
+            "REGION_ROUTE_210_NORTH/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_210_NORTH/MAIN",
+        "exits": [
+            "REGION_ROUTE_210_GRANDMA_WILMA_HOUSE/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_210_SOUTH/MAIN",
+        "exits": [
+            "REGION_CAFE/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_211_EAST/MAIN",
+        "exits": [
+            "REGION_MT_CORONET_1F_NORTH_ROOM_1/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_211_WEST/MAIN",
+        "exits": [
+            "REGION_MT_CORONET_1F_NORTH_ROOM_1/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_212_GATE_TO_HEARTHOME_CITY/MAIN",
+        "exits": [
+            "REGION_ROUTE_212_NORTH/MAIN",
+            "REGION_HEARTHOME_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_212_HOUSE/MAIN",
+        "exits": [
+            "REGION_ROUTE_212_SOUTH/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_212_NORTH/MAIN",
+        "exits": [
+            "REGION_ROUTE_212_GATE_TO_HEARTHOME_CITY/MAIN",
+            "REGION_POKEMON_MANSION/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_212_SOUTH/MAIN",
+        "exits": [
+            "REGION_ROUTE_212_HOUSE/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_213/MAIN",
+        "exits": [
+            "REGION_ROUTE_213_GATE_TO_PASTORIA_CITY/MAIN",
+            "REGION_GRAND_LAKE_ROUTE_213_LOBBY/MAIN",
+            "REGION_GRAND_LAKE_ROUTE_213_NORTHWEST_HOUSE/MAIN",
+            "REGION_FOOTSTEP_HOUSE/MAIN",
+            "REGION_GRAND_LAKE_ROUTE_213_NORTHEAST_HOUSE/MAIN",
+            "REGION_GRAND_LAKE_ROUTE_213_EAST_HOUSE/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_213_GATE_TO_PASTORIA_CITY/MAIN",
+        "exits": [
+            "REGION_PASTORIA_CITY/MAIN",
+            "REGION_ROUTE_213/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_214/MAIN",
+        "exits": [
+            "REGION_RUIN_MANIAC_CAVE_LONG/MAIN",
+            "REGION_ROUTE_214_GATE_TO_VEILSTONE_CITY/MAIN",
+            "REGION_MANIAC_TUNNEL/MAIN",
+            "REGION_RUIN_MANIAC_CAVE_SHORT/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_214_GATE_TO_VEILSTONE_CITY/MAIN",
+        "exits": [
+            "REGION_ROUTE_214/MAIN",
+            "REGION_VEILSTONE_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_215/MAIN",
+        "exits": [
+            "REGION_ROUTE_215_GATE_TO_VEILSTONE_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_215_GATE_TO_VEILSTONE_CITY/MAIN",
+        "exits": [
+            "REGION_ROUTE_215/MAIN",
+            "REGION_VEILSTONE_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_216/MAIN",
+        "exits": [
+            "REGION_ROUTE_216_HOUSE/MAIN",
+            "REGION_MT_CORONET_1F_NORTH_ROOM_2/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_216_HOUSE/MAIN",
+        "exits": [
+            "REGION_ROUTE_216/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_217/MAIN",
+        "exits": [
+            "REGION_ROUTE_217_NORTHEAST_HOUSE/MAIN",
+            "REGION_ROUTE_217_WEST_HOUSE/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_217_NORTHEAST_HOUSE/MAIN",
+        "exits": [
+            "REGION_ROUTE_217/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_217_WEST_HOUSE/MAIN",
+        "exits": [
+            "REGION_ROUTE_217/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_218/MAIN",
+        "exits": [
+            "REGION_ROUTE_218_GATE_TO_JUBILIFE_CITY/MAIN",
+            "REGION_ROUTE_218_GATE_TO_CANALAVE_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_218_GATE_TO_CANALAVE_CITY/MAIN",
+        "exits": [
+            "REGION_ROUTE_218/MAIN",
+            "REGION_CANALAVE_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_218_GATE_TO_JUBILIFE_CITY/MAIN",
+        "exits": [
+            "REGION_JUBILIFE_CITY/MAIN",
+            "REGION_ROUTE_218/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_219/MAIN",
+        "exits": []
+    },
+    {
+        "name": "REGION_ROUTE_220/MAIN",
+        "exits": []
+    },
+    {
+        "name": "REGION_ROUTE_221/MAIN",
+        "exits": [
+            "REGION_PAL_PARK_LOBBY/MAIN",
+            "REGION_ROUTE_221_HOUSE/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_221_HOUSE/MAIN",
+        "exits": [
+            "REGION_ROUTE_221/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_222/MAIN",
+        "exits": [
+            "REGION_ROUTE_222_GATE_TO_SUNYSHORE_CITY/MAIN",
+            "REGION_ROUTE_222_EAST_HOUSE/MAIN",
+            "REGION_ROUTE_222_WEST_HOUSE/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_222_EAST_HOUSE/MAIN",
+        "exits": [
+            "REGION_ROUTE_222/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_222_GATE_TO_SUNYSHORE_CITY/MAIN",
+        "exits": [
+            "REGION_ROUTE_222/MAIN",
+            "REGION_SUNYSHORE_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_222_WEST_HOUSE/MAIN",
+        "exits": [
+            "REGION_ROUTE_222/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_223/MAIN",
+        "exits": []
+    },
+    {
+        "name": "REGION_ROUTE_224/MAIN",
+        "exits": [
+            "REGION_VICTORY_ROAD_1F_ROOM_3/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_225/MAIN",
+        "exits": [
+            "REGION_ROUTE_225_HOUSE/MAIN",
+            "REGION_ROUTE_225_GATE_TO_FIGHT_AREA/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_225_GATE_TO_FIGHT_AREA/MAIN",
+        "exits": [
+            "REGION_FIGHT_AREA/MAIN",
+            "REGION_ROUTE_225/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_225_HOUSE/MAIN",
+        "exits": [
+            "REGION_ROUTE_225/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_226/MAIN",
+        "exits": [
+            "REGION_ROUTE_228_GATE_TO_ROUTE_226/MAIN",
+            "REGION_ROUTE_226_HOUSE/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_226_HOUSE/MAIN",
+        "exits": [
+            "REGION_ROUTE_226/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_227/MAIN",
+        "exits": [
+            "REGION_ROUTE_227_HOUSE/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_227_HOUSE/MAIN",
+        "exits": [
+            "REGION_ROUTE_227/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_228/MAIN",
+        "exits": [
+            "REGION_ROUTE_228_GATE_TO_ROUTE_226/MAIN",
+            "REGION_ROUTE_228_NORTH_HOUSE/MAIN",
+            "REGION_ROUTE_228_SOUTH_HOUSE/MAIN",
+            "REGION_ROUTE_228_ROCK_PEAK_RUINS/MAIN",
+            "REGION_ROCK_PEAK_RUINS/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_228_GATE_TO_ROUTE_226/MAIN",
+        "exits": [
+            "REGION_ROUTE_226/MAIN",
+            "REGION_ROUTE_228/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_228_NORTH_HOUSE/MAIN",
+        "exits": [
+            "REGION_ROUTE_228/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_228_ROCK_PEAK_RUINS/MAIN",
+        "exits": [
+            "REGION_ROUTE_228/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_228_SOUTH_HOUSE/MAIN",
+        "exits": [
+            "REGION_ROUTE_228/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_ROUTE_229/MAIN",
+        "exits": []
+    },
+    {
+        "name": "REGION_ROUTE_230/MAIN",
+        "exits": []
+    },
+    {
+        "name": "REGION_RUIN_MANIAC_CAVE_LONG/MAIN",
+        "exits": [
+            "REGION_ROUTE_214/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_RUIN_MANIAC_CAVE_SHORT/MAIN",
+        "exits": [
+            "REGION_ROUTE_214/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SANDGEM_TOWN/MAIN",
+        "exits": [
+            "REGION_SANDGEM_TOWN_HOUSE/MAIN",
+            "REGION_SANDGEM_TOWN_POKECENTER_1F/MAIN",
+            "REGION_SANDGEM_TOWN_POKEMON_RESEARCH_LAB/MAIN",
+            "REGION_SANDGEM_TOWN_COUNTERPART_HOUSE_1F/MAIN",
+            "REGION_SANDGEM_TOWN_MART/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SANDGEM_TOWN_COUNTERPART_HOUSE_1F/MAIN",
+        "exits": [
+            "REGION_SANDGEM_TOWN/MAIN",
+            "REGION_SANDGEM_TOWN_COUNTERPART_HOUSE_2F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SANDGEM_TOWN_COUNTERPART_HOUSE_2F/MAIN",
+        "exits": [
+            "REGION_SANDGEM_TOWN_COUNTERPART_HOUSE_1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SANDGEM_TOWN_HOUSE/MAIN",
+        "exits": [
+            "REGION_SANDGEM_TOWN/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SANDGEM_TOWN_MART/MAIN",
+        "exits": [
+            "REGION_SANDGEM_TOWN/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SANDGEM_TOWN_POKECENTER_1F/MAIN",
+        "exits": [
+            "REGION_SANDGEM_TOWN/MAIN",
+            "REGION_SANDGEM_TOWN_POKECENTER_2F/MAIN",
+            "REGION_SANDGEM_TOWN_POKECENTER_B1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SANDGEM_TOWN_POKECENTER_2F/MAIN",
+        "exits": [
+            "REGION_UNION_ROOM/MAIN",
+            "REGION_SANDGEM_TOWN_POKECENTER_1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SANDGEM_TOWN_POKECENTER_B1F/MAIN",
+        "exits": [
+            "REGION_SANDGEM_TOWN_POKECENTER_1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SANDGEM_TOWN_POKEMON_RESEARCH_LAB/MAIN",
+        "exits": [
+            "REGION_SANDGEM_TOWN/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SEABREAK_PATH/MAIN",
+        "exits": []
+    },
+    {
+        "name": "REGION_SENDOFF_SPRING/MAIN",
+        "exits": [
+            "REGION_SPRING_PATH/MAIN",
+            "REGION_TURNBACK_CAVE_ENTRANCE/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SNOWPOINT_CITY/MAIN",
+        "exits": [
+            "REGION_SNOWPOINT_CITY_EAST_HOUSE/MAIN",
+            "REGION_SNOWPOINT_CITY_GYM/MAIN",
+            "REGION_SNOWPOINT_CITY_MART/MAIN",
+            "REGION_SNOWPOINT_CITY_POKECENTER_1F/MAIN",
+            "REGION_SNOWPOINT_CITY_WEST_HOUSE/MAIN",
+            "REGION_SNOWPOINT_TEMPLE_1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SNOWPOINT_CITY_EAST_HOUSE/MAIN",
+        "exits": [
+            "REGION_SNOWPOINT_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SNOWPOINT_CITY_GYM/MAIN",
+        "exits": [
+            "REGION_SNOWPOINT_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SNOWPOINT_CITY_MART/MAIN",
+        "exits": [
+            "REGION_SNOWPOINT_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SNOWPOINT_CITY_POKECENTER_1F/MAIN",
+        "exits": [
+            "REGION_SNOWPOINT_CITY_POKECENTER_B1F/MAIN",
+            "REGION_SNOWPOINT_CITY_POKECENTER_2F/MAIN",
+            "REGION_SNOWPOINT_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SNOWPOINT_CITY_POKECENTER_2F/MAIN",
+        "exits": [
+            "REGION_SNOWPOINT_CITY_POKECENTER_1F/MAIN",
+            "REGION_UNION_ROOM/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SNOWPOINT_CITY_POKECENTER_B1F/MAIN",
+        "exits": [
+            "REGION_SNOWPOINT_CITY_POKECENTER_1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SNOWPOINT_CITY_WEST_HOUSE/MAIN",
+        "exits": [
+            "REGION_SNOWPOINT_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SNOWPOINT_TEMPLE_1F/MAIN",
+        "exits": [
+            "REGION_SNOWPOINT_TEMPLE_B1F/MAIN",
+            "REGION_SNOWPOINT_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SNOWPOINT_TEMPLE_B1F/MAIN",
+        "exits": [
+            "REGION_SNOWPOINT_TEMPLE_B2F/MAIN",
+            "REGION_SNOWPOINT_TEMPLE_1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SNOWPOINT_TEMPLE_B2F/MAIN",
+        "exits": [
+            "REGION_SNOWPOINT_TEMPLE_B3F/MAIN",
+            "REGION_SNOWPOINT_TEMPLE_B1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SNOWPOINT_TEMPLE_B3F/MAIN",
+        "exits": [
+            "REGION_SNOWPOINT_TEMPLE_B2F/MAIN",
+            "REGION_SNOWPOINT_TEMPLE_B4F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SNOWPOINT_TEMPLE_B4F/MAIN",
+        "exits": [
+            "REGION_SNOWPOINT_TEMPLE_B3F/MAIN",
+            "REGION_SNOWPOINT_TEMPLE_B5F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SNOWPOINT_TEMPLE_B5F/MAIN",
+        "exits": [
+            "REGION_SNOWPOINT_TEMPLE_B4F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SOLACEON_RUINS_MANIAC_TUNNEL_ROOM/MAIN",
+        "exits": [
+            "REGION_SOLACEON_TOWN/MAIN",
+            "REGION_MANIAC_TUNNEL/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SOLACEON_RUINS_ROOM_1/MAIN",
+        "exits": [
+            "REGION_SOLACEON_TOWN/MAIN",
+            "REGION_SOLACEON_RUINS_ROOM_2/MAIN",
+            "REGION_SOLACEON_RUINS_ROOM_1_SOUTHEAST_DEAD_END/MAIN",
+            "REGION_SOLACEON_RUINS_ROOM_1_NORTHWEST_DEAD_END/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SOLACEON_RUINS_ROOM_1_NORTHWEST_DEAD_END/MAIN",
+        "exits": [
+            "REGION_SOLACEON_RUINS_ROOM_1/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SOLACEON_RUINS_ROOM_1_SOUTHEAST_DEAD_END/MAIN",
+        "exits": [
+            "REGION_SOLACEON_RUINS_ROOM_1/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SOLACEON_RUINS_ROOM_2/MAIN",
+        "exits": [
+            "REGION_SOLACEON_RUINS_ROOM_1/MAIN",
+            "REGION_SOLACEON_RUINS_ROOM_2_SOUTHEAST_DEAD_END/MAIN",
+            "REGION_SOLACEON_RUINS_ROOM_2_NORTHEAST_DEAD_END/MAIN",
+            "REGION_SOLACEON_RUINS_ROOM_3/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SOLACEON_RUINS_ROOM_2_NORTHEAST_DEAD_END/MAIN",
+        "exits": [
+            "REGION_SOLACEON_RUINS_ROOM_2/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SOLACEON_RUINS_ROOM_2_SOUTHEAST_DEAD_END/MAIN",
+        "exits": [
+            "REGION_SOLACEON_RUINS_ROOM_2/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SOLACEON_RUINS_ROOM_3/MAIN",
+        "exits": [
+            "REGION_SOLACEON_RUINS_ROOM_2/MAIN",
+            "REGION_SOLACEON_RUINS_ROOM_4/MAIN",
+            "REGION_SOLACEON_RUINS_ROOM_3_NORTHWEST_DEAD_END/MAIN",
+            "REGION_SOLACEON_RUINS_ROOM_3_SOUTHWEST_DEAD_END/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SOLACEON_RUINS_ROOM_3_NORTHWEST_DEAD_END/MAIN",
+        "exits": [
+            "REGION_SOLACEON_RUINS_ROOM_3/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SOLACEON_RUINS_ROOM_3_SOUTHWEST_DEAD_END/MAIN",
+        "exits": [
+            "REGION_SOLACEON_RUINS_ROOM_3/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SOLACEON_RUINS_ROOM_4/MAIN",
+        "exits": [
+            "REGION_SOLACEON_RUINS_ROOM_5/MAIN",
+            "REGION_SOLACEON_RUINS_ROOM_4_SOUTHEAST_DEAD_END/MAIN",
+            "REGION_SOLACEON_RUINS_ROOM_3/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SOLACEON_RUINS_ROOM_4_SOUTHEAST_DEAD_END/MAIN",
+        "exits": [
+            "REGION_SOLACEON_RUINS_ROOM_4/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SOLACEON_RUINS_ROOM_5/MAIN",
+        "exits": [
+            "REGION_SOLACEON_RUINS_ROOM_6/MAIN",
+            "REGION_SOLACEON_RUINS_ROOM_5_SOUTHEAST_DEADEND/MAIN",
+            "REGION_SOLACEON_RUINS_ROOM_4/MAIN",
+            "REGION_SOLACEON_RUINS_ROOM_5_SOUTHWEST_DEAD_END/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SOLACEON_RUINS_ROOM_5_SOUTHEAST_DEADEND/MAIN",
+        "exits": [
+            "REGION_SOLACEON_RUINS_ROOM_5/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SOLACEON_RUINS_ROOM_5_SOUTHWEST_DEAD_END/MAIN",
+        "exits": [
+            "REGION_SOLACEON_RUINS_ROOM_5/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SOLACEON_RUINS_ROOM_6/MAIN",
+        "exits": [
+            "REGION_SOLACEON_RUINS_ROOM_6_SOUTHEAST_DEAD_END/MAIN",
+            "REGION_SOLACEON_RUINS_ROOM_5/MAIN",
+            "REGION_SOLACEON_RUINS_ROOM_7/MAIN",
+            "REGION_SOLACEON_RUINS_ROOM_6_NORTHWEST_DEAD_END/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SOLACEON_RUINS_ROOM_6_NORTHWEST_DEAD_END/MAIN",
+        "exits": [
+            "REGION_SOLACEON_RUINS_ROOM_6/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SOLACEON_RUINS_ROOM_6_SOUTHEAST_DEAD_END/MAIN",
+        "exits": [
+            "REGION_SOLACEON_RUINS_ROOM_6/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SOLACEON_RUINS_ROOM_7/MAIN",
+        "exits": [
+            "REGION_SOLACEON_RUINS_ROOM_6/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SOLACEON_TOWN/MAIN",
+        "exits": [
+            "REGION_SOLACEON_TOWN_POKEMON_NEWS_PRESS/MAIN",
+            "REGION_SOLACEON_TOWN_EAST_HOUSE/MAIN",
+            "REGION_SOLACEON_RUINS_ROOM_1/MAIN",
+            "REGION_SOLACEON_RUINS_MANIAC_TUNNEL_ROOM/MAIN",
+            "REGION_POKEMON_DAY_CARE/MAIN",
+            "REGION_SOLACEON_TOWN_POKECENTER_1F/MAIN",
+            "REGION_SOLACEON_TOWN_MART/MAIN",
+            "REGION_SOLACEON_TOWN_NORTHEAST_HOUSE/MAIN",
+            "REGION_SOLACEON_TOWN_NORTH_HOUSE/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SOLACEON_TOWN_EAST_HOUSE/MAIN",
+        "exits": [
+            "REGION_SOLACEON_TOWN/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SOLACEON_TOWN_MART/MAIN",
+        "exits": [
+            "REGION_SOLACEON_TOWN/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SOLACEON_TOWN_NORTHEAST_HOUSE/MAIN",
+        "exits": [
+            "REGION_SOLACEON_TOWN/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SOLACEON_TOWN_NORTH_HOUSE/MAIN",
+        "exits": [
+            "REGION_SOLACEON_TOWN/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SOLACEON_TOWN_POKECENTER_1F/MAIN",
+        "exits": [
+            "REGION_SOLACEON_TOWN/MAIN",
+            "REGION_SOLACEON_TOWN_POKECENTER_2F/MAIN",
+            "REGION_SOLACEON_TOWN_POKECENTER_B1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SOLACEON_TOWN_POKECENTER_2F/MAIN",
+        "exits": [
+            "REGION_UNION_ROOM/MAIN",
+            "REGION_SOLACEON_TOWN_POKECENTER_1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SOLACEON_TOWN_POKECENTER_B1F/MAIN",
+        "exits": [
+            "REGION_SOLACEON_TOWN_POKECENTER_1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SOLACEON_TOWN_POKEMON_NEWS_PRESS/MAIN",
+        "exits": [
+            "REGION_SOLACEON_TOWN/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SPEAR_PILLAR/MAIN",
+        "exits": [
+            "REGION_MT_CORONET_6F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SPEAR_PILLAR_DIALGA/MAIN",
+        "exits": [
+            "REGION_MT_CORONET_6F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SPEAR_PILLAR_DISTORTED/MAIN",
+        "exits": [
+            "REGION_MT_CORONET_6F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SPEAR_PILLAR_PALKIA/MAIN",
+        "exits": [
+            "REGION_MT_CORONET_6F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SPRING_PATH/MAIN",
+        "exits": [
+            "REGION_SENDOFF_SPRING/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_STARK_MOUNTAIN_OUTSIDE/MAIN",
+        "exits": [
+            "REGION_STARK_MOUNTAIN_ROOM_1/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_STARK_MOUNTAIN_ROOM_1/MAIN",
+        "exits": [
+            "REGION_STARK_MOUNTAIN_OUTSIDE/MAIN",
+            "REGION_STARK_MOUNTAIN_ROOM_2/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_STARK_MOUNTAIN_ROOM_2/MAIN",
+        "exits": [
+            "REGION_STARK_MOUNTAIN_ROOM_3/MAIN",
+            "REGION_STARK_MOUNTAIN_ROOM_1/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_STARK_MOUNTAIN_ROOM_3/MAIN",
+        "exits": [
+            "REGION_STARK_MOUNTAIN_ROOM_2/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SUNYSHORE_CITY/MAIN",
+        "exits": [
+            "REGION_ROUTE_222_GATE_TO_SUNYSHORE_CITY/MAIN",
+            "REGION_SUNYSHORE_MARKET/MAIN",
+            "REGION_SUNYSHORE_CITY_MART/MAIN",
+            "REGION_SUNYSHORE_CITY_UNKNOWN_HOUSE_1/MAIN",
+            "REGION_SUNYSHORE_CITY_NORTHEAST_HOUSE/MAIN",
+            "REGION_SUNYSHORE_CITY_EAST_HOUSE/MAIN",
+            "REGION_SUNYSHORE_CITY_POKECENTER_1F/MAIN",
+            "REGION_VISTA_LIGHTHOUSE_ELEVATOR/MAIN",
+            "REGION_SUNYSHORE_CITY_WEST_HOUSE/MAIN",
+            "REGION_SUNYSHORE_CITY_NORTHWEST_HOUSE/MAIN",
+            "REGION_SUNYSHORE_CITY_GYM_ROOM_1/MAIN",
+            "REGION_SUNYSHORE_CITY_UNKNOWN_HOUSE_2/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SUNYSHORE_CITY_EAST_HOUSE/MAIN",
+        "exits": [
+            "REGION_SUNYSHORE_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SUNYSHORE_CITY_GYM_ROOM_1/MAIN",
+        "exits": [
+            "REGION_SUNYSHORE_CITY_GYM_ROOM_2/MAIN",
+            "REGION_SUNYSHORE_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SUNYSHORE_CITY_GYM_ROOM_2/MAIN",
+        "exits": [
+            "REGION_SUNYSHORE_CITY_GYM_ROOM_3/MAIN",
+            "REGION_SUNYSHORE_CITY_GYM_ROOM_1/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SUNYSHORE_CITY_GYM_ROOM_3/MAIN",
+        "exits": [
+            "REGION_SUNYSHORE_CITY_GYM_ROOM_2/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SUNYSHORE_CITY_MART/MAIN",
+        "exits": [
+            "REGION_SUNYSHORE_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SUNYSHORE_CITY_NORTHEAST_HOUSE/MAIN",
+        "exits": [
+            "REGION_SUNYSHORE_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SUNYSHORE_CITY_NORTHWEST_HOUSE/MAIN",
+        "exits": [
+            "REGION_SUNYSHORE_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SUNYSHORE_CITY_POKECENTER_1F/MAIN",
+        "exits": [
+            "REGION_SUNYSHORE_CITY_POKECENTER_B1F/MAIN",
+            "REGION_SUNYSHORE_CITY_POKECENTER_2F/MAIN",
+            "REGION_SUNYSHORE_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SUNYSHORE_CITY_POKECENTER_2F/MAIN",
+        "exits": [
+            "REGION_SUNYSHORE_CITY_POKECENTER_1F/MAIN",
+            "REGION_UNION_ROOM/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SUNYSHORE_CITY_POKECENTER_B1F/MAIN",
+        "exits": [
+            "REGION_SUNYSHORE_CITY_POKECENTER_1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SUNYSHORE_CITY_UNKNOWN_HOUSE_1/MAIN",
+        "exits": [
+            "REGION_SUNYSHORE_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SUNYSHORE_CITY_UNKNOWN_HOUSE_2/MAIN",
+        "exits": [
+            "REGION_SUNYSHORE_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SUNYSHORE_CITY_WEST_HOUSE/MAIN",
+        "exits": [
+            "REGION_SUNYSHORE_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SUNYSHORE_MARKET/MAIN",
+        "exits": [
+            "REGION_SUNYSHORE_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SURVIVAL_AREA/MAIN",
+        "exits": [
+            "REGION_SURVIVAL_AREA_NORTH_HOUSE/MAIN",
+            "REGION_SURVIVAL_AREA_SOUTH_HOUSE/MAIN",
+            "REGION_SURVIVAL_AREA_POKECENTER_1F/MAIN",
+            "REGION_BATTLEGROUND/MAIN",
+            "REGION_SURVIVAL_AREA_MART/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SURVIVAL_AREA_MART/MAIN",
+        "exits": [
+            "REGION_SURVIVAL_AREA/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SURVIVAL_AREA_NORTH_HOUSE/MAIN",
+        "exits": [
+            "REGION_SURVIVAL_AREA/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SURVIVAL_AREA_POKECENTER_1F/MAIN",
+        "exits": [
+            "REGION_SURVIVAL_AREA_POKECENTER_2F/MAIN",
+            "REGION_SURVIVAL_AREA/MAIN",
+            "REGION_SURVIVAL_AREA_POKECENTER_B1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SURVIVAL_AREA_POKECENTER_2F/MAIN",
+        "exits": [
+            "REGION_UNION_ROOM/MAIN",
+            "REGION_SURVIVAL_AREA_POKECENTER_1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SURVIVAL_AREA_POKECENTER_B1F/MAIN",
+        "exits": [
+            "REGION_SURVIVAL_AREA_POKECENTER_1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_SURVIVAL_AREA_SOUTH_HOUSE/MAIN",
+        "exits": [
+            "REGION_SURVIVAL_AREA/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_TEAM_GALACTIC_ETERNA_BUILDING_1F/MAIN",
+        "exits": [
+            "REGION_ETERNA_CITY/MAIN",
+            "REGION_ROTOMS_ROOM/MAIN",
+            "REGION_TEAM_GALACTIC_ETERNA_BUILDING_2F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_TEAM_GALACTIC_ETERNA_BUILDING_2F/MAIN",
+        "exits": [
+            "REGION_TEAM_GALACTIC_ETERNA_BUILDING_1F/MAIN",
+            "REGION_TEAM_GALACTIC_ETERNA_BUILDING_3F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_TEAM_GALACTIC_ETERNA_BUILDING_3F/MAIN",
+        "exits": [
+            "REGION_TEAM_GALACTIC_ETERNA_BUILDING_4F/MAIN",
+            "REGION_TEAM_GALACTIC_ETERNA_BUILDING_2F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_TEAM_GALACTIC_ETERNA_BUILDING_4F/MAIN",
+        "exits": [
+            "REGION_TEAM_GALACTIC_ETERNA_BUILDING_3F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_TRAINERS_SCHOOL/MAIN",
+        "exits": [
+            "REGION_JUBILIFE_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_TROPHY_GARDEN/MAIN",
+        "exits": [
+            "REGION_POKEMON_MANSION/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_TURNBACK_CAVE_ENTRANCE/MAIN",
+        "exits": [
+            "REGION_SENDOFF_SPRING/MAIN",
+            "REGION_TURNBACK_CAVE_ENTRANCE/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_TURNBACK_CAVE_PILLAR_1_ROOM_1/MAIN",
+        "exits": [
+            "REGION_TURNBACK_CAVE_ENTRANCE/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_TURNBACK_CAVE_PILLAR_1_ROOM_2/MAIN",
+        "exits": [
+            "REGION_TURNBACK_CAVE_ENTRANCE/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_TURNBACK_CAVE_PILLAR_1_ROOM_3/MAIN",
+        "exits": [
+            "REGION_TURNBACK_CAVE_ENTRANCE/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_TURNBACK_CAVE_PILLAR_1_ROOM_4/MAIN",
+        "exits": [
+            "REGION_TURNBACK_CAVE_ENTRANCE/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_TURNBACK_CAVE_PILLAR_1_ROOM_5/MAIN",
+        "exits": [
+            "REGION_TURNBACK_CAVE_ENTRANCE/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_TURNBACK_CAVE_PILLAR_1_ROOM_6/MAIN",
+        "exits": [
+            "REGION_TURNBACK_CAVE_ENTRANCE/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_TURNBACK_CAVE_PILLAR_2_ROOM_1/MAIN",
+        "exits": [
+            "REGION_TURNBACK_CAVE_ENTRANCE/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_TURNBACK_CAVE_PILLAR_2_ROOM_2/MAIN",
+        "exits": [
+            "REGION_TURNBACK_CAVE_ENTRANCE/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_TURNBACK_CAVE_PILLAR_2_ROOM_3/MAIN",
+        "exits": [
+            "REGION_TURNBACK_CAVE_ENTRANCE/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_TURNBACK_CAVE_PILLAR_2_ROOM_4/MAIN",
+        "exits": [
+            "REGION_TURNBACK_CAVE_ENTRANCE/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_TURNBACK_CAVE_PILLAR_2_ROOM_5/MAIN",
+        "exits": [
+            "REGION_TURNBACK_CAVE_ENTRANCE/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_TURNBACK_CAVE_PILLAR_2_ROOM_6/MAIN",
+        "exits": [
+            "REGION_TURNBACK_CAVE_ENTRANCE/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_TURNBACK_CAVE_PILLAR_3_ROOM_1/MAIN",
+        "exits": [
+            "REGION_TURNBACK_CAVE_ENTRANCE/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_TURNBACK_CAVE_PILLAR_3_ROOM_2/MAIN",
+        "exits": [
+            "REGION_TURNBACK_CAVE_ENTRANCE/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_TURNBACK_CAVE_PILLAR_3_ROOM_3/MAIN",
+        "exits": [
+            "REGION_TURNBACK_CAVE_ENTRANCE/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_TURNBACK_CAVE_PILLAR_3_ROOM_4/MAIN",
+        "exits": [
+            "REGION_TURNBACK_CAVE_ENTRANCE/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_TURNBACK_CAVE_PILLAR_3_ROOM_5/MAIN",
+        "exits": [
+            "REGION_TURNBACK_CAVE_ENTRANCE/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_TURNBACK_CAVE_PILLAR_3_ROOM_6/MAIN",
+        "exits": [
+            "REGION_TURNBACK_CAVE_ENTRANCE/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_TURNBACK_CAVE_PILLAR_ROOM/MAIN",
+        "exits": [
+            "REGION_TURNBACK_CAVE_ENTRANCE/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_TWINLEAF_TOWN/MAIN",
+        "exits": [
+            "REGION_TWINLEAF_TOWN_SOUTHWEST_HOUSE/MAIN",
+            "REGION_TWINLEAF_TOWN_RIVAL_HOUSE_1F/MAIN",
+            "REGION_TWINLEAF_TOWN_NORTHEAST_HOUSE/MAIN",
+            "REGION_TWINLEAF_TOWN_PLAYER_HOUSE_1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_TWINLEAF_TOWN_NORTHEAST_HOUSE/MAIN",
+        "exits": [
+            "REGION_TWINLEAF_TOWN/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_TWINLEAF_TOWN_PLAYER_HOUSE_1F/MAIN",
+        "exits": [
+            "REGION_TWINLEAF_TOWN_PLAYER_HOUSE_2F/MAIN",
+            "REGION_TWINLEAF_TOWN/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_TWINLEAF_TOWN_PLAYER_HOUSE_2F/MAIN",
+        "exits": [
+            "REGION_TWINLEAF_TOWN_PLAYER_HOUSE_1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_TWINLEAF_TOWN_RIVAL_HOUSE_1F/MAIN",
+        "exits": [
+            "REGION_TWINLEAF_TOWN/MAIN",
+            "REGION_TWINLEAF_TOWN_RIVAL_HOUSE_2F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_TWINLEAF_TOWN_RIVAL_HOUSE_2F/MAIN",
+        "exits": [
+            "REGION_TWINLEAF_TOWN_RIVAL_HOUSE_1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_TWINLEAF_TOWN_SOUTHWEST_HOUSE/MAIN",
+        "exits": [
+            "REGION_TWINLEAF_TOWN/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_UNDERGROUND/MAIN",
+        "exits": []
+    },
+    {
+        "name": "REGION_UNION_ROOM/MAIN",
+        "exits": [
+            "REGION_SANDGEM_TOWN_POKECENTER_2F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_UNKNOWN_MAP_197/MAIN",
+        "exits": []
+    },
+    {
+        "name": "REGION_UNKNOWN_MAP_250/MAIN",
+        "exits": []
+    },
+    {
+        "name": "REGION_UNKNOWN_MAP_255/MAIN",
+        "exits": []
+    },
+    {
+        "name": "REGION_UNKNOWN_MAP_535/MAIN",
+        "exits": []
+    },
+    {
+        "name": "REGION_UNKNOWN_MAP_540/MAIN",
+        "exits": []
+    },
+    {
+        "name": "REGION_UNKNOWN_MAP_546/MAIN",
+        "exits": []
+    },
+    {
+        "name": "REGION_VALLEY_WINDWORKS_BUILDING/MAIN",
+        "exits": [
+            "REGION_VALLEY_WINDWORKS_OUTSIDE/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_VALLEY_WINDWORKS_OUTSIDE/MAIN",
+        "exits": [
+            "REGION_VALLEY_WINDWORKS_BUILDING/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_VALOR_CAVERN/MAIN",
+        "exits": [
+            "REGION_LAKE_VALOR_DRAINED/MAIN",
+            "REGION_LAKE_VALOR/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_VALOR_LAKEFRONT/MAIN",
+        "exits": [
+            "REGION_RESTAURANT/MAIN",
+            "REGION_LAKE_VALOR_DRAINED/MAIN",
+            "REGION_LAKE_VALOR/MAIN",
+            "REGION_GRAND_LAKE_VALOR_LAKEFRONT_WEST_HOUSE/MAIN",
+            "REGION_GRAND_LAKE_VALOR_LAKEFRONT_EAST_HOUSE/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_VEILSTONE_CITY/MAIN",
+        "exits": [
+            "REGION_VEILSTONE_CITY_SOUTHWEST_HOUSE/MAIN",
+            "REGION_ROUTE_214_GATE_TO_VEILSTONE_CITY/MAIN",
+            "REGION_GAME_CORNER/MAIN",
+            "REGION_VEILSTONE_CITY_SOUTHEAST_HOUSE/MAIN",
+            "REGION_ROUTE_215_GATE_TO_VEILSTONE_CITY/MAIN",
+            "REGION_VEILSTONE_CITY_PRIZE_EXCHANGE/MAIN",
+            "REGION_VEILSTONE_CITY_NORTHWEST_HOUSE/MAIN",
+            "REGION_VEILSTONE_CITY_POKECENTER_1F/MAIN",
+            "REGION_VEILSTONE_CITY_NORTHEAST_HOUSE/MAIN",
+            "REGION_VEILSTONE_CITY_GALACTIC_WAREHOUSE/MAIN",
+            "REGION_GALACTIC_HQ_1F/MAIN",
+            "REGION_VEILSTONE_STORE_1F/MAIN",
+            "REGION_VEILSTONE_CITY_GYM/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_VEILSTONE_CITY_GALACTIC_WAREHOUSE/MAIN",
+        "exits": [
+            "REGION_GALACTIC_HQ_B2F/MAIN",
+            "REGION_VEILSTONE_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_VEILSTONE_CITY_GYM/MAIN",
+        "exits": [
+            "REGION_VEILSTONE_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_VEILSTONE_CITY_NORTHEAST_HOUSE/MAIN",
+        "exits": [
+            "REGION_VEILSTONE_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_VEILSTONE_CITY_NORTHWEST_HOUSE/MAIN",
+        "exits": [
+            "REGION_VEILSTONE_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_VEILSTONE_CITY_POKECENTER_1F/MAIN",
+        "exits": [
+            "REGION_VEILSTONE_CITY_POKECENTER_B1F/MAIN",
+            "REGION_VEILSTONE_CITY_POKECENTER_2F/MAIN",
+            "REGION_VEILSTONE_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_VEILSTONE_CITY_POKECENTER_2F/MAIN",
+        "exits": [
+            "REGION_VEILSTONE_CITY_POKECENTER_1F/MAIN",
+            "REGION_UNION_ROOM/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_VEILSTONE_CITY_POKECENTER_B1F/MAIN",
+        "exits": [
+            "REGION_VEILSTONE_CITY_POKECENTER_1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_VEILSTONE_CITY_PRIZE_EXCHANGE/MAIN",
+        "exits": [
+            "REGION_VEILSTONE_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_VEILSTONE_CITY_SOUTHEAST_HOUSE/MAIN",
+        "exits": [
+            "REGION_VEILSTONE_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_VEILSTONE_CITY_SOUTHWEST_HOUSE/MAIN",
+        "exits": [
+            "REGION_VEILSTONE_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_VEILSTONE_STORE_1F/MAIN",
+        "exits": [
+            "REGION_VEILSTONE_STORE_B1F/MAIN",
+            "REGION_VEILSTONE_STORE_ELEVATOR/MAIN",
+            "REGION_VEILSTONE_STORE_2F/MAIN",
+            "REGION_VEILSTONE_CITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_VEILSTONE_STORE_2F/MAIN",
+        "exits": [
+            "REGION_VEILSTONE_STORE_1F/MAIN",
+            "REGION_VEILSTONE_STORE_3F/MAIN",
+            "REGION_VEILSTONE_STORE_ELEVATOR/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_VEILSTONE_STORE_3F/MAIN",
+        "exits": [
+            "REGION_VEILSTONE_STORE_4F/MAIN",
+            "REGION_VEILSTONE_STORE_ELEVATOR/MAIN",
+            "REGION_VEILSTONE_STORE_2F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_VEILSTONE_STORE_4F/MAIN",
+        "exits": [
+            "REGION_VEILSTONE_STORE_5F/MAIN",
+            "REGION_VEILSTONE_STORE_3F/MAIN",
+            "REGION_VEILSTONE_STORE_ELEVATOR/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_VEILSTONE_STORE_5F/MAIN",
+        "exits": [
+            "REGION_VEILSTONE_STORE_4F/MAIN",
+            "REGION_VEILSTONE_STORE_ELEVATOR/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_VEILSTONE_STORE_B1F/MAIN",
+        "exits": [
+            "REGION_VEILSTONE_STORE_1F/MAIN",
+            "REGION_VEILSTONE_STORE_ELEVATOR/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_VEILSTONE_STORE_ELEVATOR/MAIN",
+        "exits": [
+            "REGION_DYNAMIC/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_VERITY_CAVERN/MAIN",
+        "exits": [
+            "REGION_LAKE_VERITY/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_VERITY_LAKEFRONT/MAIN",
+        "exits": [
+            "REGION_LAKE_VERITY/MAIN",
+            "REGION_LAKE_VERITY_LOW_WATER/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_VERITY_LAKEFRONT_UNKNOWN_HOUSE/MAIN",
+        "exits": []
+    },
+    {
+        "name": "REGION_VICTORY_ROAD_1F/MAIN",
+        "exits": [
+            "REGION_POKEMON_LEAGUE/MAIN",
+            "REGION_VICTORY_ROAD_2F/MAIN",
+            "REGION_VICTORY_ROAD_1F_ROOM_1/MAIN",
+            "REGION_VICTORY_ROAD_B1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_VICTORY_ROAD_1F_ROOM_1/MAIN",
+        "exits": [
+            "REGION_VICTORY_ROAD_1F_ROOM_2/MAIN",
+            "REGION_VICTORY_ROAD_1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_VICTORY_ROAD_1F_ROOM_2/MAIN",
+        "exits": [
+            "REGION_VICTORY_ROAD_1F_ROOM_1/MAIN",
+            "REGION_VICTORY_ROAD_1F_ROOM_3/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_VICTORY_ROAD_1F_ROOM_3/MAIN",
+        "exits": [
+            "REGION_ROUTE_224/MAIN",
+            "REGION_VICTORY_ROAD_1F_ROOM_2/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_VICTORY_ROAD_2F/MAIN",
+        "exits": [
+            "REGION_VICTORY_ROAD_1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_VICTORY_ROAD_B1F/MAIN",
+        "exits": [
+            "REGION_VICTORY_ROAD_1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_VILLA/MAIN",
+        "exits": [
+            "REGION_RESORT_AREA/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_VISTA_LIGHTHOUSE/MAIN",
+        "exits": [
+            "REGION_VISTA_LIGHTHOUSE_ELEVATOR/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_VISTA_LIGHTHOUSE_ELEVATOR/MAIN",
+        "exits": [
+            "REGION_DYNAMIC/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_WAYWARD_CAVE_1F/MAIN",
+        "exits": [
+            "REGION_ROUTE_206/MAIN",
+            "REGION_WAYWARD_CAVE_B1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_WAYWARD_CAVE_B1F/MAIN",
+        "exits": [
+            "REGION_WAYWARD_CAVE_1F/MAIN"
+        ]
+    },
+    {
+        "name": "REGION_WIFI_PLAZA_ENTRANCE/MAIN",
+        "exits": []
+    }
+]

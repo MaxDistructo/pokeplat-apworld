@@ -1,0 +1,1952 @@
+[
+    {
+        "region": "REGION_ROUTE_202/MAIN",
+        "flag": 1014,
+        "id": "ITEM_POTION",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_203/MAIN",
+        "flag": 1015,
+        "id": "ITEM_REPEL",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_203/MAIN",
+        "flag": 1016,
+        "id": "ITEM_POKE_BALL",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_OREBURGH_GATE_B1F/MAIN",
+        "flag": 1017,
+        "id": "ITEM_TM01",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_OREBURGH_GATE_B1F/MAIN",
+        "flag": 1018,
+        "id": "ITEM_TM31",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_OREBURGH_GATE_B1F/MAIN",
+        "flag": 1019,
+        "id": "ITEM_TM70",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_OREBURGH_GATE_B1F/MAIN",
+        "flag": 1020,
+        "id": "ITEM_EARTH_PLATE",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_OREBURGH_MINE_B2F/MAIN",
+        "flag": 1021,
+        "id": "ITEM_ESCAPE_ROPE",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_OREBURGH_MINE_B2F/MAIN",
+        "flag": 1022,
+        "id": "ITEM_POTION",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_204_SOUTH/MAIN",
+        "flag": 1023,
+        "id": "ITEM_SEA_INCENSE",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_204_SOUTH/MAIN",
+        "flag": 1024,
+        "id": "ITEM_HP_UP",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_RAVAGED_PATH/MAIN",
+        "flag": 1025,
+        "id": "ITEM_TM39",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_RAVAGED_PATH/MAIN",
+        "flag": 1026,
+        "id": "ITEM_LUCK_INCENSE",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_RAVAGED_PATH/MAIN",
+        "flag": 1027,
+        "id": "ITEM_TM03",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_204_NORTH/MAIN",
+        "flag": 1028,
+        "id": "ITEM_TM09",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_VALLEY_WINDWORKS_OUTSIDE/MAIN",
+        "flag": 1029,
+        "id": "ITEM_TM24",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_205_SOUTH/MAIN",
+        "flag": 1030,
+        "id": "ITEM_HEAL_BALL",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_205_SOUTH/MAIN",
+        "flag": 1031,
+        "id": "ITEM_X_SP_DEF",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ETERNA_FOREST/MAIN",
+        "flag": 1032,
+        "id": "ITEM_ANTIDOTE",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ETERNA_FOREST/MAIN",
+        "flag": 1033,
+        "id": "ITEM_PARLYZ_HEAL",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ETERNA_FOREST/MAIN",
+        "flag": 1034,
+        "id": "ITEM_NET_BALL",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ETERNA_FOREST/MAIN",
+        "flag": 1035,
+        "id": "ITEM_GREEN_SHARD",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_OLD_CHATEAU_SIDE_ROOMS/MAIN",
+        "flag": 1036,
+        "id": "ITEM_OLD_GATEAU",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_205_NORTH/MAIN",
+        "flag": 1037,
+        "id": "ITEM_GUARD_SPEC",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ETERNA_CITY/MAIN",
+        "flag": 1038,
+        "id": "ITEM_TM46",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ETERNA_CITY/MAIN",
+        "flag": 1040,
+        "id": "ITEM_SUPER_POTION",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_211_WEST/MAIN",
+        "flag": 1041,
+        "id": "ITEM_TM12",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ETERNA_FOREST_OUTSIDE/MAIN",
+        "flag": 1042,
+        "id": "ITEM_TM82",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ETERNA_FOREST_OUTSIDE/MAIN",
+        "flag": 1043,
+        "id": "ITEM_SILVERPOWDER",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_206/MAIN",
+        "flag": 1044,
+        "id": "ITEM_POISON_BARB",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_206/MAIN",
+        "flag": 1045,
+        "id": "ITEM_PP_UP",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_206/MAIN",
+        "flag": 1046,
+        "id": "ITEM_SUPER_REPEL",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_206/MAIN",
+        "flag": 1047,
+        "id": "ITEM_BURN_HEAL",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_WAYWARD_CAVE_1F/MAIN",
+        "flag": 1048,
+        "id": "ITEM_TM32",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_WAYWARD_CAVE_1F/MAIN",
+        "flag": 1049,
+        "id": "ITEM_REVIVE",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_WAYWARD_CAVE_1F/MAIN",
+        "flag": 1050,
+        "id": "ITEM_ESCAPE_ROPE",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_MT_CORONET_4F_ROOMS_1_AND_2/MAIN",
+        "flag": 1051,
+        "id": "ITEM_ADAMANT_ORB",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_WAYWARD_CAVE_1F/MAIN",
+        "flag": 1052,
+        "id": "ITEM_TM26",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_MT_CORONET_4F_ROOMS_1_AND_2/MAIN",
+        "flag": 1053,
+        "id": "ITEM_LUSTROUS_ORB",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_WAYWARD_CAVE_B1F/MAIN",
+        "flag": 1054,
+        "id": "ITEM_MAX_ETHER",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_WAYWARD_CAVE_B1F/MAIN",
+        "flag": 1055,
+        "id": "ITEM_RARE_CANDY",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_WAYWARD_CAVE_B1F/MAIN",
+        "flag": 1056,
+        "id": "ITEM_GRIP_CLAW",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_207/MAIN",
+        "flag": 1057,
+        "id": "ITEM_POKE_BALL",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_207/MAIN",
+        "flag": 1058,
+        "id": "ITEM_REVIVE",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_207/MAIN",
+        "flag": 1059,
+        "id": "ITEM_IRON",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_MT_CORONET_1F_SOUTH/MAIN",
+        "flag": 1060,
+        "id": "ITEM_PROTEIN",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_MT_CORONET_1F_SOUTH/MAIN",
+        "flag": 1061,
+        "id": "ITEM_DAWN_STONE",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_208/MAIN",
+        "flag": 1062,
+        "id": "ITEM_CARBOS",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_208/MAIN",
+        "flag": 1063,
+        "id": "ITEM_GREAT_BALL",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_208/MAIN",
+        "flag": 1064,
+        "id": "ITEM_ETHER",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_AMITY_SQUARE/MAIN",
+        "flag": 1065,
+        "id": "ITEM_TM45",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_AMITY_SQUARE/MAIN",
+        "flag": 1066,
+        "id": "ITEM_TM43",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_AMITY_SQUARE/MAIN",
+        "flag": 1067,
+        "id": "ITEM_SPOOKY_PLATE",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_212_NORTH/MAIN",
+        "flag": 1068,
+        "id": "ITEM_TM11",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_212_NORTH/MAIN",
+        "flag": 1069,
+        "id": "ITEM_ROSE_INCENSE",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_212_NORTH/MAIN",
+        "flag": 1070,
+        "id": "ITEM_ELIXIR",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_POKEMON_MANSION_OFFICE/MAIN",
+        "flag": 1071,
+        "id": "ITEM_TM87",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_POKEMON_MANSION_MAIDS_ROOM/MAIN",
+        "flag": 1072,
+        "id": "ITEM_LUXURY_BALL",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_212_SOUTH/MAIN",
+        "flag": 1073,
+        "id": "ITEM_FULL_HEAL",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_212_SOUTH/MAIN",
+        "flag": 1074,
+        "id": "ITEM_TM84",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_212_SOUTH/MAIN",
+        "flag": 1075,
+        "id": "ITEM_TM62",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_212_SOUTH/MAIN",
+        "flag": 1076,
+        "id": "ITEM_ZINC",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_212_SOUTH/MAIN",
+        "flag": 1077,
+        "id": "ITEM_HYPER_POTION",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_212_SOUTH/MAIN",
+        "flag": 1078,
+        "id": "ITEM_TM06",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_212_SOUTH/MAIN",
+        "flag": 1079,
+        "id": "ITEM_REVIVE",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_GREAT_MARSH_1/MAIN",
+        "flag": 1080,
+        "id": "ITEM_YELLOW_SHARD",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_GREAT_MARSH_1/MAIN",
+        "flag": 1081,
+        "id": "ITEM_POKE_BALL",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_GREAT_MARSH_2/MAIN",
+        "flag": 1082,
+        "id": "ITEM_BLUE_SHARD",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_GREAT_MARSH_4/MAIN",
+        "flag": 1083,
+        "id": "ITEM_POKE_BALL",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_GREAT_MARSH_3/MAIN",
+        "flag": 1084,
+        "id": "ITEM_GREAT_BALL",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_GREAT_MARSH_4/MAIN",
+        "flag": 1085,
+        "id": "ITEM_GREEN_SHARD",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_GREAT_MARSH_5/MAIN",
+        "flag": 1086,
+        "id": "ITEM_GREAT_BALL",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_GREAT_MARSH_6/MAIN",
+        "flag": 1087,
+        "id": "ITEM_RED_SHARD",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_PASTORIA_CITY/MAIN",
+        "flag": 1088,
+        "id": "ITEM_MYSTIC_WATER",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_213/MAIN",
+        "flag": 1089,
+        "id": "ITEM_TM05",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_213/MAIN",
+        "flag": 1090,
+        "id": "ITEM_TM40",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_213/MAIN",
+        "flag": 1091,
+        "id": "ITEM_YELLOW_SHARD",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_213/MAIN",
+        "flag": 1092,
+        "id": "ITEM_MAX_REVIVE",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_213/MAIN",
+        "flag": 1093,
+        "id": "ITEM_WATER_STONE",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_213/MAIN",
+        "flag": 1094,
+        "id": "ITEM_PP_UP",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_213/MAIN",
+        "flag": 1095,
+        "id": "ITEM_PROTEIN",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_204_SOUTH/MAIN",
+        "flag": 1096,
+        "id": "ITEM_PARLYZ_HEAL",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_VALOR_LAKEFRONT/MAIN",
+        "flag": 1097,
+        "id": "ITEM_TM85",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_VALOR_LAKEFRONT/MAIN",
+        "flag": 1098,
+        "id": "ITEM_ULTRA_BALL",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ETERNA_FOREST/MAIN",
+        "flag": 1099,
+        "id": "ITEM_ETHER",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_209/MAIN",
+        "flag": 1100,
+        "id": "ITEM_GREAT_BALL",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_209/MAIN",
+        "flag": 1101,
+        "id": "ITEM_HYPER_POTION",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_209/MAIN",
+        "flag": 1102,
+        "id": "ITEM_CALCIUM",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_209/MAIN",
+        "flag": 1103,
+        "id": "ITEM_TM47",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_209/MAIN",
+        "flag": 1104,
+        "id": "ITEM_TM19",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_209_LOST_TOWER_2F/MAIN",
+        "flag": 1105,
+        "id": "ITEM_OVAL_STONE",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_FULLMOON_ISLAND_FOREST/MAIN",
+        "flag": 1106,
+        "id": "ITEM_LUNAR_WING",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_209_LOST_TOWER_3F/MAIN",
+        "flag": 1107,
+        "id": "ITEM_REVIVE",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_209_LOST_TOWER_4F/MAIN",
+        "flag": 1108,
+        "id": "ITEM_TM27",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_SOLACEON_RUINS_ROOM_7/MAIN",
+        "flag": 1109,
+        "id": "ITEM_MIND_PLATE",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_SOLACEON_RUINS_ROOM_7/MAIN",
+        "flag": 1110,
+        "id": "ITEM_ODD_INCENSE",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_SOLACEON_RUINS_ROOM_7/MAIN",
+        "flag": 1111,
+        "id": "ITEM_NUGGET",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_SOLACEON_RUINS_ROOM_7/MAIN",
+        "flag": 1112,
+        "id": "ITEM_HM05",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_210_SOUTH/MAIN",
+        "flag": 1113,
+        "id": "ITEM_SUPER_REPEL",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_210_SOUTH/MAIN",
+        "flag": 1114,
+        "id": "ITEM_MAX_REPEL",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_221/MAIN",
+        "flag": 1115,
+        "id": "ITEM_PURE_INCENSE",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_210_SOUTH/MAIN",
+        "flag": 1116,
+        "id": "ITEM_NEST_BALL",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_210_SOUTH/MAIN",
+        "flag": 1117,
+        "id": "ITEM_HYPER_POTION",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_215/MAIN",
+        "flag": 1118,
+        "id": "ITEM_FIST_PLATE",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_215/MAIN",
+        "flag": 1119,
+        "id": "ITEM_HYPER_POTION",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_215/MAIN",
+        "flag": 1120,
+        "id": "ITEM_MAX_ETHER",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_215/MAIN",
+        "flag": 1121,
+        "id": "ITEM_FULL_HEAL",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_215/MAIN",
+        "flag": 1122,
+        "id": "ITEM_TM34",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_VEILSTONE_CITY/MAIN",
+        "flag": 1123,
+        "id": "ITEM_FULL_INCENSE",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_VEILSTONE_CITY/MAIN",
+        "flag": 1124,
+        "id": "ITEM_RARE_CANDY",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_VEILSTONE_CITY_GALACTIC_WAREHOUSE/MAIN",
+        "flag": 1125,
+        "id": "ITEM_DUSK_STONE",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_214/MAIN",
+        "flag": 1126,
+        "id": "ITEM_BIG_ROOT",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_214/MAIN",
+        "flag": 1127,
+        "id": "ITEM_RED_SHARD",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_214/MAIN",
+        "flag": 1128,
+        "id": "ITEM_MAX_REPEL",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_214/MAIN",
+        "flag": 1129,
+        "id": "ITEM_RARE_CANDY",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_MANIAC_TUNNEL/MAIN",
+        "flag": 1130,
+        "id": "ITEM_TM28",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_RUIN_MANIAC_CAVE_SHORT/MAIN",
+        "flag": 1130,
+        "id": "ITEM_TM28",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_RUIN_MANIAC_CAVE_LONG/MAIN",
+        "flag": 1130,
+        "id": "ITEM_TM28",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_210_NORTH/MAIN",
+        "flag": 1131,
+        "id": "ITEM_SMOKE_BALL",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_210_NORTH/MAIN",
+        "flag": 1132,
+        "id": "ITEM_WAVE_INCENSE",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_210_NORTH/MAIN",
+        "flag": 1133,
+        "id": "ITEM_TM30",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_FUEGO_IRONWORKS_BUILDING/MAIN",
+        "flag": 1134,
+        "id": "ITEM_TM35",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_FUEGO_IRONWORKS_BUILDING/MAIN",
+        "flag": 1135,
+        "id": "ITEM_ROCK_INCENSE",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_FUEGO_IRONWORKS_BUILDING/MAIN",
+        "flag": 1136,
+        "id": "ITEM_CALCIUM",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_FUEGO_IRONWORKS_BUILDING/MAIN",
+        "flag": 1137,
+        "id": "ITEM_FIRE_STONE",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_219/MAIN",
+        "flag": 1138,
+        "id": "ITEM_ANTIDOTE",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_220/MAIN",
+        "flag": 1139,
+        "id": "ITEM_SPLASH_PLATE",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_205_SOUTH/MAIN",
+        "flag": 1140,
+        "id": "ITEM_REPEL",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_220/MAIN",
+        "flag": 1141,
+        "id": "ITEM_CARBOS",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_220/MAIN",
+        "flag": 1142,
+        "id": "ITEM_MAX_REPEL",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_221/MAIN",
+        "flag": 1143,
+        "id": "ITEM_ULTRA_BALL",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_221/MAIN",
+        "flag": 1144,
+        "id": "ITEM_PROTEIN",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_221/MAIN",
+        "flag": 1145,
+        "id": "ITEM_TM81",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_218/MAIN",
+        "flag": 1146,
+        "id": "ITEM_RARE_CANDY",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_218/MAIN",
+        "flag": 1147,
+        "id": "ITEM_HYPER_POTION",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_CANALAVE_CITY/MAIN",
+        "flag": 1148,
+        "id": "ITEM_TM89",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_IRON_ISLAND_B1F_LEFT_ROOM/MAIN",
+        "flag": 1149,
+        "id": "ITEM_PROTECTOR",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_IRON_ISLAND_B1F_RIGHT_ROOM/MAIN",
+        "flag": 1150,
+        "id": "ITEM_ESCAPE_ROPE",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_IRON_ISLAND_B1F_RIGHT_ROOM/MAIN",
+        "flag": 1151,
+        "id": "ITEM_MAX_REPEL",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_IRON_ISLAND_B2F_RIGHT_ROOM/MAIN",
+        "flag": 1152,
+        "id": "ITEM_ELIXIR",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_IRON_ISLAND_B2F_RIGHT_ROOM/MAIN",
+        "flag": 1153,
+        "id": "ITEM_TM23",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_IRON_ISLAND_B2F_LEFT_ROOM/MAIN",
+        "flag": 1154,
+        "id": "ITEM_DUSK_BALL",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_IRON_ISLAND_B2F_LEFT_ROOM/MAIN",
+        "flag": 1155,
+        "id": "ITEM_MAX_POTION",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_IRON_ISLAND_B2F_LEFT_ROOM/MAIN",
+        "flag": 1156,
+        "id": "ITEM_ULTRA_BALL",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_IRON_ISLAND_B2F_LEFT_ROOM/MAIN",
+        "flag": 1157,
+        "id": "ITEM_HP_UP",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_IRON_ISLAND_B3F/MAIN",
+        "flag": 1158,
+        "id": "ITEM_SHINY_STONE",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_207/MAIN",
+        "flag": 1159,
+        "id": "ITEM_SUPER_POTION",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_211_EAST/MAIN",
+        "flag": 1161,
+        "id": "ITEM_TM29",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_MT_CORONET_1F_NORTH_ROOM_1/MAIN",
+        "flag": 1162,
+        "id": "ITEM_TM69",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_MT_CORONET_1F_NORTH_ROOM_1/MAIN",
+        "flag": 1163,
+        "id": "ITEM_ESCAPE_ROPE",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_MT_CORONET_1F_NORTH_ROOM_1/MAIN",
+        "flag": 1164,
+        "id": "ITEM_RARE_CANDY",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_MT_CORONET_B1F/MAIN",
+        "flag": 1165,
+        "id": "ITEM_SOFT_SAND",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_MT_CORONET_B1F/MAIN",
+        "flag": 1166,
+        "id": "ITEM_LIGHT_CLAY",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_MT_CORONET_B1F/MAIN",
+        "flag": 1167,
+        "id": "ITEM_ULTRA_BALL",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_MT_CORONET_B1F/MAIN",
+        "flag": 1168,
+        "id": "ITEM_FULL_RESTORE",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_MT_CORONET_B1F/MAIN",
+        "flag": 1169,
+        "id": "ITEM_MAX_ELIXIR",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_MT_CORONET_B1F/MAIN",
+        "flag": 1170,
+        "id": "ITEM_REVIVE",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_216/MAIN",
+        "flag": 1171,
+        "id": "ITEM_TM13",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_216/MAIN",
+        "flag": 1172,
+        "id": "ITEM_MENTAL_HERB",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_216/MAIN",
+        "flag": 1173,
+        "id": "ITEM_FULL_HEAL",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_217/MAIN",
+        "flag": 1174,
+        "id": "ITEM_TM07",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_217/MAIN",
+        "flag": 1175,
+        "id": "ITEM_HM08",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_217/MAIN",
+        "flag": 1176,
+        "id": "ITEM_IRON",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ACUITY_LAKEFRONT/MAIN",
+        "flag": 1177,
+        "id": "ITEM_ULTRA_BALL",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_GALACTIC_HQ_B2F/MAIN",
+        "flag": 1178,
+        "id": "ITEM_TM36",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_GALACTIC_HQ_1F/MAIN",
+        "flag": 1179,
+        "id": "ITEM_TM49",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_GALACTIC_HQ_3F/MAIN",
+        "flag": 1180,
+        "id": "ITEM_TM21",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_GALACTIC_HQ_2F/MAIN",
+        "flag": 1181,
+        "id": "ITEM_MAX_REVIVE",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_GALACTIC_HQ_3F/MAIN",
+        "flag": 1182,
+        "id": "ITEM_MAX_ELIXIR",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_OREBURGH_GATE_B1F/MAIN",
+        "flag": 1183,
+        "id": "ITEM_BIG_PEARL",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_MT_CORONET_2F/MAIN",
+        "flag": 1184,
+        "id": "ITEM_MAX_REVIVE",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_MT_CORONET_2F/MAIN",
+        "flag": 1185,
+        "id": "ITEM_TM80",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_MT_CORONET_2F/MAIN",
+        "flag": 1186,
+        "id": "ITEM_MAX_REPEL",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_MT_CORONET_2F/MAIN",
+        "flag": 1187,
+        "id": "ITEM_ESCAPE_ROPE",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_MT_CORONET_1F_NORTH_ROOM_1/MAIN",
+        "flag": 1188,
+        "id": "ITEM_TM02",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_222/MAIN",
+        "flag": 1189,
+        "id": "ITEM_CARBOS",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_222/MAIN",
+        "flag": 1190,
+        "id": "ITEM_FULL_RESTORE",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_SUNYSHORE_CITY/MAIN",
+        "flag": 1191,
+        "id": "ITEM_THUNDERSTONE",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_223/MAIN",
+        "flag": 1192,
+        "id": "ITEM_ULTRA_BALL",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_223/MAIN",
+        "flag": 1193,
+        "id": "ITEM_DIVE_BALL",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_223/MAIN",
+        "flag": 1194,
+        "id": "ITEM_TM18",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_VICTORY_ROAD_1F/MAIN",
+        "flag": 1195,
+        "id": "ITEM_TM41",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_VICTORY_ROAD_1F/MAIN",
+        "flag": 1196,
+        "id": "ITEM_MAX_REPEL",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_VICTORY_ROAD_1F/MAIN",
+        "flag": 1197,
+        "id": "ITEM_RARE_CANDY",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_VICTORY_ROAD_1F/MAIN",
+        "flag": 1198,
+        "id": "ITEM_ZINC",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_VICTORY_ROAD_1F/MAIN",
+        "flag": 1199,
+        "id": "ITEM_RAZOR_CLAW",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_VICTORY_ROAD_2F/MAIN",
+        "flag": 1200,
+        "id": "ITEM_MAX_ELIXIR",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_VICTORY_ROAD_2F/MAIN",
+        "flag": 1201,
+        "id": "ITEM_FULL_RESTORE",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_VICTORY_ROAD_2F/MAIN",
+        "flag": 1202,
+        "id": "ITEM_TM79",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_VICTORY_ROAD_2F/MAIN",
+        "flag": 1203,
+        "id": "ITEM_TM71",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_VICTORY_ROAD_B1F/MAIN",
+        "flag": 1204,
+        "id": "ITEM_TM59",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_VICTORY_ROAD_1F_ROOM_2/MAIN",
+        "flag": 1205,
+        "id": "ITEM_FULL_RESTORE",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_VICTORY_ROAD_1F_ROOM_2/MAIN",
+        "flag": 1206,
+        "id": "ITEM_DUSK_STONE",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_VICTORY_ROAD_1F_ROOM_2/MAIN",
+        "flag": 1207,
+        "id": "ITEM_NUGGET",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_224/MAIN",
+        "flag": 1208,
+        "id": "ITEM_RAZOR_CLAW",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_224/MAIN",
+        "flag": 1209,
+        "id": "ITEM_RARE_CANDY",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_224/MAIN",
+        "flag": 1210,
+        "id": "ITEM_DESTINY_KNOT",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_VICTORY_ROAD_1F_ROOM_2/MAIN",
+        "flag": 1211,
+        "id": "ITEM_LEFTOVERS",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_225/MAIN",
+        "flag": 1212,
+        "id": "ITEM_RAZOR_FANG",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_225/MAIN",
+        "flag": 1213,
+        "id": "ITEM_RARE_CANDY",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_225/MAIN",
+        "flag": 1214,
+        "id": "ITEM_HP_UP",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_225/MAIN",
+        "flag": 1215,
+        "id": "ITEM_LAX_INCENSE",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_225/MAIN",
+        "flag": 1216,
+        "id": "ITEM_DUBIOUS_DISC",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_225/MAIN",
+        "flag": 1217,
+        "id": "ITEM_DAWN_STONE",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_225/MAIN",
+        "flag": 1218,
+        "id": "ITEM_REVIVE",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_226/MAIN",
+        "flag": 1219,
+        "id": "ITEM_TM53",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_226/MAIN",
+        "flag": 1220,
+        "id": "ITEM_LAGGING_TAIL",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_226/MAIN",
+        "flag": 1221,
+        "id": "ITEM_CARBOS",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_227/MAIN",
+        "flag": 1222,
+        "id": "ITEM_CHARCOAL",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_227/MAIN",
+        "flag": 1223,
+        "id": "ITEM_ZINC",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_STARK_MOUNTAIN_OUTSIDE/MAIN",
+        "flag": 1224,
+        "id": "ITEM_MAX_ELIXIR",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_STARK_MOUNTAIN_OUTSIDE/MAIN",
+        "flag": 1225,
+        "id": "ITEM_LIFE_ORB",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_STARK_MOUNTAIN_ROOM_1/MAIN",
+        "flag": 1226,
+        "id": "ITEM_FULL_HEAL",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_STARK_MOUNTAIN_ROOM_1/MAIN",
+        "flag": 1227,
+        "id": "ITEM_ESCAPE_ROPE",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_STARK_MOUNTAIN_ROOM_1/MAIN",
+        "flag": 1228,
+        "id": "ITEM_PP_UP",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_STARK_MOUNTAIN_ROOM_1/MAIN",
+        "flag": 1229,
+        "id": "ITEM_FULL_RESTORE",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_STARK_MOUNTAIN_ROOM_2/MAIN",
+        "flag": 1230,
+        "id": "ITEM_TM50",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_STARK_MOUNTAIN_ROOM_2/MAIN",
+        "flag": 1231,
+        "id": "ITEM_IRON_BALL",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_STARK_MOUNTAIN_ROOM_2/MAIN",
+        "flag": 1232,
+        "id": "ITEM_MAX_ELIXIR",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_STARK_MOUNTAIN_ROOM_2/MAIN",
+        "flag": 1233,
+        "id": "ITEM_NUGGET",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_STARK_MOUNTAIN_ROOM_2/MAIN",
+        "flag": 1234,
+        "id": "ITEM_RARE_CANDY",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_STARK_MOUNTAIN_ROOM_2/MAIN",
+        "flag": 1235,
+        "id": "ITEM_ULTRA_BALL",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_STARK_MOUNTAIN_ROOM_2/MAIN",
+        "flag": 1236,
+        "id": "ITEM_MAX_REVIVE",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_STARK_MOUNTAIN_ROOM_2/MAIN",
+        "flag": 1237,
+        "id": "ITEM_CALCIUM",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_228/MAIN",
+        "flag": 1238,
+        "id": "ITEM_PROTECTOR",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_228/MAIN",
+        "flag": 1239,
+        "id": "ITEM_IRON",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_228/MAIN",
+        "flag": 1240,
+        "id": "ITEM_SHINY_STONE",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_228/MAIN",
+        "flag": 1241,
+        "id": "ITEM_SHED_SHELL",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_228/MAIN",
+        "flag": 1242,
+        "id": "ITEM_TM37",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_229/MAIN",
+        "flag": 1243,
+        "id": "ITEM_REAPER_CLOTH",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_229/MAIN",
+        "flag": 1244,
+        "id": "ITEM_PROTEIN",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_229/MAIN",
+        "flag": 1245,
+        "id": "ITEM_FULL_RESTORE",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_RESORT_AREA/MAIN",
+        "flag": 1246,
+        "id": "ITEM_NUGGET",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_230/MAIN",
+        "flag": 1247,
+        "id": "ITEM_RARE_CANDY",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_OREBURGH_MINE_B1F/MAIN",
+        "flag": 1249,
+        "id": "ITEM_POKE_BALL",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_VEILSTONE_CITY_GALACTIC_WAREHOUSE/MAIN",
+        "flag": 1250,
+        "id": "ITEM_HM02",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_GALACTIC_HQ_B2F/MAIN",
+        "flag": 1251,
+        "id": "ITEM_GALACTIC_KEY",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_LAKE_VERITY_LOW_WATER/MAIN",
+        "flag": 1253,
+        "id": "ITEM_TM38",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_LAKE_VERITY/MAIN",
+        "flag": 1253,
+        "id": "ITEM_TM38",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_LAKE_VALOR_DRAINED/MAIN",
+        "flag": 1254,
+        "id": "ITEM_TM25",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_LAKE_VALOR/MAIN",
+        "flag": 1254,
+        "id": "ITEM_TM25",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_LAKE_ACUITY_LOW_WATER/MAIN",
+        "flag": 1255,
+        "id": "ITEM_TM14",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_LAKE_ACUITY/MAIN",
+        "flag": 1255,
+        "id": "ITEM_TM14",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_SNOWPOINT_TEMPLE_B1F/MAIN",
+        "flag": 1256,
+        "id": "ITEM_CALCIUM",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_SNOWPOINT_TEMPLE_B4F/MAIN",
+        "flag": 1257,
+        "id": "ITEM_FULL_HEAL",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_GALACTIC_HQ_B2F/MAIN",
+        "flag": 1258,
+        "id": "ITEM_ZINC",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_BATTLE_PARK/MAIN",
+        "flag": 1259,
+        "id": "ITEM_RAZOR_FANG",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_216/MAIN",
+        "flag": 1260,
+        "id": "ITEM_HP_UP",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_OLD_CHATEAU_BACK_WEST_ROOM/MAIN",
+        "flag": 1261,
+        "id": "ITEM_DREAD_PLATE",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_OLD_CHATEAU_BACK_MIDDLE_WEST_ROOM/MAIN",
+        "flag": 1261,
+        "id": "ITEM_DREAD_PLATE",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_OLD_CHATEAU_BACK_EAST_ROOM/MAIN",
+        "flag": 1262,
+        "id": "ITEM_TM90",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_OLD_CHATEAU_BACK_MIDDLE_EAST_ROOM/MAIN",
+        "flag": 1262,
+        "id": "ITEM_TM90",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ETERNA_FOREST/MAIN",
+        "flag": 1263,
+        "id": "ITEM_POTION",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_AMITY_SQUARE/MAIN",
+        "flag": 1264,
+        "id": "ITEM_AMULET_COIN",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_RAVAGED_PATH/MAIN",
+        "flag": 1265,
+        "id": "ITEM_POTION",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_VALLEY_WINDWORKS_OUTSIDE/MAIN",
+        "flag": 1266,
+        "id": "ITEM_POTION",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_205_SOUTH/MAIN",
+        "flag": 1267,
+        "id": "ITEM_SUPER_POTION",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_204_NORTH/MAIN",
+        "flag": 1268,
+        "id": "ITEM_AWAKENING",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_203/MAIN",
+        "flag": 1269,
+        "id": "ITEM_X_DEFENSE",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_218/MAIN",
+        "flag": 1270,
+        "id": "ITEM_X_ACCURACY",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_JUBILIFE_CITY/MAIN",
+        "flag": 1271,
+        "id": "ITEM_POTION",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_TRAINERS_SCHOOL/MAIN",
+        "flag": 1272,
+        "id": "ITEM_X_ATTACK",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_OREBURGH_CITY/MAIN",
+        "flag": 1273,
+        "id": "ITEM_DIRE_HIT",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_OREBURGH_CITY/MAIN",
+        "flag": 1274,
+        "id": "ITEM_YELLOW_SHARD",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_MT_CORONET_1F_NORTH_ROOM_1/MAIN",
+        "flag": 1275,
+        "id": "ITEM_ICE_HEAL",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_TEAM_GALACTIC_ETERNA_BUILDING_2F/MAIN",
+        "flag": 1276,
+        "id": "ITEM_X_SPEED",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_TEAM_GALACTIC_ETERNA_BUILDING_3F/MAIN",
+        "flag": 1277,
+        "id": "ITEM_X_SPECIAL",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_TEAM_GALACTIC_ETERNA_BUILDING_4F/MAIN",
+        "flag": 1278,
+        "id": "ITEM_BLUE_SHARD",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_TEAM_GALACTIC_ETERNA_BUILDING_4F/MAIN",
+        "flag": 1279,
+        "id": "ITEM_UPGRADE",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_OLD_CHATEAU_DINING_AREA/MAIN",
+        "flag": 1280,
+        "id": "ITEM_RARE_CANDY",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_OLD_CHATEAU_DINING_AREA/MAIN",
+        "flag": 1281,
+        "id": "ITEM_BIG_PEARL",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_209/MAIN",
+        "flag": 1282,
+        "id": "ITEM_ETHER",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_SOLACEON_TOWN/MAIN",
+        "flag": 1283,
+        "id": "ITEM_PP_UP",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_215/MAIN",
+        "flag": 1284,
+        "id": "ITEM_HP_UP",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_VEILSTONE_CITY/MAIN",
+        "flag": 1285,
+        "id": "ITEM_STAR_PIECE",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_212_NORTH/MAIN",
+        "flag": 1286,
+        "id": "ITEM_IRON",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_212_NORTH/MAIN",
+        "flag": 1287,
+        "id": "ITEM_GREEN_SHARD",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_212_SOUTH/MAIN",
+        "flag": 1288,
+        "id": "ITEM_BLUE_SHARD",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_212_SOUTH/MAIN",
+        "flag": 1289,
+        "id": "ITEM_ELIXIR",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_SOLACEON_TOWN/MAIN",
+        "flag": 1290,
+        "id": "ITEM_RARE_CANDY",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_TEAM_GALACTIC_ETERNA_BUILDING_4F/MAIN",
+        "flag": 1291,
+        "id": "ITEM_REVIVE",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_210_NORTH/MAIN",
+        "flag": 1292,
+        "id": "ITEM_RED_SHARD",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_210_NORTH/MAIN",
+        "flag": 1293,
+        "id": "ITEM_ZINC",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_FUEGO_IRONWORKS_BUILDING/MAIN",
+        "flag": 1294,
+        "id": "ITEM_BLUE_SHARD",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_FUEGO_IRONWORKS_BUILDING/MAIN",
+        "flag": 1295,
+        "id": "ITEM_RED_SHARD",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_FUEGO_IRONWORKS_BUILDING/MAIN",
+        "flag": 1296,
+        "id": "ITEM_GREEN_SHARD",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_FUEGO_IRONWORKS_BUILDING/MAIN",
+        "flag": 1297,
+        "id": "ITEM_YELLOW_SHARD",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_IRON_ISLAND_B2F_LEFT_ROOM/MAIN",
+        "flag": 1300,
+        "id": "ITEM_RED_SHARD",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_IRON_ISLAND_B1F_LEFT_ROOM/MAIN",
+        "flag": 1301,
+        "id": "ITEM_YELLOW_SHARD",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_IRON_ISLAND_B2F_LEFT_ROOM/MAIN",
+        "flag": 1302,
+        "id": "ITEM_MAGNET",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_IRON_ISLAND_B1F_RIGHT_ROOM/MAIN",
+        "flag": 1303,
+        "id": "ITEM_REVIVE",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_216/MAIN",
+        "flag": 1304,
+        "id": "ITEM_MAX_POTION",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_216/MAIN",
+        "flag": 1305,
+        "id": "ITEM_REVIVE",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_217/MAIN",
+        "flag": 1306,
+        "id": "ITEM_BLUE_SHARD",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_217/MAIN",
+        "flag": 1307,
+        "id": "ITEM_ULTRA_BALL",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_217/MAIN",
+        "flag": 1308,
+        "id": "ITEM_RARE_CANDY",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_GALACTIC_HQ_3F/MAIN",
+        "flag": 1309,
+        "id": "ITEM_PROTEIN",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_GALACTIC_HQ_LABORATORY/MAIN",
+        "flag": 1310,
+        "id": "ITEM_FULL_RESTORE",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_GALACTIC_HQ_1F/MAIN",
+        "flag": 1311,
+        "id": "ITEM_DUBIOUS_DISC",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_GALACTIC_HQ_2F/MAIN",
+        "flag": 1312,
+        "id": "ITEM_GREEN_SHARD",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_222/MAIN",
+        "flag": 1313,
+        "id": "ITEM_QUICK_BALL",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_222/MAIN",
+        "flag": 1314,
+        "id": "ITEM_PP_UP",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_223/MAIN",
+        "flag": 1315,
+        "id": "ITEM_RARE_CANDY",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_224/MAIN",
+        "flag": 1316,
+        "id": "ITEM_UPGRADE",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_224/MAIN",
+        "flag": 1317,
+        "id": "ITEM_REPEAT_BALL",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_224/MAIN",
+        "flag": 1318,
+        "id": "ITEM_PP_MAX",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_224/MAIN",
+        "flag": 1319,
+        "id": "ITEM_ULTRA_BALL",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_225/MAIN",
+        "flag": 1320,
+        "id": "ITEM_GREEN_SHARD",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_227/MAIN",
+        "flag": 1321,
+        "id": "ITEM_YELLOW_SHARD",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_230/MAIN",
+        "flag": 1322,
+        "id": "ITEM_BLUE_SHARD",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ACUITY_LAKEFRONT/MAIN",
+        "flag": 1323,
+        "id": "ITEM_REAPER_CLOTH",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_SNOWPOINT_CITY/MAIN",
+        "flag": 1324,
+        "id": "ITEM_ULTRA_BALL",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_SURVIVAL_AREA/MAIN",
+        "flag": 1325,
+        "id": "ITEM_RED_SHARD",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_VICTORY_ROAD_B1F/MAIN",
+        "flag": 1326,
+        "id": "ITEM_ULTRA_BALL",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_VICTORY_ROAD_B1F/MAIN",
+        "flag": 1327,
+        "id": "ITEM_CALCIUM",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_SURVIVAL_AREA/MAIN",
+        "flag": 1328,
+        "id": "ITEM_RARE_CANDY",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_VALOR_LAKEFRONT/MAIN",
+        "flag": 1329,
+        "id": "ITEM_IRON",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_211_EAST/MAIN",
+        "flag": 1330,
+        "id": "ITEM_CARBOS",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_214/MAIN",
+        "flag": 1331,
+        "id": "ITEM_MAGMARIZER",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_VALLEY_WINDWORKS_OUTSIDE/MAIN",
+        "flag": 1332,
+        "id": "ITEM_ELECTIRIZER",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_CELESTIC_TOWN/MAIN",
+        "flag": 1333,
+        "id": "ITEM_DRAGON_FANG",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_207/MAIN",
+        "flag": 1334,
+        "id": "ITEM_TIMER_BALL",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_IRON_ISLAND_IRON_RUINS/MAIN",
+        "flag": 1336,
+        "id": "ITEM_METAL_COAT",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_MT_CORONET_ICEBERG_RUINS/MAIN",
+        "flag": 1337,
+        "id": "ITEM_NEVERMELTICE",
+        "item_count": 1
+    },
+    {
+        "region": "REGION_ROUTE_228_ROCK_PEAK_RUINS/MAIN",
+        "flag": 1338,
+        "id": "ITEM_HARD_STONE",
+        "item_count": 1
+    }
+]

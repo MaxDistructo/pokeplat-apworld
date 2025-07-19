@@ -1,0 +1,2504 @@
+[
+    {
+        "name": "TRAINER_NONE",
+        "region": "REGION_ROUTE_202/MAIN",
+        "flag": 1361,
+        "trainer_id": 0
+    },
+    {
+        "name": "TRAINER_YOUNGSTER_TRISTAN",
+        "region": "REGION_ROUTE_202/MAIN",
+        "flag": 1362,
+        "trainer_id": 1
+    },
+    {
+        "name": "TRAINER_YOUNGSTER_LOGAN",
+        "region": "REGION_ROUTE_202/MAIN",
+        "flag": 1363,
+        "trainer_id": 2
+    },
+    {
+        "name": "TRAINER_LASS_NATALIE",
+        "region": "REGION_ROUTE_203/MAIN",
+        "flag": 1364,
+        "trainer_id": 3
+    },
+    {
+        "name": "TRAINER_UNKNOWN_009",
+        "region": "REGION_ROUTE_204_SOUTH/MAIN",
+        "flag": 1370,
+        "trainer_id": 9
+    },
+    {
+        "name": "TRAINER_YOUNGSTER_TYLER",
+        "region": "REGION_ROUTE_204_SOUTH/MAIN",
+        "flag": 1371,
+        "trainer_id": 10
+    },
+    {
+        "name": "TRAINER_LASS_SAMANTHA",
+        "region": "REGION_ROUTE_204_SOUTH/MAIN",
+        "flag": 1372,
+        "trainer_id": 11
+    },
+    {
+        "name": "TRAINER_LASS_SARAH",
+        "region": "REGION_ROUTE_204_NORTH/MAIN",
+        "flag": 1373,
+        "trainer_id": 12
+    },
+    {
+        "name": "TRAINER_BUG_CATCHER_BRANDON",
+        "region": "REGION_ROUTE_204_NORTH/MAIN",
+        "flag": 1374,
+        "trainer_id": 13
+    },
+    {
+        "name": "TRAINER_AROMA_LADY_TAYLOR",
+        "region": "REGION_ROUTE_204_NORTH/MAIN",
+        "flag": 1375,
+        "trainer_id": 14
+    },
+    {
+        "name": "TRAINER_AROMA_LADY_TAYLOR",
+        "region": "REGION_ROUTE_204_NORTH/MAIN",
+        "flag": 1375,
+        "trainer_id": 14
+    },
+    {
+        "name": "TRAINER_TWINS_LIV_AND_LIZ",
+        "region": "REGION_ROUTE_205_SOUTH/MAIN",
+        "flag": 1376,
+        "trainer_id": 15
+    },
+    {
+        "name": "TRAINER_CAMPER_JACOB",
+        "region": "REGION_ROUTE_205_SOUTH/MAIN",
+        "flag": 1377,
+        "trainer_id": 16
+    },
+    {
+        "name": "TRAINER_PICNICKER_SIENA",
+        "region": "REGION_ROUTE_205_SOUTH/MAIN",
+        "flag": 1378,
+        "trainer_id": 17
+    },
+    {
+        "name": "TRAINER_HIKER_DANIEL",
+        "region": "REGION_ROUTE_205_SOUTH/MAIN",
+        "flag": 1379,
+        "trainer_id": 18
+    },
+    {
+        "name": "TRAINER_HIKER_NICHOLAS",
+        "region": "REGION_ROUTE_205_SOUTH/MAIN",
+        "flag": 1380,
+        "trainer_id": 19
+    },
+    {
+        "name": "TRAINER_BATTLE_GIRL_KELSEY",
+        "region": "REGION_ROUTE_205_SOUTH/MAIN",
+        "flag": 1381,
+        "trainer_id": 20
+    },
+    {
+        "name": "TRAINER_AROMA_LADY_ELIZABETH",
+        "region": "REGION_ROUTE_205_NORTH/MAIN",
+        "flag": 1382,
+        "trainer_id": 21
+    },
+    {
+        "name": "TRAINER_FISHERMAN_ANDREW",
+        "region": "REGION_ROUTE_205_NORTH/MAIN",
+        "flag": 1383,
+        "trainer_id": 22
+    },
+    {
+        "name": "TRAINER_FISHERMAN_JOSEPH",
+        "region": "REGION_ROUTE_205_NORTH/MAIN",
+        "flag": 1384,
+        "trainer_id": 23
+    },
+    {
+        "name": "TRAINER_FISHERMAN_ZACHARY",
+        "region": "REGION_ROUTE_206/MAIN",
+        "flag": 1385,
+        "trainer_id": 24
+    },
+    {
+        "name": "TRAINER_CYCLIST_AXEL",
+        "region": "REGION_ROUTE_206/MAIN",
+        "flag": 1386,
+        "trainer_id": 25
+    },
+    {
+        "name": "TRAINER_CYCLIST_JAMES",
+        "region": "REGION_ROUTE_206/MAIN",
+        "flag": 1387,
+        "trainer_id": 26
+    },
+    {
+        "name": "TRAINER_CYCLIST_JOHN",
+        "region": "REGION_ROUTE_206/MAIN",
+        "flag": 1388,
+        "trainer_id": 27
+    },
+    {
+        "name": "TRAINER_CYCLIST_RYAN",
+        "region": "REGION_ROUTE_206/MAIN",
+        "flag": 1389,
+        "trainer_id": 28
+    },
+    {
+        "name": "TRAINER_CYCLIST_MEGAN",
+        "region": "REGION_ROUTE_206/MAIN",
+        "flag": 1390,
+        "trainer_id": 29
+    },
+    {
+        "name": "TRAINER_CYCLIST_NICOLE",
+        "region": "REGION_ROUTE_206/MAIN",
+        "flag": 1391,
+        "trainer_id": 30
+    },
+    {
+        "name": "TRAINER_CYCLIST_KAYLA",
+        "region": "REGION_ROUTE_206/MAIN",
+        "flag": 1392,
+        "trainer_id": 31
+    },
+    {
+        "name": "TRAINER_CYCLIST_RACHEL",
+        "region": "REGION_ROUTE_207/MAIN",
+        "flag": 1393,
+        "trainer_id": 32
+    },
+    {
+        "name": "TRAINER_YOUNGSTER_AUSTIN",
+        "region": "REGION_ROUTE_207/MAIN",
+        "flag": 1394,
+        "trainer_id": 33
+    },
+    {
+        "name": "TRAINER_CAMPER_ANTHONY",
+        "region": "REGION_ROUTE_207/MAIN",
+        "flag": 1395,
+        "trainer_id": 34
+    },
+    {
+        "name": "TRAINER_PICNICKER_LAUREN",
+        "region": "REGION_ROUTE_207/MAIN",
+        "flag": 1396,
+        "trainer_id": 35
+    },
+    {
+        "name": "TRAINER_HIKER_KEVIN",
+        "region": "REGION_ROUTE_207/MAIN",
+        "flag": 1397,
+        "trainer_id": 36
+    },
+    {
+        "name": "TRAINER_HIKER_JUSTIN",
+        "region": "REGION_ROUTE_207/MAIN",
+        "flag": 1398,
+        "trainer_id": 37
+    },
+    {
+        "name": "TRAINER_BATTLE_GIRL_HELEN",
+        "region": "REGION_ROUTE_208/MAIN",
+        "flag": 1399,
+        "trainer_id": 38
+    },
+    {
+        "name": "TRAINER_HIKER_ROBERT",
+        "region": "REGION_ROUTE_208/MAIN",
+        "flag": 1400,
+        "trainer_id": 39
+    },
+    {
+        "name": "TRAINER_HIKER_ALEXANDER",
+        "region": "REGION_ROUTE_208/MAIN",
+        "flag": 1401,
+        "trainer_id": 40
+    },
+    {
+        "name": "TRAINER_HIKER_JONATHAN",
+        "region": "REGION_ROUTE_208/MAIN",
+        "flag": 1402,
+        "trainer_id": 41
+    },
+    {
+        "name": "TRAINER_BLACK_BELT_KYLE",
+        "region": "REGION_ROUTE_208/MAIN",
+        "flag": 1403,
+        "trainer_id": 42
+    },
+    {
+        "name": "TRAINER_FISHERMAN_CODY",
+        "region": "REGION_ROUTE_208/MAIN",
+        "flag": 1404,
+        "trainer_id": 43
+    },
+    {
+        "name": "TRAINER_AROMA_LADY_HANNAH",
+        "region": "REGION_ROUTE_208/MAIN",
+        "flag": 1405,
+        "trainer_id": 44
+    },
+    {
+        "name": "TRAINER_ARTIST_WILLIAM",
+        "region": "REGION_ROUTE_209/MAIN",
+        "flag": 1406,
+        "trainer_id": 45
+    },
+    {
+        "name": "TRAINER_BREEDER_ALBERT",
+        "region": "REGION_ROUTE_209/MAIN",
+        "flag": 1407,
+        "trainer_id": 46
+    },
+    {
+        "name": "TRAINER_BREEDER_JENNIFER",
+        "region": "REGION_ROUTE_209/MAIN",
+        "flag": 1408,
+        "trainer_id": 47
+    },
+    {
+        "name": "TRAINER_COWGIRL_SHELLEY",
+        "region": "REGION_ROUTE_209/MAIN",
+        "flag": 1409,
+        "trainer_id": 48
+    },
+    {
+        "name": "TRAINER_UNKNOWN_052",
+        "region": "REGION_ROUTE_209/MAIN",
+        "flag": 1413,
+        "trainer_id": 52
+    },
+    {
+        "name": "TRAINER_UNKNOWN_054",
+        "region": "REGION_ROUTE_209/MAIN",
+        "flag": 1415,
+        "trainer_id": 54
+    },
+    {
+        "name": "TRAINER_UNKNOWN_054",
+        "region": "REGION_ROUTE_209/MAIN",
+        "flag": 1415,
+        "trainer_id": 54
+    },
+    {
+        "name": "TRAINER_YOUNG_COUPLE_TY_AND_SUE",
+        "region": "REGION_ROUTE_210_SOUTH/MAIN",
+        "flag": 1416,
+        "trainer_id": 55
+    },
+    {
+        "name": "TRAINER_BREEDER_KAHLIL",
+        "region": "REGION_ROUTE_210_SOUTH/MAIN",
+        "flag": 1417,
+        "trainer_id": 56
+    },
+    {
+        "name": "TRAINER_UNKNOWN_064",
+        "region": "REGION_ROUTE_210_SOUTH/MAIN",
+        "flag": 1425,
+        "trainer_id": 64
+    },
+    {
+        "name": "TRAINER_UNKNOWN_064",
+        "region": "REGION_ROUTE_210_SOUTH/MAIN",
+        "flag": 1425,
+        "trainer_id": 64
+    },
+    {
+        "name": "TRAINER_TWINS_TERI_AND_TIA",
+        "region": "REGION_ROUTE_210_NORTH/MAIN",
+        "flag": 1426,
+        "trainer_id": 65
+    },
+    {
+        "name": "TRAINER_ACE_TRAINER_ERNEST",
+        "region": "REGION_ROUTE_210_NORTH/MAIN",
+        "flag": 1427,
+        "trainer_id": 66
+    },
+    {
+        "name": "TRAINER_ACE_TRAINER_ALYSSA",
+        "region": "REGION_ROUTE_210_NORTH/MAIN",
+        "flag": 1428,
+        "trainer_id": 67
+    },
+    {
+        "name": "TRAINER_VETERAN_BRIAN",
+        "region": "REGION_ROUTE_210_NORTH/MAIN",
+        "flag": 1429,
+        "trainer_id": 68
+    },
+    {
+        "name": "TRAINER_BLACK_BELT_ADAM",
+        "region": "REGION_ROUTE_210_NORTH/MAIN",
+        "flag": 1430,
+        "trainer_id": 69
+    },
+    {
+        "name": "TRAINER_NINJA_BOY_JOEL",
+        "region": "REGION_ROUTE_210_NORTH/MAIN",
+        "flag": 1431,
+        "trainer_id": 70
+    },
+    {
+        "name": "TRAINER_NINJA_BOY_NATHAN",
+        "region": "REGION_ROUTE_210_NORTH/MAIN",
+        "flag": 1432,
+        "trainer_id": 71
+    },
+    {
+        "name": "TRAINER_NINJA_BOY_DAVIDO",
+        "region": "REGION_ROUTE_210_NORTH/MAIN",
+        "flag": 1433,
+        "trainer_id": 72
+    },
+    {
+        "name": "TRAINER_DRAGON_TAMER_PATRICK",
+        "region": "REGION_ROUTE_210_NORTH/MAIN",
+        "flag": 1434,
+        "trainer_id": 73
+    },
+    {
+        "name": "TRAINER_BIRD_KEEPER_BRIANNA",
+        "region": "REGION_ROUTE_210_NORTH/MAIN",
+        "flag": 1435,
+        "trainer_id": 74
+    },
+    {
+        "name": "TRAINER_BIRD_KEEPER_BRIANNA",
+        "region": "REGION_ROUTE_210_NORTH/MAIN",
+        "flag": 1435,
+        "trainer_id": 74
+    },
+    {
+        "name": "TRAINER_DOUBLE_TEAM_ZAC_AND_JEN",
+        "region": "REGION_ROUTE_211_WEST/MAIN",
+        "flag": 1436,
+        "trainer_id": 75
+    },
+    {
+        "name": "TRAINER_UNKNOWN_077",
+        "region": "REGION_ROUTE_211_WEST/MAIN",
+        "flag": 1438,
+        "trainer_id": 77
+    },
+    {
+        "name": "TRAINER_NINJA_BOY_ZACH",
+        "region": "REGION_ROUTE_211_EAST/MAIN",
+        "flag": 1439,
+        "trainer_id": 78
+    },
+    {
+        "name": "TRAINER_BLACK_BELT_SEAN",
+        "region": "REGION_ROUTE_211_EAST/MAIN",
+        "flag": 1440,
+        "trainer_id": 79
+    },
+    {
+        "name": "TRAINER_NINJA_BOY_NICK",
+        "region": "REGION_ROUTE_211_EAST/MAIN",
+        "flag": 1441,
+        "trainer_id": 80
+    },
+    {
+        "name": "TRAINER_BIRD_KEEPER_KATHERINE",
+        "region": "REGION_ROUTE_212_NORTH/MAIN",
+        "flag": 1442,
+        "trainer_id": 81
+    },
+    {
+        "name": "TRAINER_RICH_BOY_JASON",
+        "region": "REGION_ROUTE_212_NORTH/MAIN",
+        "flag": 1443,
+        "trainer_id": 82
+    },
+    {
+        "name": "TRAINER_LADY_MELISSA",
+        "region": "REGION_ROUTE_212_NORTH/MAIN",
+        "flag": 1444,
+        "trainer_id": 83
+    },
+    {
+        "name": "TRAINER_GENTLEMAN_JEREMY",
+        "region": "REGION_ROUTE_212_NORTH/MAIN",
+        "flag": 1445,
+        "trainer_id": 84
+    },
+    {
+        "name": "TRAINER_UNKNOWN_087",
+        "region": "REGION_ROUTE_212_NORTH/MAIN",
+        "flag": 1448,
+        "trainer_id": 87
+    },
+    {
+        "name": "TRAINER_POLICEMAN_BOBBY",
+        "region": "REGION_ROUTE_212_NORTH/MAIN",
+        "flag": 1449,
+        "trainer_id": 88
+    },
+    {
+        "name": "TRAINER_POLICEMAN_ALEX",
+        "region": "REGION_ROUTE_212_NORTH/MAIN",
+        "flag": 1450,
+        "trainer_id": 89
+    },
+    {
+        "name": "TRAINER_POLICEMAN_DYLAN",
+        "region": "REGION_ROUTE_212_SOUTH/MAIN",
+        "flag": 1451,
+        "trainer_id": 90
+    },
+    {
+        "name": "TRAINER_FISHERMAN_JUAN",
+        "region": "REGION_ROUTE_212_SOUTH/MAIN",
+        "flag": 1452,
+        "trainer_id": 91
+    },
+    {
+        "name": "TRAINER_FISHERMAN_JOSH",
+        "region": "REGION_ROUTE_212_SOUTH/MAIN",
+        "flag": 1453,
+        "trainer_id": 92
+    },
+    {
+        "name": "TRAINER_FISHERMAN_TRAVIS",
+        "region": "REGION_ROUTE_212_SOUTH/MAIN",
+        "flag": 1454,
+        "trainer_id": 93
+    },
+    {
+        "name": "TRAINER_RANGER_TAYLOR",
+        "region": "REGION_ROUTE_212_SOUTH/MAIN",
+        "flag": 1455,
+        "trainer_id": 94
+    },
+    {
+        "name": "TRAINER_RANGER_JEFFREY",
+        "region": "REGION_ROUTE_212_SOUTH/MAIN",
+        "flag": 1456,
+        "trainer_id": 95
+    },
+    {
+        "name": "TRAINER_UNKNOWN_098",
+        "region": "REGION_ROUTE_212_SOUTH/MAIN",
+        "flag": 1459,
+        "trainer_id": 98
+    },
+    {
+        "name": "TRAINER_UNKNOWN_101",
+        "region": "REGION_ROUTE_212_NORTH/MAIN",
+        "flag": 1462,
+        "trainer_id": 101
+    },
+    {
+        "name": "TRAINER_POLICEMAN_CALEB",
+        "region": "REGION_ROUTE_213/MAIN",
+        "flag": 1463,
+        "trainer_id": 102
+    },
+    {
+        "name": "TRAINER_SWIMMER_SHELTIN",
+        "region": "REGION_ROUTE_213/MAIN",
+        "flag": 1464,
+        "trainer_id": 103
+    },
+    {
+        "name": "TRAINER_SWIMMER_EVAN",
+        "region": "REGION_ROUTE_213/MAIN",
+        "flag": 1465,
+        "trainer_id": 104
+    },
+    {
+        "name": "TRAINER_SWIMMER_HALEY",
+        "region": "REGION_ROUTE_213/MAIN",
+        "flag": 1466,
+        "trainer_id": 105
+    },
+    {
+        "name": "TRAINER_SWIMMER_MARY",
+        "region": "REGION_ROUTE_213/MAIN",
+        "flag": 1467,
+        "trainer_id": 106
+    },
+    {
+        "name": "TRAINER_TUBER_JARED",
+        "region": "REGION_ROUTE_213/MAIN",
+        "flag": 1468,
+        "trainer_id": 107
+    },
+    {
+        "name": "TRAINER_UNKNOWN_109",
+        "region": "REGION_ROUTE_213/MAIN",
+        "flag": 1470,
+        "trainer_id": 109
+    },
+    {
+        "name": "TRAINER_SAILOR_PAUL",
+        "region": "REGION_ROUTE_213/MAIN",
+        "flag": 1471,
+        "trainer_id": 110
+    },
+    {
+        "name": "TRAINER_UNKNOWN_112",
+        "region": "REGION_ROUTE_214/MAIN",
+        "flag": 1473,
+        "trainer_id": 112
+    },
+    {
+        "name": "TRAINER_RUIN_MANIAC_BRYAN",
+        "region": "REGION_ROUTE_214/MAIN",
+        "flag": 1474,
+        "trainer_id": 113
+    },
+    {
+        "name": "TRAINER_UNKNOWN_118",
+        "region": "REGION_ROUTE_214/MAIN",
+        "flag": 1479,
+        "trainer_id": 118
+    },
+    {
+        "name": "TRAINER_PSYCHIC_MITCHELL",
+        "region": "REGION_ROUTE_214/MAIN",
+        "flag": 1480,
+        "trainer_id": 119
+    },
+    {
+        "name": "TRAINER_PSYCHIC_ABIGAIL",
+        "region": "REGION_ROUTE_214/MAIN",
+        "flag": 1481,
+        "trainer_id": 120
+    },
+    {
+        "name": "TRAINER_UNKNOWN_126",
+        "region": "REGION_ROUTE_215/MAIN",
+        "flag": 1487,
+        "trainer_id": 126
+    },
+    {
+        "name": "TRAINER_BLACK_BELT_GREGORY",
+        "region": "REGION_ROUTE_215/MAIN",
+        "flag": 1488,
+        "trainer_id": 127
+    },
+    {
+        "name": "TRAINER_BLACK_BELT_DEREK",
+        "region": "REGION_ROUTE_215/MAIN",
+        "flag": 1489,
+        "trainer_id": 128
+    },
+    {
+        "name": "TRAINER_BLACK_BELT_NATHANIEL",
+        "region": "REGION_ROUTE_215/MAIN",
+        "flag": 1490,
+        "trainer_id": 129
+    },
+    {
+        "name": "TRAINER_UNKNOWN_131",
+        "region": "REGION_ROUTE_216/MAIN",
+        "flag": 1492,
+        "trainer_id": 131
+    },
+    {
+        "name": "TRAINER_ACE_TRAINER_BLAKE",
+        "region": "REGION_ROUTE_216/MAIN",
+        "flag": 1493,
+        "trainer_id": 132
+    },
+    {
+        "name": "TRAINER_ACE_TRAINER_GARRETT",
+        "region": "REGION_ROUTE_216/MAIN",
+        "flag": 1494,
+        "trainer_id": 133
+    },
+    {
+        "name": "TRAINER_ACE_TRAINER_LAURA",
+        "region": "REGION_ROUTE_216/MAIN",
+        "flag": 1495,
+        "trainer_id": 134
+    },
+    {
+        "name": "TRAINER_ACE_TRAINER_MARIA",
+        "region": "REGION_ROUTE_216/MAIN",
+        "flag": 1496,
+        "trainer_id": 135
+    },
+    {
+        "name": "TRAINER_SKIER_BRADLEY",
+        "region": "REGION_ROUTE_216/MAIN",
+        "flag": 1497,
+        "trainer_id": 136
+    },
+    {
+        "name": "TRAINER_SKIER_EDWARD",
+        "region": "REGION_ROUTE_216/MAIN",
+        "flag": 1498,
+        "trainer_id": 137
+    },
+    {
+        "name": "TRAINER_SKIER_KAITLYN",
+        "region": "REGION_ROUTE_216/MAIN",
+        "flag": 1499,
+        "trainer_id": 138
+    },
+    {
+        "name": "TRAINER_SKIER_ANDREA",
+        "region": "REGION_ROUTE_217/MAIN",
+        "flag": 1500,
+        "trainer_id": 139
+    },
+    {
+        "name": "TRAINER_ACE_TRAINER_DALTON",
+        "region": "REGION_ROUTE_217/MAIN",
+        "flag": 1501,
+        "trainer_id": 140
+    },
+    {
+        "name": "TRAINER_ACE_TRAINER_OLIVIA",
+        "region": "REGION_ROUTE_217/MAIN",
+        "flag": 1502,
+        "trainer_id": 141
+    },
+    {
+        "name": "TRAINER_SKIER_SHAWN",
+        "region": "REGION_ROUTE_217/MAIN",
+        "flag": 1503,
+        "trainer_id": 142
+    },
+    {
+        "name": "TRAINER_SKIER_BJORN",
+        "region": "REGION_ROUTE_217/MAIN",
+        "flag": 1504,
+        "trainer_id": 143
+    },
+    {
+        "name": "TRAINER_SKIER_LEXIE",
+        "region": "REGION_ROUTE_217/MAIN",
+        "flag": 1505,
+        "trainer_id": 144
+    },
+    {
+        "name": "TRAINER_SKIER_MADISON",
+        "region": "REGION_ROUTE_217/MAIN",
+        "flag": 1506,
+        "trainer_id": 145
+    },
+    {
+        "name": "TRAINER_NINJA_BOY_MATTHEW",
+        "region": "REGION_ROUTE_217/MAIN",
+        "flag": 1507,
+        "trainer_id": 146
+    },
+    {
+        "name": "TRAINER_NINJA_BOY_ETHAN",
+        "region": "REGION_ROUTE_217/MAIN",
+        "flag": 1508,
+        "trainer_id": 147
+    },
+    {
+        "name": "TRAINER_UNKNOWN_152",
+        "region": "REGION_ROUTE_218/MAIN",
+        "flag": 1513,
+        "trainer_id": 152
+    },
+    {
+        "name": "TRAINER_FISHERMAN_MIGUEL",
+        "region": "REGION_ROUTE_218/MAIN",
+        "flag": 1514,
+        "trainer_id": 153
+    },
+    {
+        "name": "TRAINER_UNKNOWN_158",
+        "region": "REGION_ROUTE_220/MAIN",
+        "flag": 1519,
+        "trainer_id": 158
+    },
+    {
+        "name": "TRAINER_SWIMMER_ADRIAN",
+        "region": "REGION_ROUTE_220/MAIN",
+        "flag": 1520,
+        "trainer_id": 159
+    },
+    {
+        "name": "TRAINER_SWIMMER_ERIK",
+        "region": "REGION_ROUTE_220/MAIN",
+        "flag": 1521,
+        "trainer_id": 160
+    },
+    {
+        "name": "TRAINER_SWIMMER_VINCENT",
+        "region": "REGION_ROUTE_220/MAIN",
+        "flag": 1522,
+        "trainer_id": 161
+    },
+    {
+        "name": "TRAINER_SWIMMER_JESSICA",
+        "region": "REGION_ROUTE_220/MAIN",
+        "flag": 1523,
+        "trainer_id": 162
+    },
+    {
+        "name": "TRAINER_SWIMMER_ERICA",
+        "region": "REGION_ROUTE_220/MAIN",
+        "flag": 1524,
+        "trainer_id": 163
+    },
+    {
+        "name": "TRAINER_UNKNOWN_165",
+        "region": "REGION_ROUTE_221/MAIN",
+        "flag": 1526,
+        "trainer_id": 165
+    },
+    {
+        "name": "TRAINER_SWIMMER_DILLON",
+        "region": "REGION_ROUTE_221/MAIN",
+        "flag": 1527,
+        "trainer_id": 166
+    },
+    {
+        "name": "TRAINER_SWIMMER_VANESSA",
+        "region": "REGION_ROUTE_221/MAIN",
+        "flag": 1528,
+        "trainer_id": 167
+    },
+    {
+        "name": "TRAINER_UNKNOWN_169",
+        "region": "REGION_ROUTE_221/MAIN",
+        "flag": 1530,
+        "trainer_id": 169
+    },
+    {
+        "name": "TRAINER_ACE_TRAINER_JAKE",
+        "region": "REGION_ROUTE_221/MAIN",
+        "flag": 1531,
+        "trainer_id": 170
+    },
+    {
+        "name": "TRAINER_ACE_TRAINER_SHANNON",
+        "region": "REGION_ROUTE_222/MAIN",
+        "flag": 1532,
+        "trainer_id": 171
+    },
+    {
+        "name": "TRAINER_FISHERMAN_BRETT",
+        "region": "REGION_ROUTE_222/MAIN",
+        "flag": 1533,
+        "trainer_id": 172
+    },
+    {
+        "name": "TRAINER_FISHERMAN_ALEC",
+        "region": "REGION_ROUTE_222/MAIN",
+        "flag": 1534,
+        "trainer_id": 173
+    },
+    {
+        "name": "TRAINER_FISHERMAN_GEORGE",
+        "region": "REGION_ROUTE_222/MAIN",
+        "flag": 1535,
+        "trainer_id": 174
+    },
+    {
+        "name": "TRAINER_UNKNOWN_179",
+        "region": "REGION_ROUTE_222/MAIN",
+        "flag": 1540,
+        "trainer_id": 179
+    },
+    {
+        "name": "TRAINER_UNKNOWN_182",
+        "region": "REGION_ROUTE_223/MAIN",
+        "flag": 1543,
+        "trainer_id": 182
+    },
+    {
+        "name": "TRAINER_SWIMMER_WESLEY",
+        "region": "REGION_ROUTE_223/MAIN",
+        "flag": 1544,
+        "trainer_id": 183
+    },
+    {
+        "name": "TRAINER_SWIMMER_RICARDO",
+        "region": "REGION_ROUTE_223/MAIN",
+        "flag": 1545,
+        "trainer_id": 184
+    },
+    {
+        "name": "TRAINER_SWIMMER_FRANCISCO",
+        "region": "REGION_ROUTE_223/MAIN",
+        "flag": 1546,
+        "trainer_id": 185
+    },
+    {
+        "name": "TRAINER_SWIMMER_COLTON",
+        "region": "REGION_ROUTE_223/MAIN",
+        "flag": 1547,
+        "trainer_id": 186
+    },
+    {
+        "name": "TRAINER_SWIMMER_TROY",
+        "region": "REGION_ROUTE_223/MAIN",
+        "flag": 1548,
+        "trainer_id": 187
+    },
+    {
+        "name": "TRAINER_SWIMMER_OSCAR",
+        "region": "REGION_ROUTE_223/MAIN",
+        "flag": 1549,
+        "trainer_id": 188
+    },
+    {
+        "name": "TRAINER_SWIMMER_MIRANDA",
+        "region": "REGION_ROUTE_223/MAIN",
+        "flag": 1550,
+        "trainer_id": 189
+    },
+    {
+        "name": "TRAINER_SWIMMER_AUBREE",
+        "region": "REGION_ROUTE_223/MAIN",
+        "flag": 1551,
+        "trainer_id": 190
+    },
+    {
+        "name": "TRAINER_SWIMMER_PAIGE",
+        "region": "REGION_ROUTE_223/MAIN",
+        "flag": 1552,
+        "trainer_id": 191
+    },
+    {
+        "name": "TRAINER_SWIMMER_CRYSTAL",
+        "region": "REGION_ROUTE_223/MAIN",
+        "flag": 1553,
+        "trainer_id": 192
+    },
+    {
+        "name": "TRAINER_SWIMMER_CASSANDRA",
+        "region": "REGION_ROUTE_223/MAIN",
+        "flag": 1554,
+        "trainer_id": 193
+    },
+    {
+        "name": "TRAINER_SWIMMER_GABRIELLE",
+        "region": "REGION_OREBURGH_MINE_B2F/MAIN",
+        "flag": 1555,
+        "trainer_id": 194
+    },
+    {
+        "name": "TRAINER_WORKER_COLIN",
+        "region": "REGION_OREBURGH_MINE_B2F/MAIN",
+        "flag": 1556,
+        "trainer_id": 195
+    },
+    {
+        "name": "TRAINER_UNKNOWN_200",
+        "region": "REGION_ETERNA_FOREST/MAIN",
+        "flag": 1561,
+        "trainer_id": 200
+    },
+    {
+        "name": "TRAINER_BUG_CATCHER_JACK",
+        "region": "REGION_ETERNA_FOREST/MAIN",
+        "flag": 1562,
+        "trainer_id": 201
+    },
+    {
+        "name": "TRAINER_BUG_CATCHER_PHILLIP",
+        "region": "REGION_ETERNA_FOREST/MAIN",
+        "flag": 1563,
+        "trainer_id": 202
+    },
+    {
+        "name": "TRAINER_BUG_CATCHER_DONALD",
+        "region": "REGION_ETERNA_FOREST/MAIN",
+        "flag": 1564,
+        "trainer_id": 203
+    },
+    {
+        "name": "TRAINER_LASS_BRIANA",
+        "region": "REGION_ETERNA_FOREST/MAIN",
+        "flag": 1565,
+        "trainer_id": 204
+    },
+    {
+        "name": "TRAINER_PSYCHIC_ELIJAH",
+        "region": "REGION_ETERNA_FOREST/MAIN",
+        "flag": 1566,
+        "trainer_id": 205
+    },
+    {
+        "name": "TRAINER_UNKNOWN_223",
+        "region": "REGION_VICTORY_ROAD_2F/MAIN",
+        "flag": 1584,
+        "trainer_id": 223
+    },
+    {
+        "name": "TRAINER_ACE_TRAINER_OMAR",
+        "region": "REGION_VICTORY_ROAD_B1F/MAIN",
+        "flag": 1585,
+        "trainer_id": 224
+    },
+    {
+        "name": "TRAINER_ACE_TRAINER_HENRY",
+        "region": "REGION_VICTORY_ROAD_1F/MAIN",
+        "flag": 1586,
+        "trainer_id": 225
+    },
+    {
+        "name": "TRAINER_ACE_TRAINER_MARIAH",
+        "region": "REGION_VICTORY_ROAD_2F/MAIN",
+        "flag": 1587,
+        "trainer_id": 226
+    },
+    {
+        "name": "TRAINER_ACE_TRAINER_SYDNEY",
+        "region": "REGION_VICTORY_ROAD_1F/MAIN",
+        "flag": 1588,
+        "trainer_id": 227
+    },
+    {
+        "name": "TRAINER_VETERAN_EDGAR",
+        "region": "REGION_VICTORY_ROAD_2F/MAIN",
+        "flag": 1589,
+        "trainer_id": 228
+    },
+    {
+        "name": "TRAINER_VETERAN_CLAYTON",
+        "region": "REGION_VICTORY_ROAD_B1F/MAIN",
+        "flag": 1590,
+        "trainer_id": 229
+    },
+    {
+        "name": "TRAINER_DRAGON_TAMER_ONDREJ",
+        "region": "REGION_VICTORY_ROAD_1F/MAIN",
+        "flag": 1591,
+        "trainer_id": 230
+    },
+    {
+        "name": "TRAINER_DRAGON_TAMER_CLINTON",
+        "region": "REGION_CANALAVE_CITY_GYM/MAIN",
+        "flag": 1592,
+        "trainer_id": 231
+    },
+    {
+        "name": "TRAINER_BLACK_BELT_DAVID",
+        "region": "REGION_VICTORY_ROAD_1F/MAIN",
+        "flag": 1593,
+        "trainer_id": 232
+    },
+    {
+        "name": "TRAINER_BIRD_KEEPER_HANA",
+        "region": "REGION_VICTORY_ROAD_1F/MAIN",
+        "flag": 1594,
+        "trainer_id": 233
+    },
+    {
+        "name": "TRAINER_PSYCHIC_BRYCE",
+        "region": "REGION_VICTORY_ROAD_B1F/MAIN",
+        "flag": 1595,
+        "trainer_id": 234
+    },
+    {
+        "name": "TRAINER_PSYCHIC_VALENCIA",
+        "region": "REGION_VICTORY_ROAD_B1F/MAIN",
+        "flag": 1596,
+        "trainer_id": 235
+    },
+    {
+        "name": "TRAINER_PSYCHIC_VALENCIA",
+        "region": "REGION_VICTORY_ROAD_B1F/MAIN",
+        "flag": 1596,
+        "trainer_id": 235
+    },
+    {
+        "name": "TRAINER_DOUBLE_TEAM_JO_AND_PAT",
+        "region": "REGION_VICTORY_ROAD_2F/MAIN",
+        "flag": 1597,
+        "trainer_id": 236
+    },
+    {
+        "name": "TRAINER_DOUBLE_TEAM_JO_AND_PAT",
+        "region": "REGION_VICTORY_ROAD_2F/MAIN",
+        "flag": 1597,
+        "trainer_id": 236
+    },
+    {
+        "name": "TRAINER_UNKNOWN_239",
+        "region": "REGION_OREBURGH_GATE_B1F/MAIN",
+        "flag": 1600,
+        "trainer_id": 239
+    },
+    {
+        "name": "TRAINER_UNKNOWN_243",
+        "region": "REGION_OREBURGH_CITY_GYM/MAIN",
+        "flag": 1604,
+        "trainer_id": 243
+    },
+    {
+        "name": "TRAINER_YOUNGSTER_JONATHON",
+        "region": "REGION_OREBURGH_CITY_GYM/MAIN",
+        "flag": 1605,
+        "trainer_id": 244
+    },
+    {
+        "name": "TRAINER_UNKNOWN_255",
+        "region": "REGION_CANALAVE_CITY_GYM/MAIN",
+        "flag": 1616,
+        "trainer_id": 255
+    },
+    {
+        "name": "TRAINER_WORKER_JACKSON",
+        "region": "REGION_CANALAVE_CITY_GYM/MAIN",
+        "flag": 1617,
+        "trainer_id": 256
+    },
+    {
+        "name": "TRAINER_WORKER_GARY",
+        "region": "REGION_ROUTE_216/MAIN",
+        "flag": 1618,
+        "trainer_id": 257
+    },
+    {
+        "name": "TRAINER_ELITE_FOUR_LUCIAN",
+        "region": "REGION_OREBURGH_GATE_1F/MAIN",
+        "flag": 1625,
+        "trainer_id": 264
+    },
+    {
+        "name": "TRAINER_CAMPER_CURTIS",
+        "region": "REGION_HEARTHOME_CITY_DP_GYM_TRAINER_ROOM_1/MAIN",
+        "flag": 1626,
+        "trainer_id": 265
+    },
+    {
+        "name": "TRAINER_CHAMPION_CYNTHIA",
+        "region": "REGION_SNOWPOINT_CITY_GYM/MAIN",
+        "flag": 1628,
+        "trainer_id": 267
+    },
+    {
+        "name": "TRAINER_ACE_TRAINER_SERGIO",
+        "region": "REGION_SNOWPOINT_CITY_GYM/MAIN",
+        "flag": 1629,
+        "trainer_id": 268
+    },
+    {
+        "name": "TRAINER_ACE_TRAINER_ISAIAH",
+        "region": "REGION_SNOWPOINT_CITY_GYM/MAIN",
+        "flag": 1630,
+        "trainer_id": 269
+    },
+    {
+        "name": "TRAINER_ACE_TRAINER_SAVANNAH",
+        "region": "REGION_SNOWPOINT_CITY_GYM/MAIN",
+        "flag": 1631,
+        "trainer_id": 270
+    },
+    {
+        "name": "TRAINER_ACE_TRAINER_ALICIA",
+        "region": "REGION_ROUTE_214/MAIN",
+        "flag": 1632,
+        "trainer_id": 271
+    },
+    {
+        "name": "TRAINER_COLLECTOR_DOUGLAS",
+        "region": "REGION_ROUTE_214/MAIN",
+        "flag": 1633,
+        "trainer_id": 272
+    },
+    {
+        "name": "TRAINER_COLLECTOR_BRADY",
+        "region": "REGION_ROUTE_221/MAIN",
+        "flag": 1634,
+        "trainer_id": 273
+    },
+    {
+        "name": "TRAINER_COLLECTOR_IVAN",
+        "region": "REGION_CAFE/MAIN",
+        "flag": 1635,
+        "trainer_id": 274
+    },
+    {
+        "name": "TRAINER_COLLECTOR_FERNANDO",
+        "region": "REGION_CAFE/MAIN",
+        "flag": 1636,
+        "trainer_id": 275
+    },
+    {
+        "name": "TRAINER_COLLECTOR_EDWIN",
+        "region": "REGION_ROUTE_224/MAIN",
+        "flag": 1637,
+        "trainer_id": 276
+    },
+    {
+        "name": "TRAINER_DRAGON_TAMER_HAYDEN",
+        "region": "REGION_ROUTE_215/MAIN",
+        "flag": 1638,
+        "trainer_id": 277
+    },
+    {
+        "name": "TRAINER_ACE_TRAINER_DENNIS",
+        "region": "REGION_CANALAVE_CITY_GYM/MAIN",
+        "flag": 1639,
+        "trainer_id": 278
+    },
+    {
+        "name": "TRAINER_ACE_TRAINER_CESAR",
+        "region": "REGION_HEARTHOME_CITY_GYM_TRAINER_ROOM_2/MAIN",
+        "flag": 1640,
+        "trainer_id": 279
+    },
+    {
+        "name": "TRAINER_ACE_TRAINER_CESAR",
+        "region": "REGION_HEARTHOME_CITY_DP_GYM_TRAINER_ROOM_5/MAIN",
+        "flag": 1640,
+        "trainer_id": 279
+    },
+    {
+        "name": "TRAINER_ACE_TRAINER_ALLEN",
+        "region": "REGION_SUNYSHORE_CITY_GYM_ROOM_3/MAIN",
+        "flag": 1641,
+        "trainer_id": 280
+    },
+    {
+        "name": "TRAINER_ACE_TRAINER_ZACHERY",
+        "region": "REGION_ROUTE_224/MAIN",
+        "flag": 1642,
+        "trainer_id": 281
+    },
+    {
+        "name": "TRAINER_ACE_TRAINER_RUBEN",
+        "region": "REGION_CANALAVE_CITY_GYM/MAIN",
+        "flag": 1643,
+        "trainer_id": 282
+    },
+    {
+        "name": "TRAINER_ACE_TRAINER_BREANNA",
+        "region": "REGION_HEARTHOME_CITY_GYM_TRAINER_ROOM_2/MAIN",
+        "flag": 1644,
+        "trainer_id": 283
+    },
+    {
+        "name": "TRAINER_ACE_TRAINER_BREANNA",
+        "region": "REGION_HEARTHOME_CITY_DP_GYM_TRAINER_ROOM_6/MAIN",
+        "flag": 1644,
+        "trainer_id": 283
+    },
+    {
+        "name": "TRAINER_ACE_TRAINER_CATHERINE",
+        "region": "REGION_SUNYSHORE_CITY_GYM_ROOM_3/MAIN",
+        "flag": 1645,
+        "trainer_id": 284
+    },
+    {
+        "name": "TRAINER_ACE_TRAINER_DESTINY",
+        "region": "REGION_ROUTE_224/MAIN",
+        "flag": 1646,
+        "trainer_id": 285
+    },
+    {
+        "name": "TRAINER_ACE_TRAINER_JAMIE",
+        "region": "REGION_ROUTE_215/MAIN",
+        "flag": 1647,
+        "trainer_id": 286
+    },
+    {
+        "name": "TRAINER_ACE_TRAINER_MAYA",
+        "region": "REGION_ROUTE_224/MAIN",
+        "flag": 1648,
+        "trainer_id": 287
+    },
+    {
+        "name": "TRAINER_PSYCHIC_MAXWELL",
+        "region": "REGION_ROUTE_224/MAIN",
+        "flag": 1649,
+        "trainer_id": 288
+    },
+    {
+        "name": "TRAINER_PSYCHIC_BRITTNEY",
+        "region": "REGION_ROUTE_210_SOUTH/MAIN",
+        "flag": 1650,
+        "trainer_id": 289
+    },
+    {
+        "name": "TRAINER_PSYCHIC_BRITTNEY",
+        "region": "REGION_ROUTE_210_SOUTH/MAIN",
+        "flag": 1650,
+        "trainer_id": 289
+    },
+    {
+        "name": "TRAINER_UNKNOWN_291",
+        "region": "REGION_ROUTE_210_SOUTH/MAIN",
+        "flag": 1652,
+        "trainer_id": 291
+    },
+    {
+        "name": "TRAINER_RANCHER_MARCO",
+        "region": "REGION_PASTORIA_CITY_GYM/MAIN",
+        "flag": 1653,
+        "trainer_id": 292
+    },
+    {
+        "name": "TRAINER_FISHERMAN_ERICK",
+        "region": "REGION_ROUTE_209/MAIN",
+        "flag": 1654,
+        "trainer_id": 293
+    },
+    {
+        "name": "TRAINER_FISHERMAN_ERICK",
+        "region": "REGION_ROUTE_209/MAIN",
+        "flag": 1654,
+        "trainer_id": 293
+    },
+    {
+        "name": "TRAINER_GALACTIC_GRUNT_FLOAROMA_MEADOW_2",
+        "region": "REGION_VALLEY_WINDWORKS_BUILDING/MAIN",
+        "flag": 1658,
+        "trainer_id": 297
+    },
+    {
+        "name": "TRAINER_GALACTIC_GRUNT_VALLEY_WINDWORKS_2",
+        "region": "REGION_VALLEY_WINDWORKS_BUILDING/MAIN",
+        "flag": 1659,
+        "trainer_id": 298
+    },
+    {
+        "name": "TRAINER_GALACTIC_GRUNT_VALLEY_WINDWORKS_3",
+        "region": "REGION_ROUTE_218/MAIN",
+        "flag": 1660,
+        "trainer_id": 299
+    },
+    {
+        "name": "TRAINER_GUITARIST_TONY",
+        "region": "REGION_SUNYSHORE_CITY_GYM_ROOM_2/MAIN",
+        "flag": 1661,
+        "trainer_id": 300
+    },
+    {
+        "name": "TRAINER_GUITARIST_JERRY",
+        "region": "REGION_SUNYSHORE_CITY_GYM_ROOM_3/MAIN",
+        "flag": 1662,
+        "trainer_id": 301
+    },
+    {
+        "name": "TRAINER_GUITARIST_PRESTON",
+        "region": "REGION_SUNYSHORE_CITY_GYM_ROOM_3/MAIN",
+        "flag": 1663,
+        "trainer_id": 302
+    },
+    {
+        "name": "TRAINER_GUITARIST_LONNIE",
+        "region": "REGION_ROUTE_215/MAIN",
+        "flag": 1664,
+        "trainer_id": 303
+    },
+    {
+        "name": "TRAINER_RUIN_MANIAC_CALVIN",
+        "region": "REGION_ROUTE_224/MAIN",
+        "flag": 1665,
+        "trainer_id": 304
+    },
+    {
+        "name": "TRAINER_RUIN_MANIAC_LARRY",
+        "region": "REGION_ROUTE_210_SOUTH/MAIN",
+        "flag": 1666,
+        "trainer_id": 305
+    },
+    {
+        "name": "TRAINER_JOGGER_WYATT",
+        "region": "REGION_ROUTE_215/MAIN",
+        "flag": 1667,
+        "trainer_id": 306
+    },
+    {
+        "name": "TRAINER_JOGGER_CRAIG",
+        "region": "REGION_ROUTE_209/MAIN",
+        "flag": 1668,
+        "trainer_id": 307
+    },
+    {
+        "name": "TRAINER_JOGGER_RAUL",
+        "region": "REGION_VEILSTONE_CITY_GYM/MAIN",
+        "flag": 1669,
+        "trainer_id": 308
+    },
+    {
+        "name": "TRAINER_BLACK_BELT_COLBY",
+        "region": "REGION_VEILSTONE_CITY_GYM/MAIN",
+        "flag": 1670,
+        "trainer_id": 309
+    },
+    {
+        "name": "TRAINER_BLACK_BELT_DARREN",
+        "region": "REGION_VEILSTONE_CITY_GYM/MAIN",
+        "flag": 1671,
+        "trainer_id": 310
+    },
+    {
+        "name": "TRAINER_BLACK_BELT_RAFAEL",
+        "region": "REGION_VEILSTONE_CITY_GYM/MAIN",
+        "flag": 1672,
+        "trainer_id": 311
+    },
+    {
+        "name": "TRAINER_BLACK_BELT_JEFFERY",
+        "region": "REGION_ROUTE_224/MAIN",
+        "flag": 1673,
+        "trainer_id": 312
+    },
+    {
+        "name": "TRAINER_BLACK_BELT_CARL",
+        "region": "REGION_CANALAVE_CITY_GYM/MAIN",
+        "flag": 1674,
+        "trainer_id": 313
+    },
+    {
+        "name": "TRAINER_UNKNOWN_321",
+        "region": "REGION_ROUTE_203/MAIN",
+        "flag": 1682,
+        "trainer_id": 321
+    },
+    {
+        "name": "TRAINER_LASS_MADELINE",
+        "region": "REGION_ROUTE_203/MAIN",
+        "flag": 1683,
+        "trainer_id": 322
+    },
+    {
+        "name": "TRAINER_LASS_CAROLINE",
+        "region": "REGION_HEARTHOME_CITY_GYM_TRAINER_ROOM_1/MAIN",
+        "flag": 1685,
+        "trainer_id": 324
+    },
+    {
+        "name": "TRAINER_LASS_MOLLY",
+        "region": "REGION_ROUTE_211_WEST/MAIN",
+        "flag": 1686,
+        "trainer_id": 325
+    },
+    {
+        "name": "TRAINER_HIKER_LOUIS",
+        "region": "REGION_ROUTE_212_SOUTH/MAIN",
+        "flag": 1687,
+        "trainer_id": 326
+    },
+    {
+        "name": "TRAINER_PARASOL_LADY_ALEXA",
+        "region": "REGION_ROUTE_212_SOUTH/MAIN",
+        "flag": 1688,
+        "trainer_id": 327
+    },
+    {
+        "name": "TRAINER_PARASOL_LADY_SABRINA",
+        "region": "REGION_OREBURGH_GATE_1F/MAIN",
+        "flag": 1689,
+        "trainer_id": 328
+    },
+    {
+        "name": "TRAINER_PICNICKER_DIANA",
+        "region": "REGION_HEARTHOME_CITY_DP_GYM_TRAINER_ROOM_2/MAIN",
+        "flag": 1690,
+        "trainer_id": 329
+    },
+    {
+        "name": "TRAINER_PICNICKER_CHEYENNE",
+        "region": "REGION_SUNYSHORE_CITY_GYM_ROOM_2/MAIN",
+        "flag": 1691,
+        "trainer_id": 330
+    },
+    {
+        "name": "TRAINER_POKE_KID_MEGHAN",
+        "region": "REGION_ROUTE_212_SOUTH/MAIN",
+        "flag": 1692,
+        "trainer_id": 331
+    },
+    {
+        "name": "TRAINER_POLICEMAN_DANNY",
+        "region": "REGION_ROUTE_222/MAIN",
+        "flag": 1693,
+        "trainer_id": 332
+    },
+    {
+        "name": "TRAINER_UNKNOWN_334",
+        "region": "REGION_ROUTE_222/MAIN",
+        "flag": 1695,
+        "trainer_id": 334
+    },
+    {
+        "name": "TRAINER_UNKNOWN_336",
+        "region": "REGION_ROUTE_222/MAIN",
+        "flag": 1697,
+        "trainer_id": 336
+    },
+    {
+        "name": "TRAINER_SAILOR_MARC",
+        "region": "REGION_ROUTE_218/MAIN",
+        "flag": 1698,
+        "trainer_id": 337
+    },
+    {
+        "name": "TRAINER_SAILOR_SKYLER",
+        "region": "REGION_PASTORIA_CITY_GYM/MAIN",
+        "flag": 1699,
+        "trainer_id": 338
+    },
+    {
+        "name": "TRAINER_SAILOR_DAMIAN",
+        "region": "REGION_HEARTHOME_CITY_DP_GYM_TRAINER_ROOM_3/MAIN",
+        "flag": 1700,
+        "trainer_id": 339
+    },
+    {
+        "name": "TRAINER_SAILOR_DAMIAN",
+        "region": "REGION_HEARTHOME_CITY_GYM_TRAINER_ROOM_2/MAIN",
+        "flag": 1700,
+        "trainer_id": 339
+    },
+    {
+        "name": "TRAINER_SCHOOL_KID_CHANCE",
+        "region": "REGION_SUNYSHORE_CITY_GYM_ROOM_2/MAIN",
+        "flag": 1701,
+        "trainer_id": 340
+    },
+    {
+        "name": "TRAINER_SCHOOL_KID_HARRISON",
+        "region": "REGION_HEARTHOME_CITY_GYM_TRAINER_ROOM_2/MAIN",
+        "flag": 1703,
+        "trainer_id": 342
+    },
+    {
+        "name": "TRAINER_SCHOOL_KID_HARRISON",
+        "region": "REGION_HEARTHOME_CITY_DP_GYM_TRAINER_ROOM_4/MAIN",
+        "flag": 1703,
+        "trainer_id": 342
+    },
+    {
+        "name": "TRAINER_SCHOOL_KID_MACKENZIE",
+        "region": "REGION_SUNYSHORE_CITY_GYM_ROOM_1/MAIN",
+        "flag": 1704,
+        "trainer_id": 343
+    },
+    {
+        "name": "TRAINER_SCHOOL_KID_CHRISTINE",
+        "region": "REGION_ROUTE_213/MAIN",
+        "flag": 1706,
+        "trainer_id": 345
+    },
+    {
+        "name": "TRAINER_UNKNOWN_354",
+        "region": "REGION_ROUTE_203/MAIN",
+        "flag": 1715,
+        "trainer_id": 354
+    },
+    {
+        "name": "TRAINER_YOUNGSTER_DALLAS",
+        "region": "REGION_ROUTE_203/MAIN",
+        "flag": 1716,
+        "trainer_id": 355
+    },
+    {
+        "name": "TRAINER_YOUNGSTER_SEBASTIAN",
+        "region": "REGION_HEARTHOME_CITY_GYM_TRAINER_ROOM_1/MAIN",
+        "flag": 1717,
+        "trainer_id": 356
+    },
+    {
+        "name": "TRAINER_YOUNGSTER_DONNY",
+        "region": "REGION_ROUTE_219/MAIN",
+        "flag": 1718,
+        "trainer_id": 357
+    },
+    {
+        "name": "TRAINER_TUBER_TRENTON",
+        "region": "REGION_ROUTE_222/MAIN",
+        "flag": 1719,
+        "trainer_id": 358
+    },
+    {
+        "name": "TRAINER_TUBER_CONNER",
+        "region": "REGION_ROUTE_219/MAIN",
+        "flag": 1720,
+        "trainer_id": 359
+    },
+    {
+        "name": "TRAINER_TUBER_MARIEL",
+        "region": "REGION_ROUTE_222/MAIN",
+        "flag": 1721,
+        "trainer_id": 360
+    },
+    {
+        "name": "TRAINER_TUBER_HOLLY",
+        "region": "REGION_ROUTE_224/MAIN",
+        "flag": 1722,
+        "trainer_id": 361
+    },
+    {
+        "name": "TRAINER_UNKNOWN_365",
+        "region": "REGION_CAFE/MAIN",
+        "flag": 1726,
+        "trainer_id": 365
+    },
+    {
+        "name": "TRAINER_WAITRESS_KATI",
+        "region": "REGION_CANALAVE_CITY_GYM/MAIN",
+        "flag": 1727,
+        "trainer_id": 366
+    },
+    {
+        "name": "TRAINER_IDOL_GRACE_UNUSED",
+        "region": "REGION_IRON_ISLAND_B2F_LEFT_ROOM/MAIN",
+        "flag": 1732,
+        "trainer_id": 371
+    },
+    {
+        "name": "TRAINER_BATTLE_GIRL_TYLER",
+        "region": "REGION_VICTORY_ROAD_1F_ROOM_2/MAIN",
+        "flag": 1733,
+        "trainer_id": 372
+    },
+    {
+        "name": "TRAINER_UNKNOWN_376",
+        "region": "REGION_ROUTE_205_SOUTH/MAIN",
+        "flag": 1737,
+        "trainer_id": 376
+    },
+    {
+        "name": "TRAINER_CAMPER_ZACKARY",
+        "region": "REGION_IRON_ISLAND_B1F_LEFT_ROOM/MAIN",
+        "flag": 1738,
+        "trainer_id": 377
+    },
+    {
+        "name": "TRAINER_CAMPER_LAWRENCE",
+        "region": "REGION_WAYWARD_CAVE_1F/MAIN",
+        "flag": 1739,
+        "trainer_id": 378
+    },
+    {
+        "name": "TRAINER_CAMPER_DIEGO",
+        "region": "REGION_WAYWARD_CAVE_1F/MAIN",
+        "flag": 1740,
+        "trainer_id": 379
+    },
+    {
+        "name": "TRAINER_CAMPER_PARKER",
+        "region": "REGION_ROUTE_212_SOUTH/MAIN",
+        "flag": 1741,
+        "trainer_id": 380
+    },
+    {
+        "name": "TRAINER_COLLECTOR_DEAN",
+        "region": "REGION_ROUTE_214/MAIN",
+        "flag": 1742,
+        "trainer_id": 381
+    },
+    {
+        "name": "TRAINER_COLLECTOR_JAMAL",
+        "region": "REGION_WAYWARD_CAVE_1F/MAIN",
+        "flag": 1743,
+        "trainer_id": 382
+    },
+    {
+        "name": "TRAINER_UNKNOWN_385",
+        "region": "REGION_VICTORY_ROAD_1F_ROOM_2/MAIN",
+        "flag": 1746,
+        "trainer_id": 385
+    },
+    {
+        "name": "TRAINER_UNKNOWN_387",
+        "region": "REGION_IRON_ISLAND_B2F_LEFT_ROOM/MAIN",
+        "flag": 1748,
+        "trainer_id": 387
+    },
+    {
+        "name": "TRAINER_ACE_TRAINER_JONAH",
+        "region": "REGION_VICTORY_ROAD_1F_ROOM_2/MAIN",
+        "flag": 1749,
+        "trainer_id": 388
+    },
+    {
+        "name": "TRAINER_ACE_TRAINER_MICAH",
+        "region": "REGION_VICTORY_ROAD_1F_ROOM_2/MAIN",
+        "flag": 1750,
+        "trainer_id": 389
+    },
+    {
+        "name": "TRAINER_UNKNOWN_391",
+        "region": "REGION_IRON_ISLAND_B2F_LEFT_ROOM/MAIN",
+        "flag": 1752,
+        "trainer_id": 391
+    },
+    {
+        "name": "TRAINER_ACE_TRAINER_BRENDA",
+        "region": "REGION_VICTORY_ROAD_1F_ROOM_2/MAIN",
+        "flag": 1753,
+        "trainer_id": 392
+    },
+    {
+        "name": "TRAINER_ACE_TRAINER_BRANDI",
+        "region": "REGION_VICTORY_ROAD_1F_ROOM_2/MAIN",
+        "flag": 1754,
+        "trainer_id": 393
+    },
+    {
+        "name": "TRAINER_ACE_TRAINER_CLARICE",
+        "region": "REGION_ETERNA_FOREST/MAIN",
+        "flag": 1755,
+        "trainer_id": 394
+    },
+    {
+        "name": "TRAINER_PSYCHIC_KODY",
+        "region": "REGION_VICTORY_ROAD_1F_ROOM_2/MAIN",
+        "flag": 1756,
+        "trainer_id": 395
+    },
+    {
+        "name": "TRAINER_PSYCHIC_LANDON",
+        "region": "REGION_VICTORY_ROAD_1F_ROOM_2/MAIN",
+        "flag": 1757,
+        "trainer_id": 396
+    },
+    {
+        "name": "TRAINER_PSYCHIC_DEANDRE",
+        "region": "REGION_ETERNA_FOREST/MAIN",
+        "flag": 1758,
+        "trainer_id": 397
+    },
+    {
+        "name": "TRAINER_PSYCHIC_RACHAEL",
+        "region": "REGION_VICTORY_ROAD_1F_ROOM_2/MAIN",
+        "flag": 1759,
+        "trainer_id": 398
+    },
+    {
+        "name": "TRAINER_PSYCHIC_DESIREE",
+        "region": "REGION_VICTORY_ROAD_1F_ROOM_2/MAIN",
+        "flag": 1760,
+        "trainer_id": 399
+    },
+    {
+        "name": "TRAINER_PSYCHIC_KENDRA",
+        "region": "REGION_PASTORIA_CITY_GYM/MAIN",
+        "flag": 1761,
+        "trainer_id": 400
+    },
+    {
+        "name": "TRAINER_COMMANDER_SATURN_GALACTIC_HQ",
+        "region": "REGION_TEAM_GALACTIC_ETERNA_BUILDING_1F/MAIN",
+        "flag": 1770,
+        "trainer_id": 409
+    },
+    {
+        "name": "TRAINER_UNKNOWN_411",
+        "region": "REGION_TEAM_GALACTIC_ETERNA_BUILDING_2F/MAIN",
+        "flag": 1772,
+        "trainer_id": 411
+    },
+    {
+        "name": "TRAINER_GALACTIC_GRUNT_CELESTIC_TOWN",
+        "region": "REGION_LAKE_VALOR_DRAINED/MAIN",
+        "flag": 1777,
+        "trainer_id": 416
+    },
+    {
+        "name": "TRAINER_GALACTIC_GRUNT_LAKE_VALOR_1",
+        "region": "REGION_LAKE_VALOR_DRAINED/MAIN",
+        "flag": 1778,
+        "trainer_id": 417
+    },
+    {
+        "name": "TRAINER_GALACTIC_GRUNT_LAKE_VALOR_2",
+        "region": "REGION_LAKE_VERITY/MAIN",
+        "flag": 1779,
+        "trainer_id": 418
+    },
+    {
+        "name": "TRAINER_GALACTIC_GRUNT_LAKE_VERITY_1",
+        "region": "REGION_LAKE_VERITY/MAIN",
+        "flag": 1780,
+        "trainer_id": 419
+    },
+    {
+        "name": "TRAINER_GALACTIC_GRUNT_LAKE_VERITY_3",
+        "region": "REGION_TEAM_GALACTIC_ETERNA_BUILDING_1F/MAIN",
+        "flag": 1781,
+        "trainer_id": 420
+    },
+    {
+        "name": "TRAINER_GALACTIC_GRUNT_TEAM_GALACTIC_ETERNA_BUILDING_1F_2",
+        "region": "REGION_TEAM_GALACTIC_ETERNA_BUILDING_2F/MAIN",
+        "flag": 1782,
+        "trainer_id": 421
+    },
+    {
+        "name": "TRAINER_GALACTIC_GRUNT_TEAM_GALACTIC_ETERNA_BUILDING_2F_2",
+        "region": "REGION_TEAM_GALACTIC_ETERNA_BUILDING_3F/MAIN",
+        "flag": 1783,
+        "trainer_id": 422
+    },
+    {
+        "name": "TRAINER_UNKNOWN_424",
+        "region": "REGION_LAKE_VALOR_DRAINED/MAIN",
+        "flag": 1785,
+        "trainer_id": 424
+    },
+    {
+        "name": "TRAINER_GALACTIC_GRUNT_LAKE_VALOR_3",
+        "region": "REGION_LAKE_VERITY/MAIN",
+        "flag": 1786,
+        "trainer_id": 425
+    },
+    {
+        "name": "TRAINER_GALACTIC_GRUNT_LAKE_VERITY_2",
+        "region": "REGION_LAKE_VERITY/MAIN",
+        "flag": 1787,
+        "trainer_id": 426
+    },
+    {
+        "name": "TRAINER_GALACTIC_GRUNT_LAKE_VERITY_4",
+        "region": "REGION_GALACTIC_HQ_1F/MAIN",
+        "flag": 1788,
+        "trainer_id": 427
+    },
+    {
+        "name": "TRAINER_UNKNOWN_429",
+        "region": "REGION_GALACTIC_HQ_2F/MAIN",
+        "flag": 1790,
+        "trainer_id": 429
+    },
+    {
+        "name": "TRAINER_UNKNOWN_441",
+        "region": "REGION_ROUTE_211_EAST/MAIN",
+        "flag": 1802,
+        "trainer_id": 441
+    },
+    {
+        "name": "TRAINER_RUIN_MANIAC_HARRY",
+        "region": "REGION_WAYWARD_CAVE_1F/MAIN",
+        "flag": 1803,
+        "trainer_id": 442
+    },
+    {
+        "name": "TRAINER_RUIN_MANIAC_GERALD",
+        "region": "REGION_VICTORY_ROAD_1F/MAIN",
+        "flag": 1804,
+        "trainer_id": 443
+    },
+    {
+        "name": "TRAINER_BLACK_BELT_MILES",
+        "region": "REGION_IRON_ISLAND_B2F_LEFT_ROOM/MAIN",
+        "flag": 1805,
+        "trainer_id": 444
+    },
+    {
+        "name": "TRAINER_BLACK_BELT_KENDAL",
+        "region": "REGION_VICTORY_ROAD_1F_ROOM_2/MAIN",
+        "flag": 1806,
+        "trainer_id": 445
+    },
+    {
+        "name": "TRAINER_BLACK_BELT_EDDIE",
+        "region": "REGION_VICTORY_ROAD_1F_ROOM_2/MAIN",
+        "flag": 1807,
+        "trainer_id": 446
+    },
+    {
+        "name": "TRAINER_UNKNOWN_449",
+        "region": "REGION_WAYWARD_CAVE_1F/MAIN",
+        "flag": 1810,
+        "trainer_id": 449
+    },
+    {
+        "name": "TRAINER_LASS_CASSIDY",
+        "region": "REGION_ROUTE_206/MAIN",
+        "flag": 1811,
+        "trainer_id": 450
+    },
+    {
+        "name": "TRAINER_HIKER_THEODORE",
+        "region": "REGION_IRON_ISLAND_B2F_LEFT_ROOM/MAIN",
+        "flag": 1812,
+        "trainer_id": 451
+    },
+    {
+        "name": "TRAINER_HIKER_DAMON",
+        "region": "REGION_IRON_ISLAND_B2F_LEFT_ROOM/MAIN",
+        "flag": 1813,
+        "trainer_id": 452
+    },
+    {
+        "name": "TRAINER_HIKER_MAURICE",
+        "region": "REGION_WAYWARD_CAVE_1F/MAIN",
+        "flag": 1814,
+        "trainer_id": 453
+    },
+    {
+        "name": "TRAINER_HIKER_REGINALD",
+        "region": "REGION_WAYWARD_CAVE_1F/MAIN",
+        "flag": 1815,
+        "trainer_id": 454
+    },
+    {
+        "name": "TRAINER_HIKER_LORENZO",
+        "region": "REGION_ROUTE_205_SOUTH/MAIN",
+        "flag": 1816,
+        "trainer_id": 455
+    },
+    {
+        "name": "TRAINER_PICNICKER_KARINA",
+        "region": "REGION_IRON_ISLAND_B1F_RIGHT_ROOM/MAIN",
+        "flag": 1817,
+        "trainer_id": 456
+    },
+    {
+        "name": "TRAINER_PICNICKER_SUMMER",
+        "region": "REGION_WAYWARD_CAVE_1F/MAIN",
+        "flag": 1818,
+        "trainer_id": 457
+    },
+    {
+        "name": "TRAINER_PICNICKER_TORI",
+        "region": "REGION_WAYWARD_CAVE_1F/MAIN",
+        "flag": 1819,
+        "trainer_id": 458
+    },
+    {
+        "name": "TRAINER_RIVAL_POKEMON_LEAGUE_CHIMCHAR",
+        "region": "REGION_ROUTE_223/MAIN",
+        "flag": 1842,
+        "trainer_id": 481
+    },
+    {
+        "name": "TRAINER_SAILOR_ZACHARIAH",
+        "region": "REGION_PASTORIA_CITY_GYM/MAIN",
+        "flag": 1843,
+        "trainer_id": 482
+    },
+    {
+        "name": "TRAINER_UNKNOWN_485",
+        "region": "REGION_ROUTE_212_SOUTH/MAIN",
+        "flag": 1846,
+        "trainer_id": 485
+    },
+    {
+        "name": "TRAINER_UNKNOWN_487",
+        "region": "REGION_ROUTE_210_SOUTH/MAIN",
+        "flag": 1848,
+        "trainer_id": 487
+    },
+    {
+        "name": "TRAINER_NINJA_BOY_FABIAN",
+        "region": "REGION_ROUTE_210_SOUTH/MAIN",
+        "flag": 1849,
+        "trainer_id": 488
+    },
+    {
+        "name": "TRAINER_NINJA_BOY_BRENNAN",
+        "region": "REGION_ROUTE_210_SOUTH/MAIN",
+        "flag": 1850,
+        "trainer_id": 489
+    },
+    {
+        "name": "TRAINER_NINJA_BOY_BRUCE",
+        "region": "REGION_ROUTE_214/MAIN",
+        "flag": 1851,
+        "trainer_id": 490
+    },
+    {
+        "name": "TRAINER_BEAUTY_DEVON",
+        "region": "REGION_ROUTE_222/MAIN",
+        "flag": 1852,
+        "trainer_id": 491
+    },
+    {
+        "name": "TRAINER_UNKNOWN_493",
+        "region": "REGION_ROUTE_220/MAIN",
+        "flag": 1854,
+        "trainer_id": 493
+    },
+    {
+        "name": "TRAINER_UNKNOWN_495",
+        "region": "REGION_WAYWARD_CAVE_1F/MAIN",
+        "flag": 1856,
+        "trainer_id": 495
+    },
+    {
+        "name": "TRAINER_YOUNGSTER_WAYNE",
+        "region": "REGION_PASTORIA_CITY_GYM/MAIN",
+        "flag": 1857,
+        "trainer_id": 496
+    },
+    {
+        "name": "TRAINER_TUBER_JACKY",
+        "region": "REGION_PASTORIA_CITY_GYM/MAIN",
+        "flag": 1858,
+        "trainer_id": 497
+    },
+    {
+        "name": "TRAINER_TUBER_CAITLYN",
+        "region": "REGION_VICTORY_ROAD_1F_ROOM_2/MAIN",
+        "flag": 1859,
+        "trainer_id": 498
+    },
+    {
+        "name": "TRAINER_VETERAN_TERRELL",
+        "region": "REGION_VICTORY_ROAD_1F_ROOM_2/MAIN",
+        "flag": 1860,
+        "trainer_id": 499
+    },
+    {
+        "name": "TRAINER_UNKNOWN_502",
+        "region": "REGION_IRON_ISLAND_B2F_RIGHT_ROOM/MAIN",
+        "flag": 1863,
+        "trainer_id": 502
+    },
+    {
+        "name": "TRAINER_WORKER_NOEL",
+        "region": "REGION_IRON_ISLAND_B2F_RIGHT_ROOM/MAIN",
+        "flag": 1864,
+        "trainer_id": 503
+    },
+    {
+        "name": "TRAINER_WORKER_BRADEN",
+        "region": "REGION_IRON_ISLAND_B2F_LEFT_ROOM/MAIN",
+        "flag": 1865,
+        "trainer_id": 504
+    },
+    {
+        "name": "TRAINER_WORKER_BRENDON",
+        "region": "REGION_IRON_ISLAND_B2F_LEFT_ROOM/MAIN",
+        "flag": 1866,
+        "trainer_id": 505
+    },
+    {
+        "name": "TRAINER_WORKER_QUENTIN",
+        "region": "REGION_GALACTIC_HQ_B2F/MAIN",
+        "flag": 1867,
+        "trainer_id": 506
+    },
+    {
+        "name": "TRAINER_GALACTIC_GRUNT_GALACTIC_HQ_B2F_1",
+        "region": "REGION_GALACTIC_HQ_B2F/MAIN",
+        "flag": 1868,
+        "trainer_id": 507
+    },
+    {
+        "name": "TRAINER_GALACTIC_GRUNT_GALACTIC_HQ_B2F_2",
+        "region": "REGION_GALACTIC_HQ_3F/MAIN",
+        "flag": 1869,
+        "trainer_id": 508
+    },
+    {
+        "name": "TRAINER_GALACTIC_GRUNT_GALACTIC_HQ_3F_1",
+        "region": "REGION_GALACTIC_HQ_2F/MAIN",
+        "flag": 1870,
+        "trainer_id": 509
+    },
+    {
+        "name": "TRAINER_UNKNOWN_511",
+        "region": "REGION_GALACTIC_HQ_3F/MAIN",
+        "flag": 1872,
+        "trainer_id": 511
+    },
+    {
+        "name": "TRAINER_GALACTIC_GRUNT_GALACTIC_HQ_3F_2",
+        "region": "REGION_GALACTIC_HQ_2F/MAIN",
+        "flag": 1873,
+        "trainer_id": 512
+    },
+    {
+        "name": "TRAINER_GALACTIC_GRUNT_GALACTIC_HQ_2F_2",
+        "region": "REGION_GALACTIC_HQ_3F/MAIN",
+        "flag": 1874,
+        "trainer_id": 513
+    },
+    {
+        "name": "TRAINER_GALACTIC_GRUNT_GALACTIC_HQ_3F_3",
+        "region": "REGION_MT_CORONET_3F/MAIN",
+        "flag": 1875,
+        "trainer_id": 514
+    },
+    {
+        "name": "TRAINER_GALACTIC_GRUNT_MT_CORONET_3F_1",
+        "region": "REGION_MT_CORONET_4F_ROOMS_1_AND_2/MAIN",
+        "flag": 1876,
+        "trainer_id": 515
+    },
+    {
+        "name": "TRAINER_GALACTIC_GRUNT_MT_CORONET_4F_1",
+        "region": "REGION_MT_CORONET_4F_ROOMS_1_AND_2/MAIN",
+        "flag": 1877,
+        "trainer_id": 516
+    },
+    {
+        "name": "TRAINER_GALACTIC_GRUNT_MT_CORONET_4F_2",
+        "region": "REGION_MT_CORONET_1F_TUNNEL_ROOM/MAIN",
+        "flag": 1878,
+        "trainer_id": 517
+    },
+    {
+        "name": "TRAINER_GALACTIC_GRUNT_MT_CORONET_TUNNEL_ROOM_1",
+        "region": "REGION_MT_CORONET_1F_TUNNEL_ROOM/MAIN",
+        "flag": 1879,
+        "trainer_id": 518
+    },
+    {
+        "name": "TRAINER_GALACTIC_GRUNT_MT_CORONET_TUNNEL_ROOM_2",
+        "region": "REGION_MT_CORONET_5F/MAIN",
+        "flag": 1880,
+        "trainer_id": 519
+    },
+    {
+        "name": "TRAINER_GALACTIC_GRUNT_SPEAR_PILLAR_1",
+        "region": "REGION_GALACTIC_HQ_3F/MAIN",
+        "flag": 1882,
+        "trainer_id": 521
+    },
+    {
+        "name": "TRAINER_GALACTIC_GRUNT_GALACTIC_HQ_3F_4",
+        "region": "REGION_MT_CORONET_3F/MAIN",
+        "flag": 1883,
+        "trainer_id": 522
+    },
+    {
+        "name": "TRAINER_GALACTIC_GRUNT_MT_CORONET__3F_1",
+        "region": "REGION_MT_CORONET_1F_TUNNEL_ROOM/MAIN",
+        "flag": 1884,
+        "trainer_id": 523
+    },
+    {
+        "name": "TRAINER_GALACTIC_GRUNT_MT_CORONET_TUNNEL_ROOM_3",
+        "region": "REGION_MT_CORONET_5F/MAIN",
+        "flag": 1885,
+        "trainer_id": 524
+    },
+    {
+        "name": "TRAINER_GALACTIC_GRUNT_MT_CORONET_5F_2",
+        "region": "REGION_MT_CORONET_6F/MAIN",
+        "flag": 1886,
+        "trainer_id": 525
+    },
+    {
+        "name": "TRAINER_COMMANDER_MARS_SPEAR_PILLAR",
+        "region": "REGION_ROUTE_209_LOST_TOWER_3F/MAIN",
+        "flag": 1889,
+        "trainer_id": 528
+    },
+    {
+        "name": "TRAINER_ROUGHNECK_KIRBY",
+        "region": "REGION_ROUTE_209_LOST_TOWER_3F/MAIN",
+        "flag": 1890,
+        "trainer_id": 529
+    },
+    {
+        "name": "TRAINER_POKEFAN_LEONARD",
+        "region": "REGION_ROUTE_209_LOST_TOWER_4F/MAIN",
+        "flag": 1891,
+        "trainer_id": 530
+    },
+    {
+        "name": "TRAINER_POKEFAN_REBEKAH",
+        "region": "REGION_ROUTE_209_LOST_TOWER_2F/MAIN",
+        "flag": 1892,
+        "trainer_id": 531
+    },
+    {
+        "name": "TRAINER_YOUNGSTER_OLIVER",
+        "region": "REGION_ROUTE_209_LOST_TOWER_4F/MAIN",
+        "flag": 1893,
+        "trainer_id": 532
+    },
+    {
+        "name": "TRAINER_YOUNGSTER_OLIVER",
+        "region": "REGION_ROUTE_209_LOST_TOWER_4F/MAIN",
+        "flag": 1893,
+        "trainer_id": 532
+    },
+    {
+        "name": "TRAINER_BELLE_AND_PA_BETH_AND_BOB",
+        "region": "REGION_ROUTE_209_LOST_TOWER_4F/MAIN",
+        "flag": 1894,
+        "trainer_id": 533
+    },
+    {
+        "name": "TRAINER_BELLE_AND_PA_BETH_AND_BOB",
+        "region": "REGION_ROUTE_209_LOST_TOWER_4F/MAIN",
+        "flag": 1894,
+        "trainer_id": 533
+    },
+    {
+        "name": "TRAINER_VETERAN_EMANUEL",
+        "region": "REGION_SOLACEON_RUINS_ROOM_3/MAIN",
+        "flag": 1913,
+        "trainer_id": 552
+    },
+    {
+        "name": "TRAINER_RUIN_MANIAC_KARL",
+        "region": "REGION_ROUTE_225/MAIN",
+        "flag": 1914,
+        "trainer_id": 553
+    },
+    {
+        "name": "TRAINER_BIRD_KEEPER_AUDREY",
+        "region": "REGION_ROUTE_226/MAIN",
+        "flag": 1915,
+        "trainer_id": 554
+    },
+    {
+        "name": "TRAINER_BIRD_KEEPER_GENEVA",
+        "region": "REGION_STARK_MOUNTAIN_ROOM_2/MAIN",
+        "flag": 1916,
+        "trainer_id": 555
+    },
+    {
+        "name": "TRAINER_BIRD_KEEPER_KRYSTAL",
+        "region": "REGION_ROUTE_225/MAIN",
+        "flag": 1917,
+        "trainer_id": 556
+    },
+    {
+        "name": "TRAINER_DRAGON_TAMER_GEOFFREY",
+        "region": "REGION_STARK_MOUNTAIN_OUTSIDE/MAIN",
+        "flag": 1918,
+        "trainer_id": 557
+    },
+    {
+        "name": "TRAINER_DRAGON_TAMER_DARIEN",
+        "region": "REGION_ROUTE_228/MAIN",
+        "flag": 1919,
+        "trainer_id": 558
+    },
+    {
+        "name": "TRAINER_DRAGON_TAMER_KEEGAN",
+        "region": "REGION_ROUTE_226/MAIN",
+        "flag": 1920,
+        "trainer_id": 559
+    },
+    {
+        "name": "TRAINER_DRAGON_TAMER_STANLEY",
+        "region": "REGION_STARK_MOUNTAIN_ROOM_2/MAIN",
+        "flag": 1921,
+        "trainer_id": 560
+    },
+    {
+        "name": "TRAINER_DRAGON_TAMER_DRAKE",
+        "region": "REGION_STARK_MOUNTAIN_ROOM_2/MAIN",
+        "flag": 1922,
+        "trainer_id": 561
+    },
+    {
+        "name": "TRAINER_DRAGON_TAMER_KENNY",
+        "region": "REGION_ROUTE_225/MAIN",
+        "flag": 1923,
+        "trainer_id": 562
+    },
+    {
+        "name": "TRAINER_ACE_TRAINER_RODOLFO",
+        "region": "REGION_ROUTE_227/MAIN",
+        "flag": 1924,
+        "trainer_id": 563
+    },
+    {
+        "name": "TRAINER_ACE_TRAINER_SAUL",
+        "region": "REGION_ROUTE_228/MAIN",
+        "flag": 1925,
+        "trainer_id": 564
+    },
+    {
+        "name": "TRAINER_ACE_TRAINER_JOSE",
+        "region": "REGION_ROUTE_229/MAIN",
+        "flag": 1926,
+        "trainer_id": 565
+    },
+    {
+        "name": "TRAINER_ACE_TRAINER_FELIX",
+        "region": "REGION_ROUTE_225/MAIN",
+        "flag": 1927,
+        "trainer_id": 566
+    },
+    {
+        "name": "TRAINER_ACE_TRAINER_QUINN",
+        "region": "REGION_ROUTE_226/MAIN",
+        "flag": 1928,
+        "trainer_id": 567
+    },
+    {
+        "name": "TRAINER_ACE_TRAINER_GRAHAM",
+        "region": "REGION_STARK_MOUNTAIN_ROOM_2/MAIN",
+        "flag": 1929,
+        "trainer_id": 568
+    },
+    {
+        "name": "TRAINER_ACE_TRAINER_KEENAN",
+        "region": "REGION_STARK_MOUNTAIN_ROOM_2/MAIN",
+        "flag": 1930,
+        "trainer_id": 569
+    },
+    {
+        "name": "TRAINER_ACE_TRAINER_STEFAN",
+        "region": "REGION_STARK_MOUNTAIN_ROOM_2/MAIN",
+        "flag": 1931,
+        "trainer_id": 570
+    },
+    {
+        "name": "TRAINER_ACE_TRAINER_SKYLAR",
+        "region": "REGION_STARK_MOUNTAIN_ROOM_2/MAIN",
+        "flag": 1932,
+        "trainer_id": 571
+    },
+    {
+        "name": "TRAINER_ACE_TRAINER_ABEL",
+        "region": "REGION_ROUTE_225/MAIN",
+        "flag": 1933,
+        "trainer_id": 572
+    },
+    {
+        "name": "TRAINER_ACE_TRAINER_DEANNA",
+        "region": "REGION_ROUTE_228/MAIN",
+        "flag": 1934,
+        "trainer_id": 573
+    },
+    {
+        "name": "TRAINER_ACE_TRAINER_MOIRA",
+        "region": "REGION_ROUTE_229/MAIN",
+        "flag": 1935,
+        "trainer_id": 574
+    },
+    {
+        "name": "TRAINER_ACE_TRAINER_DANA",
+        "region": "REGION_ROUTE_227/MAIN",
+        "flag": 1936,
+        "trainer_id": 575
+    },
+    {
+        "name": "TRAINER_ACE_TRAINER_MIKAYLA",
+        "region": "REGION_ROUTE_228/MAIN",
+        "flag": 1937,
+        "trainer_id": 576
+    },
+    {
+        "name": "TRAINER_ACE_TRAINER_MEAGAN",
+        "region": "REGION_ROUTE_229/MAIN",
+        "flag": 1938,
+        "trainer_id": 577
+    },
+    {
+        "name": "TRAINER_ACE_TRAINER_SANDRA",
+        "region": "REGION_STARK_MOUNTAIN_ROOM_2/MAIN",
+        "flag": 1939,
+        "trainer_id": 578
+    },
+    {
+        "name": "TRAINER_ACE_TRAINER_KASSANDRA",
+        "region": "REGION_STARK_MOUNTAIN_ROOM_2/MAIN",
+        "flag": 1940,
+        "trainer_id": 579
+    },
+    {
+        "name": "TRAINER_ACE_TRAINER_JASMIN",
+        "region": "REGION_STARK_MOUNTAIN_ROOM_2/MAIN",
+        "flag": 1941,
+        "trainer_id": 580
+    },
+    {
+        "name": "TRAINER_ACE_TRAINER_NATASHA",
+        "region": "REGION_STARK_MOUNTAIN_ROOM_2/MAIN",
+        "flag": 1942,
+        "trainer_id": 581
+    },
+    {
+        "name": "TRAINER_ACE_TRAINER_MONIQUE",
+        "region": "REGION_ROUTE_228/MAIN",
+        "flag": 1943,
+        "trainer_id": 582
+    },
+    {
+        "name": "TRAINER_PSYCHIC_CORBIN",
+        "region": "REGION_STARK_MOUNTAIN_ROOM_2/MAIN",
+        "flag": 1944,
+        "trainer_id": 583
+    },
+    {
+        "name": "TRAINER_PSYCHIC_STERLING",
+        "region": "REGION_ROUTE_225/MAIN",
+        "flag": 1945,
+        "trainer_id": 584
+    },
+    {
+        "name": "TRAINER_PSYCHIC_DAISY",
+        "region": "REGION_STARK_MOUNTAIN_ROOM_2/MAIN",
+        "flag": 1946,
+        "trainer_id": 585
+    },
+    {
+        "name": "TRAINER_PSYCHIC_CHELSEY",
+        "region": "REGION_ROUTE_228/MAIN",
+        "flag": 1947,
+        "trainer_id": 586
+    },
+    {
+        "name": "TRAINER_BLACK_BELT_DAVON",
+        "region": "REGION_ROUTE_227/MAIN",
+        "flag": 1948,
+        "trainer_id": 587
+    },
+    {
+        "name": "TRAINER_BLACK_BELT_GRIFFIN",
+        "region": "REGION_STARK_MOUNTAIN_ROOM_2/MAIN",
+        "flag": 1949,
+        "trainer_id": 588
+    },
+    {
+        "name": "TRAINER_BLACK_BELT_RAY",
+        "region": "REGION_STARK_MOUNTAIN_ROOM_2/MAIN",
+        "flag": 1950,
+        "trainer_id": 589
+    },
+    {
+        "name": "TRAINER_BLACK_BELT_JARRETT",
+        "region": "REGION_ROUTE_228/MAIN",
+        "flag": 1951,
+        "trainer_id": 590
+    },
+    {
+        "name": "TRAINER_RANGER_KYLER",
+        "region": "REGION_ROUTE_229/MAIN",
+        "flag": 1952,
+        "trainer_id": 591
+    },
+    {
+        "name": "TRAINER_RANGER_DESHAWN",
+        "region": "REGION_ROUTE_225/MAIN",
+        "flag": 1953,
+        "trainer_id": 592
+    },
+    {
+        "name": "TRAINER_RANGER_DWAYNE",
+        "region": "REGION_ROUTE_225/MAIN",
+        "flag": 1954,
+        "trainer_id": 593
+    },
+    {
+        "name": "TRAINER_RANGER_ASHLEE",
+        "region": "REGION_ROUTE_227/MAIN",
+        "flag": 1955,
+        "trainer_id": 594
+    },
+    {
+        "name": "TRAINER_RANGER_FELICIA",
+        "region": "REGION_ROUTE_228/MAIN",
+        "flag": 1956,
+        "trainer_id": 595
+    },
+    {
+        "name": "TRAINER_RANGER_KRISTA",
+        "region": "REGION_ROUTE_230/MAIN",
+        "flag": 1957,
+        "trainer_id": 596
+    },
+    {
+        "name": "TRAINER_SWIMMER_GLENN",
+        "region": "REGION_ROUTE_230/MAIN",
+        "flag": 1958,
+        "trainer_id": 597
+    },
+    {
+        "name": "TRAINER_SWIMMER_KURT",
+        "region": "REGION_ROUTE_230/MAIN",
+        "flag": 1959,
+        "trainer_id": 598
+    },
+    {
+        "name": "TRAINER_SWIMMER_SAM",
+        "region": "REGION_ROUTE_226/MAIN",
+        "flag": 1960,
+        "trainer_id": 599
+    },
+    {
+        "name": "TRAINER_SWIMMER_WADE",
+        "region": "REGION_ROUTE_230/MAIN",
+        "flag": 1961,
+        "trainer_id": 600
+    },
+    {
+        "name": "TRAINER_SWIMMER_JOANNA",
+        "region": "REGION_ROUTE_230/MAIN",
+        "flag": 1962,
+        "trainer_id": 601
+    },
+    {
+        "name": "TRAINER_SWIMMER_SOPHIA",
+        "region": "REGION_ROUTE_230/MAIN",
+        "flag": 1963,
+        "trainer_id": 602
+    },
+    {
+        "name": "TRAINER_SWIMMER_MALLORY",
+        "region": "REGION_ROUTE_226/MAIN",
+        "flag": 1964,
+        "trainer_id": 603
+    },
+    {
+        "name": "TRAINER_UNKNOWN_605",
+        "region": "REGION_STARK_MOUNTAIN_ROOM_2/MAIN",
+        "flag": 1966,
+        "trainer_id": 605
+    },
+    {
+        "name": "TRAINER_UNKNOWN_828",
+        "region": "REGION_SNOWPOINT_CITY_GYM/MAIN",
+        "flag": 2187,
+        "trainer_id": 826
+    },
+    {
+        "name": "TRAINER_ACE_TRAINER_ANTON",
+        "region": "REGION_SNOWPOINT_CITY_GYM/MAIN",
+        "flag": 2188,
+        "trainer_id": 827
+    },
+    {
+        "name": "TRAINER_ACE_TRAINER_BRENNA",
+        "region": "REGION_GALACTIC_HQ_2F/MAIN",
+        "flag": 2189,
+        "trainer_id": 828
+    },
+    {
+        "name": "TRAINER_SCIENTIST_DARRIUS",
+        "region": "REGION_GALACTIC_HQ_1F/MAIN",
+        "flag": 2190,
+        "trainer_id": 829
+    },
+    {
+        "name": "TRAINER_SCIENTIST_FREDRICK",
+        "region": "REGION_TEAM_GALACTIC_ETERNA_BUILDING_3F/MAIN",
+        "flag": 2191,
+        "trainer_id": 830
+    },
+    {
+        "name": "TRAINER_SCIENTIST_TRAVON",
+        "region": "REGION_ROUTE_222_WEST_HOUSE/MAIN",
+        "flag": 2192,
+        "trainer_id": 831
+    },
+    {
+        "name": "TRAINER_GALACTIC_GRUNT_VALLEY_WINDWORKS_1",
+        "region": "REGION_FUEGO_IRONWORKS_BUILDING/MAIN",
+        "flag": 2204,
+        "trainer_id": 843
+    },
+    {
+        "name": "TRAINER_WORKER_DILLAN",
+        "region": "REGION_FUEGO_IRONWORKS_BUILDING/MAIN",
+        "flag": 2205,
+        "trainer_id": 844
+    },
+    {
+        "name": "TRAINER_WORKER_HOLDEN",
+        "region": "REGION_FUEGO_IRONWORKS_BUILDING/MAIN",
+        "flag": 2206,
+        "trainer_id": 845
+    }
+]
